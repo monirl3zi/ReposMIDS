@@ -1,4 +1,4 @@
-# Projet: Knowledge graphs et raisonnement
+# Projet: Knowledge graphs 
 
 Retrieval of two different datasets (from DBpedia and GeoNames) via a SPARQL endpoint and an API, respectively, and their integration in .ttl / .rdf format.
 
