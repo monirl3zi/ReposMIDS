@@ -1,0 +1,16 @@
+PREFIX ns1: <http://www.geonames.org/ontology#>
+PREFIX ns2: <http://dbpedia.org/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+## return les villes qui n'ont pas de monument
+SELECT ?cityName
+WHERE {
+  ?city a ns2:City ;
+        rdfs:label ?cityName .
+  MINUS {
+    ?monument a ns2:Monument ;
+              ns2:location ?city .
+  }
+}
+

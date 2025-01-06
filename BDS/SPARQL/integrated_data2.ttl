@@ -1,0 +1,5798 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix ns2: <http://www.geonames.org/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/'s-Heerenberg> a ns1:City ;
+    rdfs:label "'s-Heerenberg"@en ;
+    ns1:populationTotal 8635 .
+
+<http://dbpedia.org/resource/'s-Hertogenbosch> a ns1:City ;
+    rdfs:label "'s-Hertogenbosch"@en ;
+    ns1:populationTotal 157486 .
+
+<http://dbpedia.org/resource/61st_Battery_Royal_Field_Artillery_Boer_War_Memorial> a ns1:Monument ;
+    rdfs:label "61st Battery Royal Field Artillery Boer War Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/A_Coruña> a ns1:City ;
+    rdfs:label "A Coruña"@en ;
+    ns1:populationTotal 247604 .
+
+<http://dbpedia.org/resource/Aardenburg> a ns1:City ;
+    rdfs:label "Aardenburg"@en ;
+    ns1:populationTotal 2520 .
+
+<http://dbpedia.org/resource/Aarschot> a ns1:City ;
+    rdfs:label "Aarschot"@en .
+
+<http://dbpedia.org/resource/Abbekerk> a ns1:City ;
+    rdfs:label "Abbekerk"@en ;
+    ns1:populationTotal 2070 .
+
+<http://dbpedia.org/resource/Aberdeen> a ns1:City ;
+    rdfs:label "Aberdeen"@en .
+
+<http://dbpedia.org/resource/Abrantes_(Madrid)> a ns1:City ;
+    rdfs:label "Abrantes (Madrid)"@en ;
+    ns1:populationTotal 32145 .
+
+<http://dbpedia.org/resource/Acireale> a ns1:City ;
+    rdfs:label "Acireale"@en ;
+    ns1:populationTotal 52591 .
+
+<http://dbpedia.org/resource/Acquapendente> a ns1:City ;
+    rdfs:label "Acquapendente"@en ;
+    ns1:populationTotal 5428 .
+
+<http://dbpedia.org/resource/Acqui_Terme> a ns1:City ;
+    rdfs:label "Acqui Terme"@en ;
+    ns1:populationTotal 19961 .
+
+<http://dbpedia.org/resource/Adam_Mickiewicz_Monument,_Warsaw> a ns1:Monument ;
+    rdfs:label "Adam Mickiewicz Monument, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Adamuz> a ns1:City ;
+    rdfs:label "Adamuz"@en .
+
+<http://dbpedia.org/resource/Adelfas> a ns1:City ;
+    rdfs:label "Adelfas"@en ;
+    ns1:populationTotal 18886 .
+
+<http://dbpedia.org/resource/Afragola> a ns1:City ;
+    rdfs:label "Afragola"@en ;
+    ns1:populationTotal 64470 .
+
+<http://dbpedia.org/resource/Agrigento> a ns1:City ;
+    rdfs:label "Agrigento"@en ;
+    ns1:populationTotal 59791 .
+
+<http://dbpedia.org/resource/Agrinio> a ns1:City ;
+    rdfs:label "Agrinio"@en .
+
+<http://dbpedia.org/resource/Agualva-Cacém> a ns1:City ;
+    rdfs:label "Agualva-Cacém"@en ;
+    ns1:populationTotal 81845 .
+
+<http://dbpedia.org/resource/Ajka> a ns1:City ;
+    rdfs:label "Ajka"@en ;
+    ns1:populationTotal 29058 .
+
+<http://dbpedia.org/resource/Al_pueblo_del_dos_de_mayo_de_1808> a ns1:Monument ;
+    rdfs:label "Al pueblo del dos de mayo de 1808"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Alamedilla> a ns1:City ;
+    rdfs:label "Alamedilla"@en .
+
+<http://dbpedia.org/resource/Alba_Iulia> a ns1:City ;
+    rdfs:label "Alba Iulia"@en ;
+    ns1:populationTotal 63536 .
+
+<http://dbpedia.org/resource/Albacete> a ns1:City ;
+    rdfs:label "Albacete"@en .
+
+<http://dbpedia.org/resource/Albalá> a ns1:City ;
+    rdfs:label "Albalá"@en .
+
+<http://dbpedia.org/resource/Albanchez_de_Mágina> a ns1:City ;
+    rdfs:label "Albanchez de Mágina"@en .
+
+<http://dbpedia.org/resource/Albenga> a ns1:City ;
+    rdfs:label "Albenga"@en ;
+    ns1:populationTotal 24378 .
+
+<http://dbpedia.org/resource/Albert_Memorial> a ns1:Monument ;
+    rdfs:label "Albert Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Albolote> a ns1:City ;
+    rdfs:label "Albolote"@en .
+
+<http://dbpedia.org/resource/Albufeira> a ns1:City ;
+    rdfs:label "Albufeira"@en .
+
+<http://dbpedia.org/resource/Albuñol> a ns1:City ;
+    rdfs:label "Albuñol"@en .
+
+<http://dbpedia.org/resource/Albuñán> a ns1:City ;
+    rdfs:label "Albuñán"@en .
+
+<http://dbpedia.org/resource/Alcalá_de_Henares> a ns1:City ;
+    rdfs:label "Alcalá de Henares"@en .
+
+<http://dbpedia.org/resource/Alcalá_de_los_Gazules> a ns1:City ;
+    rdfs:label "Alcalá de los Gazules"@en .
+
+<http://dbpedia.org/resource/Alcalá_del_Valle> a ns1:City ;
+    rdfs:label "Alcalá del Valle"@en .
+
+<http://dbpedia.org/resource/Alcalá_la_Real> a ns1:City ;
+    rdfs:label "Alcalá la Real"@en .
+
+<http://dbpedia.org/resource/Alcaracejos> a ns1:City ;
+    rdfs:label "Alcaracejos"@en .
+
+<http://dbpedia.org/resource/Alcaudete> a ns1:City ;
+    rdfs:label "Alcaudete"@en .
+
+<http://dbpedia.org/resource/Alcobaça,_Portugal> a ns1:City ;
+    rdfs:label "Alcobaça, Portugal"@en .
+
+<http://dbpedia.org/resource/Alcobendas> a ns1:City ;
+    rdfs:label "Alcobendas"@en .
+
+<http://dbpedia.org/resource/Alcollarín> a ns1:City ;
+    rdfs:label "Alcollarín"@en .
+
+<http://dbpedia.org/resource/Alcorcón> a ns1:City ;
+    rdfs:label "Alcorcón"@en ;
+    ns1:populationTotal 172384 .
+
+<http://dbpedia.org/resource/Aldeaquemada> a ns1:City ;
+    rdfs:label "Aldeaquemada"@en .
+
+<http://dbpedia.org/resource/Aldeire> a ns1:City ;
+    rdfs:label "Aldeire"@en .
+
+<http://dbpedia.org/resource/Aleksander_Fredro_Monument_in_Wrocław> a ns1:Monument ;
+    rdfs:label "Aleksander Fredro Monument in Wrocław"@en ;
+    ns1:location <http://dbpedia.org/resource/Wrocław> .
+
+<http://dbpedia.org/resource/Alessandria> a ns1:City ;
+    rdfs:label "Alessandria"@en ;
+    ns1:populationTotal 92104 .
+
+<http://dbpedia.org/resource/Alfalfa,_Seville> a ns1:City ;
+    rdfs:label "Alfalfa, Seville"@en ;
+    ns1:populationTotal 4197 .
+
+<http://dbpedia.org/resource/Alfena> a ns1:City ;
+    rdfs:label "Alfena"@en .
+
+<http://dbpedia.org/resource/Algarinejo> a ns1:City ;
+    rdfs:label "Algarinejo"@en .
+
+<http://dbpedia.org/resource/Algodonales> a ns1:City ;
+    rdfs:label "Algodonales"@en .
+
+<http://dbpedia.org/resource/Alhendín> a ns1:City ;
+    rdfs:label "Alhendín"@en .
+
+<http://dbpedia.org/resource/Alicante> a ns1:City ;
+    rdfs:label "Alicante"@en ;
+    ns1:populationTotal 337482 .
+
+<http://dbpedia.org/resource/Alicún_de_Ortega> a ns1:City ;
+    rdfs:label "Alicún de Ortega"@en .
+
+<http://dbpedia.org/resource/Alkmaar> a ns1:City ;
+    rdfs:label "Alkmaar"@en ;
+    ns1:populationTotal 109896 .
+
+<http://dbpedia.org/resource/Almada> a ns1:City ;
+    rdfs:label "Almada"@en .
+
+<http://dbpedia.org/resource/Almedinilla> a ns1:City ;
+    rdfs:label "Almedinilla"@en .
+
+<http://dbpedia.org/resource/Almeirim> a ns1:City ;
+    rdfs:label "Almeirim"@en .
+
+<http://dbpedia.org/resource/Almelo> a ns1:City ;
+    rdfs:label "Almelo"@en .
+
+<http://dbpedia.org/resource/Almere> a ns1:City ;
+    rdfs:label "Almere"@en .
+
+<http://dbpedia.org/resource/Almere_Buiten> a ns1:City ;
+    rdfs:label "Almere Buiten"@en ;
+    ns1:populationTotal 56040 .
+
+<http://dbpedia.org/resource/Almería> a ns1:City ;
+    rdfs:label "Almería"@en .
+
+<http://dbpedia.org/resource/Almodóvar_del_Río> a ns1:City ;
+    rdfs:label "Almodóvar del Río"@en .
+
+<http://dbpedia.org/resource/Alphen_aan_den_Rijn> a ns1:City ;
+    rdfs:label "Alphen aan den Rijn"@en .
+
+<http://dbpedia.org/resource/Altamura> a ns1:City ;
+    rdfs:label "Altamura"@en ;
+    ns1:populationTotal 70539 .
+
+<http://dbpedia.org/resource/Alverca_do_Ribatejo> a ns1:City ;
+    rdfs:label "Alverca do Ribatejo"@en .
+
+<http://dbpedia.org/resource/Amersfoort> a ns1:City ;
+    rdfs:label "Amersfoort"@en .
+
+<http://dbpedia.org/resource/Amiens> a ns1:City ;
+    rdfs:label "Amiens"@en .
+
+<http://dbpedia.org/resource/Amposta_(Madrid)> a ns1:City ;
+    rdfs:label "Amposta (Madrid)"@en ;
+    ns1:populationTotal 8971 .
+
+<http://dbpedia.org/resource/Anadia,_Portugal> a ns1:City ;
+    rdfs:label "Anadia, Portugal"@en .
+
+<http://dbpedia.org/resource/Ancona> a ns1:City ;
+    rdfs:label "Ancona"@en ;
+    ns1:populationTotal 101300 .
+
+<http://dbpedia.org/resource/Andria> a ns1:City ;
+    rdfs:label "Andria"@en ;
+    ns1:populationTotal 99784 .
+
+<http://dbpedia.org/resource/Angers> a ns1:City ;
+    rdfs:label "Angers"@en .
+
+<http://dbpedia.org/resource/Annecy> a ns1:City ;
+    rdfs:label "Annecy"@en .
+
+<http://dbpedia.org/resource/Antequera> a ns1:City ;
+    rdfs:label "Antequera"@en .
+
+<http://dbpedia.org/resource/Antwerp> a ns1:City ;
+    rdfs:label "Antwerp"@en .
+
+<http://dbpedia.org/resource/Anzio> a ns1:City ;
+    rdfs:label "Anzio"@en ;
+    ns1:populationTotal 60500 .
+
+<http://dbpedia.org/resource/Aosta> a ns1:City ;
+    rdfs:label "Aosta"@en ;
+    ns1:populationTotal 34800 .
+
+<http://dbpedia.org/resource/Apeldoorn> a ns1:City ;
+    rdfs:label "Apeldoorn"@en .
+
+<http://dbpedia.org/resource/Appingedam> a ns1:City ;
+    rdfs:label "Appingedam"@en .
+
+<http://dbpedia.org/resource/Aquileia> a ns1:City ;
+    rdfs:label "Aquileia"@en ;
+    ns1:populationTotal 3302 .
+
+<http://dbpedia.org/resource/Aranda_de_Duero> a ns1:City ;
+    rdfs:label "Aranda de Duero"@en ;
+    ns1:populationTotal 33187 .
+
+<http://dbpedia.org/resource/Arcos_(Madrid)> a ns1:City ;
+    rdfs:label "Arcos (Madrid)"@en ;
+    ns1:populationTotal 24902 .
+
+<http://dbpedia.org/resource/Arenas_del_Rey> a ns1:City ;
+    rdfs:label "Arenas del Rey"@en .
+
+<http://dbpedia.org/resource/Ares,_Spain> a ns1:City ;
+    rdfs:label "Ares, Spain"@en .
+
+<http://dbpedia.org/resource/Arezzo> a ns1:City ;
+    rdfs:label "Arezzo"@en ;
+    ns1:populationTotal 100734 .
+
+<http://dbpedia.org/resource/Arjonilla> a ns1:City ;
+    rdfs:label "Arjonilla"@en .
+
+<http://dbpedia.org/resource/Arles> a ns1:City ;
+    rdfs:label "Arles"@en .
+
+<http://dbpedia.org/resource/Arnemuiden> a ns1:City ;
+    rdfs:label "Arnemuiden"@en ;
+    ns1:populationTotal 5075 .
+
+<http://dbpedia.org/resource/Arnhem> a ns1:City ;
+    rdfs:label "Arnhem"@en .
+
+<http://dbpedia.org/resource/Arquillos> a ns1:City ;
+    rdfs:label "Arquillos"@en .
+
+<http://dbpedia.org/resource/Arta,_Greece> a ns1:City ;
+    rdfs:label "Arta, Greece"@en .
+
+<http://dbpedia.org/resource/As_Somozas> a ns1:City ;
+    rdfs:label "As Somozas"@en ;
+    ns1:populationTotal 1382 .
+
+<http://dbpedia.org/resource/Asperen> a ns1:City ;
+    rdfs:label "Asperen"@en ;
+    ns1:populationTotal 3205 .
+
+<http://dbpedia.org/resource/Assen> a ns1:City ;
+    rdfs:label "Assen"@en .
+
+<http://dbpedia.org/resource/Asti> a ns1:City ;
+    rdfs:label "Asti"@en ;
+    ns1:populationTotal 74348 .
+
+<http://dbpedia.org/resource/Atarfe> a ns1:City ;
+    rdfs:label "Atarfe"@en .
+
+<http://dbpedia.org/resource/Athens> a ns1:City ;
+    rdfs:label "Athens"@en ;
+    ns1:populationTotal 637798 ;
+    owl:sameAs <http://sws.geonames.org/264371/> .
+
+<http://dbpedia.org/resource/Athus> a ns1:City ;
+    rdfs:label "Athus"@en ;
+    ns1:populationTotal 7227 .
+
+<http://dbpedia.org/resource/Augustów> a ns1:City ;
+    rdfs:label "Augustów"@en ;
+    ns1:populationTotal 29729 .
+
+<http://dbpedia.org/resource/Aveiro,_Portugal> a ns1:City ;
+    rdfs:label "Aveiro, Portugal"@en .
+
+<http://dbpedia.org/resource/Avella> a ns1:City ;
+    rdfs:label "Avella"@en .
+
+<http://dbpedia.org/resource/Aversa> a ns1:City ;
+    rdfs:label "Aversa"@en ;
+    ns1:populationTotal 52974 .
+
+<http://dbpedia.org/resource/Avezzano> a ns1:City ;
+    rdfs:label "Avezzano"@en ;
+    ns1:populationTotal 40705 .
+
+<http://dbpedia.org/resource/Aviator_Monument_(Warsaw)> a ns1:Monument ;
+    rdfs:label "Aviator Monument (Warsaw)"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Avilés> a ns1:City ;
+    rdfs:label "Avilés"@en .
+
+<http://dbpedia.org/resource/Avola> a ns1:City ;
+    rdfs:label "Avola"@en ;
+    ns1:populationTotal 31407 .
+
+<http://dbpedia.org/resource/Axel,_Netherlands> a ns1:City ;
+    rdfs:label "Axel, Netherlands"@en ;
+    ns1:populationTotal 7880 .
+
+<http://dbpedia.org/resource/Aznalcázar> a ns1:City ;
+    rdfs:label "Aznalcázar"@en .
+
+<http://dbpedia.org/resource/Aznalcóllar> a ns1:City ;
+    rdfs:label "Aznalcóllar"@en .
+
+<http://dbpedia.org/resource/Añora> a ns1:City ;
+    rdfs:label "Añora"@en .
+
+<http://dbpedia.org/resource/Badolatosa> a ns1:City ;
+    rdfs:label "Badolatosa"@en .
+
+<http://dbpedia.org/resource/Baja,_Hungary> a ns1:City ;
+    rdfs:label "Baja, Hungary"@en ;
+    ns1:populationTotal 34495 .
+
+<http://dbpedia.org/resource/Bali_Bombings_Memorial,_London> a ns1:Monument ;
+    rdfs:label "Bali Bombings Memorial, London"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Balvano> a ns1:City ;
+    rdfs:label "Balvano"@en ;
+    ns1:populationTotal 1938 .
+
+<http://dbpedia.org/resource/Bangor,_Gwynedd> a ns1:City ;
+    rdfs:label "Bangor, Gwynedd"@en ;
+    ns1:populationTotal 18322 .
+
+<http://dbpedia.org/resource/Banyoles> a ns1:City ;
+    rdfs:label "Banyoles"@en .
+
+<http://dbpedia.org/resource/Barakaldo> a ns1:City ;
+    rdfs:label "Barakaldo"@en .
+
+<http://dbpedia.org/resource/Barcelos,_Portugal> a ns1:City ;
+    rdfs:label "Barcelos, Portugal"@en .
+
+<http://dbpedia.org/resource/Bari> a ns1:City ;
+    rdfs:label "Bari"@en ;
+    ns1:populationTotal 316491 .
+
+<http://dbpedia.org/resource/Barletta> a ns1:City ;
+    rdfs:label "Barletta"@en ;
+    ns1:populationTotal 94477 .
+
+<http://dbpedia.org/resource/Barnet_Boys_School_Boer_War_Memorial> a ns1:Monument ;
+    rdfs:label "Barnet Boys School Boer War Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Barsingerhorn> a ns1:City ;
+    rdfs:label "Barsingerhorn"@en ;
+    ns1:populationTotal 925 .
+
+<http://dbpedia.org/resource/Basingstoke> a ns1:City ;
+    rdfs:label "Basingstoke"@en ;
+    ns1:populationTotal 113776 .
+
+<http://dbpedia.org/resource/Bassano_del_Grappa> a ns1:City ;
+    rdfs:label "Bassano del Grappa"@en ;
+    ns1:populationTotal 43412 .
+
+<http://dbpedia.org/resource/Batenburg> a ns1:City ;
+    rdfs:label "Batenburg"@en ;
+    ns1:populationTotal 650 .
+
+<http://dbpedia.org/resource/Bath,_Somerset> a ns1:City ;
+    rdfs:label "Bath, Somerset"@en ;
+    ns1:populationTotal 101557 .
+
+<http://dbpedia.org/resource/Battle_of_Britain_Monument,_London> a ns1:Monument ;
+    rdfs:label "Battle of Britain Monument, London"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Baños_de_la_Encina> a ns1:City ;
+    rdfs:label "Baños de la Encina"@en .
+
+<http://dbpedia.org/resource/Beas_de_Guadix> a ns1:City ;
+    rdfs:label "Beas de Guadix"@en .
+
+<http://dbpedia.org/resource/Beauvais> a ns1:City ;
+    rdfs:label "Beauvais"@en .
+
+<http://dbpedia.org/resource/Bedmar_y_Garcíez> a ns1:City ;
+    rdfs:label "Bedmar y Garcíez"@en .
+
+<http://dbpedia.org/resource/Begíjar> a ns1:City ;
+    rdfs:label "Begíjar"@en .
+
+<http://dbpedia.org/resource/Beja,_Portugal> a ns1:City ;
+    rdfs:label "Beja, Portugal"@en .
+
+<http://dbpedia.org/resource/Belalcázar,_Spain> a ns1:City ;
+    rdfs:label "Belalcázar, Spain"@en .
+
+<http://dbpedia.org/resource/Belfast> a ns1:City ;
+    rdfs:label "Belfast"@en .
+
+<http://dbpedia.org/resource/Belfort> a ns1:City ;
+    rdfs:label "Belfort"@en .
+
+<http://dbpedia.org/resource/Bellas_Vistas> a ns1:City ;
+    rdfs:label "Bellas Vistas"@en ;
+    ns1:populationTotal 29993 .
+
+<http://dbpedia.org/resource/Belmez,_Córdoba> a ns1:City ;
+    rdfs:label "Belmez, Córdoba"@en .
+
+<http://dbpedia.org/resource/Belém_Tower> a ns1:Monument ;
+    rdfs:label "Belém Tower"@en ;
+    ns1:location <http://dbpedia.org/resource/Lisbon> .
+
+<http://dbpedia.org/resource/Benacazón> a ns1:City ;
+    rdfs:label "Benacazón"@en .
+
+<http://dbpedia.org/resource/Benalup-Casas_Viejas> a ns1:City ;
+    rdfs:label "Benalup-Casas Viejas"@en .
+
+<http://dbpedia.org/resource/Benalúa> a ns1:City ;
+    rdfs:label "Benalúa"@en .
+
+<http://dbpedia.org/resource/Benalúa_de_las_Villas> a ns1:City ;
+    rdfs:label "Benalúa de las Villas"@en .
+
+<http://dbpedia.org/resource/Benamejí> a ns1:City ;
+    rdfs:label "Benamejí"@en .
+
+<http://dbpedia.org/resource/Benarrabá> a ns1:City ;
+    rdfs:label "Benarrabá"@en .
+
+<http://dbpedia.org/resource/Benatae> a ns1:City ;
+    rdfs:label "Benatae"@en .
+
+<http://dbpedia.org/resource/Benevento> a ns1:City ;
+    rdfs:label "Benevento"@en ;
+    ns1:populationTotal 58418 .
+
+<http://dbpedia.org/resource/Benicarló> a ns1:City ;
+    rdfs:label "Benicarló"@en .
+
+<http://dbpedia.org/resource/Benidorm> a ns1:City ;
+    rdfs:label "Benidorm"@en ;
+    ns1:populationTotal 70450 .
+
+<http://dbpedia.org/resource/Bergamo> a ns1:City ;
+    rdfs:label "Bergamo"@en ;
+    ns1:populationTotal 121200 .
+
+<http://dbpedia.org/resource/Beringen,_Belgium> a ns1:City ;
+    rdfs:label "Beringen, Belgium"@en .
+
+<http://dbpedia.org/resource/Berlin_Victory_Column> a ns1:Monument ;
+    rdfs:label "Berlin Victory Column"@en ;
+    ns1:location <http://dbpedia.org/resource/Berlin> .
+
+<http://dbpedia.org/resource/Berrocal> a ns1:City ;
+    rdfs:label "Berrocal"@en .
+
+<http://dbpedia.org/resource/Biarritz> a ns1:City ;
+    rdfs:label "Biarritz"@en .
+
+<http://dbpedia.org/resource/Biała_Podlaska> a ns1:City ;
+    rdfs:label "Biała Podlaska"@en ;
+    ns1:populationTotal 56498 .
+
+<http://dbpedia.org/resource/Biały_Kamień,_Wałbrzych> a ns1:City ;
+    rdfs:label "Biały Kamień, Wałbrzych"@en ;
+    ns1:populationTotal 14278 .
+
+<http://dbpedia.org/resource/Biervliet> a ns1:City ;
+    rdfs:label "Biervliet"@en ;
+    ns1:populationTotal 1550 .
+
+<http://dbpedia.org/resource/Bilska_Wola-Kolonia> a ns1:City ;
+    rdfs:label "Bilska Wola-Kolonia"@en .
+
+<http://dbpedia.org/resource/Birmingham> a ns1:City ;
+    rdfs:label "Birmingham"@en .
+
+<http://dbpedia.org/resource/Bischofshofen> a ns1:City ;
+    rdfs:label "Bischofshofen"@en .
+
+<http://dbpedia.org/resource/Bismarck_Monument_(Hamburg)> a ns1:Monument ;
+    rdfs:label "Bismarck Monument (Hamburg)"@en ;
+    ns1:location <http://dbpedia.org/resource/Hamburg> .
+
+<http://dbpedia.org/resource/Bismarck_Tower,_Zielona_Góra> a ns1:Monument ;
+    rdfs:label "Bismarck Tower, Zielona Góra"@en ;
+    ns1:location <http://dbpedia.org/resource/Zielona_Góra> .
+
+<http://dbpedia.org/resource/Bitonto> a ns1:City ;
+    rdfs:label "Bitonto"@en ;
+    ns1:populationTotal 55320 .
+
+<http://dbpedia.org/resource/Biéreau_Farm> a ns1:Monument ;
+    rdfs:label "Biéreau Farm"@en ;
+    ns1:location <http://dbpedia.org/resource/Louvain-la-Neuve> .
+
+<http://dbpedia.org/resource/Blakelaw> a ns1:City ;
+    rdfs:label "Blakelaw"@en .
+
+<http://dbpedia.org/resource/Blaydon> a ns1:City ;
+    rdfs:label "Blaydon"@en ;
+    ns1:populationTotal 15155 .
+
+<http://dbpedia.org/resource/Blois> a ns1:City ;
+    rdfs:label "Blois"@en .
+
+<http://dbpedia.org/resource/Blokzijl> a ns1:City ;
+    rdfs:label "Blokzijl"@en ;
+    ns1:populationTotal 1400 .
+
+<http://dbpedia.org/resource/Bolaños_de_Calatrava> a ns1:City ;
+    rdfs:label "Bolaños de Calatrava"@en .
+
+<http://dbpedia.org/resource/Bolesław_III_Wrymouth_Monument,_Płock> a ns1:Monument ;
+    rdfs:label "Bolesław III Wrymouth Monument, Płock"@en ;
+    ns1:location <http://dbpedia.org/resource/Płock> .
+
+<http://dbpedia.org/resource/Bollullos_de_la_Mitación> a ns1:City ;
+    rdfs:label "Bollullos de la Mitación"@en .
+
+<http://dbpedia.org/resource/Bolsward> a ns1:City ;
+    rdfs:label "Bolsward"@en ;
+    ns1:populationTotal 10085 .
+
+<http://dbpedia.org/resource/Bolzano> a ns1:City ;
+    rdfs:label "Bolzano"@en ;
+    ns1:populationTotal 107436 .
+
+<http://dbpedia.org/resource/Bordeaux> a ns1:City ;
+    rdfs:label "Bordeaux"@en .
+
+<http://dbpedia.org/resource/Borgholm> a ns1:City ;
+    rdfs:label "Borgholm"@en ;
+    ns1:populationTotal 3071 .
+
+<http://dbpedia.org/resource/Borgloon> a ns1:City ;
+    rdfs:label "Borgloon"@en .
+
+<http://dbpedia.org/resource/Bormujos> a ns1:City ;
+    rdfs:label "Bormujos"@en .
+
+<http://dbpedia.org/resource/Borås> a ns1:City ;
+    rdfs:label "Borås"@en ;
+    ns1:populationTotal 66273 .
+
+<http://dbpedia.org/resource/Boulogne-sur-Mer> a ns1:City ;
+    rdfs:label "Boulogne-sur-Mer"@en .
+
+<http://dbpedia.org/resource/Bourges> a ns1:City ;
+    rdfs:label "Bourges"@en .
+
+<http://dbpedia.org/resource/Braddan> a ns1:City ;
+    rdfs:label "Braddan"@en ;
+    ns1:populationTotal 3586 .
+
+<http://dbpedia.org/resource/Brades> a ns1:City ;
+    rdfs:label "Brades"@en ;
+    ns1:populationTotal 1000 .
+
+<http://dbpedia.org/resource/Bradford-on-Avon> a ns1:City ;
+    rdfs:label "Bradford-on-Avon"@en ;
+    ns1:populationTotal 10405 .
+
+<http://dbpedia.org/resource/Braga> a ns1:City ;
+    rdfs:label "Braga"@en .
+
+<http://dbpedia.org/resource/Bragança,_Portugal> a ns1:City ;
+    rdfs:label "Bragança, Portugal"@en .
+
+<http://dbpedia.org/resource/Brass_Founders'_Pillar> a ns1:Monument ;
+    rdfs:label "Brass Founders' Pillar"@en ;
+    ns1:location <http://dbpedia.org/resource/Edinburgh> .
+
+<http://dbpedia.org/resource/Brașov> a ns1:City ;
+    rdfs:label "Brașov"@en .
+
+<http://dbpedia.org/resource/Breda> a ns1:City ;
+    rdfs:label "Breda"@en .
+
+<http://dbpedia.org/resource/Bredevoort> a ns1:City ;
+    rdfs:label "Bredevoort"@en ;
+    ns1:populationTotal 1660 .
+
+<http://dbpedia.org/resource/Bree,_Belgium> a ns1:City ;
+    rdfs:label "Bree, Belgium"@en .
+
+<http://dbpedia.org/resource/Brenes> a ns1:City ;
+    rdfs:label "Brenes"@en .
+
+<http://dbpedia.org/resource/Brescia> a ns1:City ;
+    rdfs:label "Brescia"@en ;
+    ns1:populationTotal 200423 .
+
+<http://dbpedia.org/resource/Brest,_France> a ns1:City ;
+    rdfs:label "Brest, France"@en .
+
+<http://dbpedia.org/resource/Brighton> a ns1:City ;
+    rdfs:label "Brighton"@en .
+
+<http://dbpedia.org/resource/Brighton_and_Hove> a ns1:City ;
+    rdfs:label "Brighton and Hove"@en .
+
+<http://dbpedia.org/resource/Brihuega> a ns1:City ;
+    rdfs:label "Brihuega"@en .
+
+<http://dbpedia.org/resource/Brindisi> a ns1:City ;
+    rdfs:label "Brindisi"@en ;
+    ns1:populationTotal 87141 .
+
+<http://dbpedia.org/resource/Bristol> a ns1:City ;
+    rdfs:label "Bristol"@en ;
+    ns1:populationTotal 465866 .
+
+<http://dbpedia.org/resource/Bronkhorst> a ns1:City ;
+    rdfs:label "Bronkhorst"@en ;
+    ns1:populationTotal 90 .
+
+<http://dbpedia.org/resource/Broughton_Astley> a ns1:City ;
+    rdfs:label "Broughton Astley"@en ;
+    ns1:populationTotal 8940 .
+
+<http://dbpedia.org/resource/Brouwershaven> a ns1:City ;
+    rdfs:label "Brouwershaven"@en ;
+    ns1:populationTotal 1250 .
+
+<http://dbpedia.org/resource/Bruck_an_der_Leitha> a ns1:City ;
+    rdfs:label "Bruck an der Leitha"@en .
+
+<http://dbpedia.org/resource/Bruck_an_der_Mur> a ns1:City ;
+    rdfs:label "Bruck an der Mur"@en .
+
+<http://dbpedia.org/resource/Burgos> a ns1:City ;
+    rdfs:label "Burgos"@en ;
+    ns1:populationTotal 176418 .
+
+<http://dbpedia.org/resource/Busto_Arsizio> a ns1:City ;
+    rdfs:label "Busto Arsizio"@en ;
+    ns1:populationTotal 83405 .
+
+<http://dbpedia.org/resource/Buverchy> a ns1:City ;
+    rdfs:label "Buverchy"@en .
+
+<http://dbpedia.org/resource/Bystrzyca_Kłodzka> a ns1:City ;
+    rdfs:label "Bystrzyca Kłodzka"@en ;
+    ns1:populationTotal 9773 .
+
+<http://dbpedia.org/resource/Bärnbach> a ns1:City ;
+    rdfs:label "Bärnbach"@en .
+
+<http://dbpedia.org/resource/Békéscsaba> a ns1:City ;
+    rdfs:label "Békéscsaba"@en ;
+    ns1:populationTotal 59732 .
+
+<http://dbpedia.org/resource/Bélmez_de_la_Moraleda> a ns1:City ;
+    rdfs:label "Bélmez de la Moraleda"@en .
+
+<http://dbpedia.org/resource/Béthune> a ns1:City ;
+    rdfs:label "Béthune"@en .
+
+<http://dbpedia.org/resource/Będzin> a ns1:City ;
+    rdfs:label "Będzin"@en ;
+    ns1:populationTotal 55183 .
+
+<http://dbpedia.org/resource/Cabra_del_Santo_Cristo> a ns1:City ;
+    rdfs:label "Cabra del Santo Cristo"@en .
+
+<http://dbpedia.org/resource/Cabrils> a ns1:City ;
+    rdfs:label "Cabrils"@en .
+
+<http://dbpedia.org/resource/Cacín> a ns1:City ;
+    rdfs:label "Cacín"@en .
+
+<http://dbpedia.org/resource/Caiazzo> a ns1:City ;
+    rdfs:label "Caiazzo"@en ;
+    ns1:populationTotal 5547 .
+
+<http://dbpedia.org/resource/Caivano> a ns1:City ;
+    rdfs:label "Caivano"@en ;
+    ns1:populationTotal 37874 .
+
+<http://dbpedia.org/resource/Caja_Madrid_Obelisk> a ns1:Monument ;
+    rdfs:label "Caja Madrid Obelisk"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Calahorra> a ns1:City ;
+    rdfs:label "Calahorra"@en .
+
+<http://dbpedia.org/resource/Caldas_da_Rainha> a ns1:City ;
+    rdfs:label "Caldas da Rainha"@en ;
+    ns1:populationTotal 51729 .
+
+<http://dbpedia.org/resource/Caleta_de_Sebo> a ns1:City ;
+    rdfs:label "Caleta de Sebo"@en ;
+    ns1:populationTotal 730 .
+
+<http://dbpedia.org/resource/Camas,_Seville> a ns1:City ;
+    rdfs:label "Camas, Seville"@en .
+
+<http://dbpedia.org/resource/Cambil> a ns1:City ;
+    rdfs:label "Cambil"@en .
+
+<http://dbpedia.org/resource/Cambridge> a ns1:City ;
+    rdfs:label "Cambridge"@en .
+
+<http://dbpedia.org/resource/Cambridge_Heath> a ns1:City ;
+    rdfs:label "Cambridge Heath"@en .
+
+<http://dbpedia.org/resource/Campillo_de_Arenas> a ns1:City ;
+    rdfs:label "Campillo de Arenas"@en .
+
+<http://dbpedia.org/resource/Campobasso> a ns1:City ;
+    rdfs:label "Campobasso"@en ;
+    ns1:populationTotal 49230 .
+
+<http://dbpedia.org/resource/Canena> a ns1:City ;
+    rdfs:label "Canena"@en .
+
+<http://dbpedia.org/resource/Canillejas> a ns1:City ;
+    rdfs:label "Canillejas"@en ;
+    ns1:populationTotal 29288 .
+
+<http://dbpedia.org/resource/Cannes> a ns1:City ;
+    rdfs:label "Cannes"@en .
+
+<http://dbpedia.org/resource/Cantanhede,_Portugal> a ns1:City ;
+    rdfs:label "Cantanhede, Portugal"@en .
+
+<http://dbpedia.org/resource/Canterbury> a ns1:City ;
+    rdfs:label "Canterbury"@en ;
+    ns1:populationTotal 55240 .
+
+<http://dbpedia.org/resource/Cantù> a ns1:City ;
+    rdfs:label "Cantù"@en ;
+    ns1:populationTotal 39917 .
+
+<http://dbpedia.org/resource/Capitoline_Wolf,_Timișoara> a ns1:Monument ;
+    rdfs:label "Capitoline Wolf, Timișoara"@en ;
+    ns1:location <http://dbpedia.org/resource/Timișoara> .
+
+<http://dbpedia.org/resource/Capua> a ns1:City ;
+    rdfs:label "Capua"@en ;
+    ns1:populationTotal 18484 .
+
+<http://dbpedia.org/resource/Carboneros> a ns1:City ;
+    rdfs:label "Carboneros"@en .
+
+<http://dbpedia.org/resource/Carcabuey> a ns1:City ;
+    rdfs:label "Carcabuey"@en .
+
+<http://dbpedia.org/resource/Cardiff> a ns1:City ;
+    rdfs:label "Cardiff"@en .
+
+<http://dbpedia.org/resource/Cardiff_Capital_Region> a ns1:City ;
+    rdfs:label "Cardiff Capital Region"@en .
+
+<http://dbpedia.org/resource/Carrara> a ns1:City ;
+    rdfs:label "Carrara"@en ;
+    ns1:populationTotal 62923 .
+
+<http://dbpedia.org/resource/Carrión_de_los_Céspedes> a ns1:City ;
+    rdfs:label "Carrión de los Céspedes"@en .
+
+<http://dbpedia.org/resource/Casa_Guazzoni> a ns1:Monument ;
+    rdfs:label "Casa Guazzoni"@en ;
+    ns1:location <http://dbpedia.org/resource/Milan> .
+
+<http://dbpedia.org/resource/Casariche> a ns1:City ;
+    rdfs:label "Casariche"@en .
+
+<http://dbpedia.org/resource/Casco_Histórico_de_Barajas> a ns1:City ;
+    rdfs:label "Casco Histórico de Barajas"@en ;
+    ns1:populationTotal 7735 .
+
+<http://dbpedia.org/resource/Casorezzo> a ns1:City ;
+    rdfs:label "Casorezzo"@en ;
+    ns1:populationTotal 4628 .
+
+<http://dbpedia.org/resource/Castano_Primo> a ns1:City ;
+    rdfs:label "Castano Primo"@en ;
+    ns1:populationTotal 11196 .
+
+<http://dbpedia.org/resource/Castel_San_Pietro_Terme> a ns1:City ;
+    rdfs:label "Castel San Pietro Terme"@en ;
+    ns1:populationTotal 20824 .
+
+<http://dbpedia.org/resource/Castel_di_Sangro> a ns1:City ;
+    rdfs:label "Castel di Sangro"@en ;
+    ns1:populationTotal 6461 .
+
+<http://dbpedia.org/resource/Castellaneta> a ns1:City ;
+    rdfs:label "Castellaneta"@en ;
+    ns1:populationTotal 17069 .
+
+<http://dbpedia.org/resource/Castellón_de_la_Plana> a ns1:City ;
+    rdfs:label "Castellón de la Plana"@en ;
+    ns1:populationTotal 174264 .
+
+<http://dbpedia.org/resource/Castelo_Branco,_Portugal> a ns1:City ;
+    rdfs:label "Castelo Branco, Portugal"@en .
+
+<http://dbpedia.org/resource/Castilblanco_de_los_Arroyos> a ns1:City ;
+    rdfs:label "Castilblanco de los Arroyos"@en .
+
+<http://dbpedia.org/resource/Castilleja_de_Guzmán> a ns1:City ;
+    rdfs:label "Castilleja de Guzmán"@en .
+
+<http://dbpedia.org/resource/Castilleja_del_Campo> a ns1:City ;
+    rdfs:label "Castilleja del Campo"@en .
+
+<http://dbpedia.org/resource/Castle_of_Marracq> a ns1:Monument ;
+    rdfs:label "Castle of Marracq"@en ;
+    ns1:location <http://dbpedia.org/resource/Bayonne> .
+
+<http://dbpedia.org/resource/Castro_del_Río> a ns1:City ;
+    rdfs:label "Castro del Río"@en .
+
+<http://dbpedia.org/resource/Catania> a ns1:City ;
+    rdfs:label "Catania"@en ;
+    ns1:populationTotal 311584 .
+
+<http://dbpedia.org/resource/Catanzaro> a ns1:City ;
+    rdfs:label "Catanzaro"@en ;
+    ns1:populationTotal 91028 .
+
+<http://dbpedia.org/resource/Cava_de'_Tirreni> a ns1:City ;
+    rdfs:label "Cava de' Tirreni"@en ;
+    ns1:populationTotal 53130 .
+
+<http://dbpedia.org/resource/Cayenne> a ns1:City ;
+    rdfs:label "Cayenne"@en .
+
+<http://dbpedia.org/resource/Cazalilla> a ns1:City ;
+    rdfs:label "Cazalilla"@en .
+
+<http://dbpedia.org/resource/Cazorla> a ns1:City ;
+    rdfs:label "Cazorla"@en .
+
+<http://dbpedia.org/resource/Cañada_Rosal> a ns1:City ;
+    rdfs:label "Cañada Rosal"@en .
+
+<http://dbpedia.org/resource/Cañete_de_las_Torres> a ns1:City ;
+    rdfs:label "Cañete de las Torres"@en .
+
+<http://dbpedia.org/resource/Cefalù> a ns1:City ;
+    rdfs:label "Cefalù"@en ;
+    ns1:populationTotal 13777 .
+
+<http://dbpedia.org/resource/Cegléd> a ns1:City ;
+    rdfs:label "Cegléd"@en ;
+    ns1:populationTotal 38220 .
+
+<http://dbpedia.org/resource/Cento> a ns1:City ;
+    rdfs:label "Cento"@en ;
+    ns1:populationTotal 35837 .
+
+<http://dbpedia.org/resource/Central_University_Library,_Bucharest> a ns1:Monument ;
+    rdfs:label "Central University Library, Bucharest"@en ;
+    ns1:location <http://dbpedia.org/resource/Bucharest> .
+
+<http://dbpedia.org/resource/Centrum,_Malmö> a ns1:City ;
+    rdfs:label "Centrum, Malmö"@en ;
+    ns1:populationTotal 47171 .
+
+<http://dbpedia.org/resource/Cesena> a ns1:City ;
+    rdfs:label "Cesena"@en ;
+    ns1:populationTotal 97137 .
+
+<http://dbpedia.org/resource/Ceuta> a ns1:City ;
+    rdfs:label "Ceuta"@en .
+
+<http://dbpedia.org/resource/Chambéry> a ns1:City ;
+    rdfs:label "Chambéry"@en .
+
+<http://dbpedia.org/resource/Chania> a ns1:City ;
+    rdfs:label "Chania"@en .
+
+<http://dbpedia.org/resource/Charlemagne_et_ses_Leudes> a ns1:Monument ;
+    rdfs:label "Charlemagne et ses Leudes"@en ;
+    ns1:location <http://dbpedia.org/resource/Paris> .
+
+<http://dbpedia.org/resource/Charleroi> a ns1:City ;
+    rdfs:label "Charleroi"@en .
+
+<http://dbpedia.org/resource/Charles_V_Monument_(Palermo)> a ns1:Monument ;
+    rdfs:label "Charles V Monument (Palermo)"@en ;
+    ns1:location <http://dbpedia.org/resource/Palermo> .
+
+<http://dbpedia.org/resource/Chaves,_Portugal> a ns1:City ;
+    rdfs:label "Chaves, Portugal"@en .
+
+<http://dbpedia.org/resource/Cherbourg-Octeville> a ns1:City ;
+    rdfs:label "Cherbourg-Octeville"@en ;
+    ns1:populationTotal 35338 .
+
+<http://dbpedia.org/resource/Chester> a ns1:City ;
+    rdfs:label "Chester"@en ;
+    ns1:populationTotal 79645 .
+
+<http://dbpedia.org/resource/Cheylesmore_Memorial> a ns1:Monument ;
+    rdfs:label "Cheylesmore Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Chełm> a ns1:City ;
+    rdfs:label "Chełm"@en ;
+    ns1:populationTotal 60231 .
+
+<http://dbpedia.org/resource/Chichester> a ns1:City ;
+    rdfs:label "Chichester"@en ;
+    ns1:populationTotal 26795 .
+
+<http://dbpedia.org/resource/Chiclana_de_Segura> a ns1:City ;
+    rdfs:label "Chiclana de Segura"@en .
+
+<http://dbpedia.org/resource/Chieti> a ns1:City ;
+    rdfs:label "Chieti"@en ;
+    ns1:populationTotal 49139 .
+
+<http://dbpedia.org/resource/Chilluévar> a ns1:City ;
+    rdfs:label "Chilluévar"@en .
+
+<http://dbpedia.org/resource/Chorzów> a ns1:City ;
+    rdfs:label "Chorzów"@en ;
+    ns1:populationTotal 105628 .
+
+<http://dbpedia.org/resource/Christ_of_Monteagudo> a ns1:Monument ;
+    rdfs:label "Christ of Monteagudo"@en ;
+    ns1:location <http://dbpedia.org/resource/Murcia> .
+
+<http://dbpedia.org/resource/Châlons-en-Champagne> a ns1:City ;
+    rdfs:label "Châlons-en-Champagne"@en .
+
+<http://dbpedia.org/resource/Château_du_Vigneau> a ns1:Monument ;
+    rdfs:label "Château du Vigneau"@en ;
+    ns1:location <http://dbpedia.org/resource/Bayonne> .
+
+<http://dbpedia.org/resource/Ciminna> a ns1:City ;
+    rdfs:label "Ciminna"@en ;
+    ns1:populationTotal 3697 .
+
+<http://dbpedia.org/resource/Cittadella> a ns1:City ;
+    rdfs:label "Cittadella"@en ;
+    ns1:populationTotal 20133 .
+
+<http://dbpedia.org/resource/Città_di_Castello> a ns1:City ;
+    rdfs:label "Città di Castello"@en ;
+    ns1:populationTotal 39286 .
+
+<http://dbpedia.org/resource/City_of_Canterbury> a ns1:City ;
+    rdfs:label "City of Canterbury"@en .
+
+<http://dbpedia.org/resource/City_of_Carlisle> a ns1:City ;
+    rdfs:label "City of Carlisle"@en .
+
+<http://dbpedia.org/resource/City_of_Chelmsford> a ns1:City ;
+    rdfs:label "City of Chelmsford"@en .
+
+<http://dbpedia.org/resource/City_of_Lancaster> a ns1:City ;
+    rdfs:label "City of Lancaster"@en .
+
+<http://dbpedia.org/resource/City_of_Leeds> a ns1:City ;
+    rdfs:label "City of Leeds"@en .
+
+<http://dbpedia.org/resource/City_of_Preston,_Lancashire> a ns1:City ;
+    rdfs:label "City of Preston, Lancashire"@en .
+
+<http://dbpedia.org/resource/City_of_Singapore_(historical_entity)> a ns1:City ;
+    rdfs:label "City of Singapore (historical entity)"@en .
+
+<http://dbpedia.org/resource/City_of_Sunderland> a ns1:City ;
+    rdfs:label "City of Sunderland"@en ;
+    ns1:populationTotal 277962 .
+
+<http://dbpedia.org/resource/City_of_Winchester> a ns1:City ;
+    rdfs:label "City of Winchester"@en .
+
+<http://dbpedia.org/resource/City_of_York> a ns1:City ;
+    rdfs:label "City of York"@en .
+
+<http://dbpedia.org/resource/Ciudad_Jardín_(Madrid)> a ns1:City ;
+    rdfs:label "Ciudad Jardín (Madrid)"@en ;
+    ns1:populationTotal 18973 .
+
+<http://dbpedia.org/resource/Ciudad_Real> a ns1:City ;
+    rdfs:label "Ciudad Real"@en .
+
+<http://dbpedia.org/resource/Ciudad_Rodrigo> a ns1:City ;
+    rdfs:label "Ciudad Rodrigo"@en .
+
+<http://dbpedia.org/resource/Cleopatra's_Needle,_London> a ns1:Monument ;
+    rdfs:label "Cleopatra's Needle, London"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Clermont-Ferrand> a ns1:City ;
+    rdfs:label "Clermont-Ferrand"@en .
+
+<http://dbpedia.org/resource/Cleveleys> a ns1:City ;
+    rdfs:label "Cleveleys"@en .
+
+<http://dbpedia.org/resource/Cluj-Napoca_Neolog_Synagogue> a ns1:City ;
+    rdfs:label "Cluj-Napoca Neolog Synagogue"@en .
+
+<http://dbpedia.org/resource/Cockburn_Town> a ns1:City ;
+    rdfs:label "Cockburn Town"@en ;
+    ns1:populationTotal 3700 .
+
+<http://dbpedia.org/resource/Coevorden> a ns1:City ;
+    rdfs:label "Coevorden"@en .
+
+<http://dbpedia.org/resource/Coimbra> a ns1:City ;
+    rdfs:label "Coimbra"@en .
+
+<http://dbpedia.org/resource/Coimbra_District> a ns1:City ;
+    rdfs:label "Coimbra District"@en ;
+    ns1:populationTotal 441245 .
+
+<http://dbpedia.org/resource/Colico> a ns1:City ;
+    rdfs:label "Colico"@en ;
+    ns1:populationTotal 8 .
+
+<http://dbpedia.org/resource/Colmenarejo> a ns1:City ;
+    rdfs:label "Colmenarejo"@en .
+
+<http://dbpedia.org/resource/Colonna_dell'Immacolata,_Palermo> a ns1:Monument ;
+    rdfs:label "Colonna dell'Immacolata, Palermo"@en ;
+    ns1:location <http://dbpedia.org/resource/Palermo> .
+
+<http://dbpedia.org/resource/Comines-Warneton> a ns1:City ;
+    rdfs:label "Comines-Warneton"@en .
+
+<http://dbpedia.org/resource/Como> a ns1:City ;
+    rdfs:label "Como"@en ;
+    ns1:populationTotal 84250 .
+
+<http://dbpedia.org/resource/Corfu_(city)> a ns1:City ;
+    rdfs:label "Corfu (city)"@en .
+
+<http://dbpedia.org/resource/Corinth> a ns1:City ;
+    rdfs:label "Corinth"@en .
+
+<http://dbpedia.org/resource/Coripe> a ns1:City ;
+    rdfs:label "Coripe"@en .
+
+<http://dbpedia.org/resource/Corralejos> a ns1:City ;
+    rdfs:label "Corralejos"@en ;
+    ns1:populationTotal 7808 .
+
+<http://dbpedia.org/resource/Cortes_y_Graena> a ns1:City ;
+    rdfs:label "Cortes y Graena"@en .
+
+<http://dbpedia.org/resource/Cosenza> a ns1:City ;
+    rdfs:label "Cosenza"@en ;
+    ns1:populationTotal 67563 .
+
+<http://dbpedia.org/resource/Coslada> a ns1:City ;
+    rdfs:label "Coslada"@en .
+
+<http://dbpedia.org/resource/Covilhã> a ns1:City ;
+    rdfs:label "Covilhã"@en .
+
+<http://dbpedia.org/resource/Craigentinny_Marbles> a ns1:Monument ;
+    rdfs:label "Craigentinny Marbles"@en ;
+    ns1:location <http://dbpedia.org/resource/Edinburgh> .
+
+<http://dbpedia.org/resource/Cremona> a ns1:City ;
+    rdfs:label "Cremona"@en ;
+    ns1:populationTotal 71223 .
+
+<http://dbpedia.org/resource/Cristo_del_Otero> a ns1:Monument ;
+    rdfs:label "Cristo del Otero"@en ;
+    ns1:location <http://dbpedia.org/resource/Palencia> .
+
+<http://dbpedia.org/resource/Crotone> a ns1:City ;
+    rdfs:label "Crotone"@en ;
+    ns1:populationTotal 64603 .
+
+<http://dbpedia.org/resource/Croydon_Cenotaph> a ns1:Monument ;
+    rdfs:label "Croydon Cenotaph"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Cuatro_Caminos_(Madrid)> a ns1:City ;
+    rdfs:label "Cuatro Caminos (Madrid)"@en ;
+    ns1:populationTotal 35395 .
+
+<http://dbpedia.org/resource/Cuenca,_Spain> a ns1:City ;
+    rdfs:label "Cuenca, Spain"@en .
+
+<http://dbpedia.org/resource/Cuevas_del_Campo> a ns1:City ;
+    rdfs:label "Cuevas del Campo"@en .
+
+<http://dbpedia.org/resource/Culemborg> a ns1:City ;
+    rdfs:label "Culemborg"@en .
+
+<http://dbpedia.org/resource/Cuneo> a ns1:City ;
+    rdfs:label "Cuneo"@en ;
+    ns1:populationTotal 55980 .
+
+<http://dbpedia.org/resource/Cwmafan> a ns1:City ;
+    rdfs:label "Cwmafan"@en ;
+    ns1:populationTotal 6538 .
+
+<http://dbpedia.org/resource/Częstochowa> a ns1:City ;
+    rdfs:label "Częstochowa"@en ;
+    ns1:populationTotal 214342 .
+
+<http://dbpedia.org/resource/Człopa> a ns1:City ;
+    rdfs:label "Człopa"@en ;
+    ns1:populationTotal 2277 .
+
+<http://dbpedia.org/resource/Cádiz_Memorial> a ns1:Monument ;
+    rdfs:label "Cádiz Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Cájar> a ns1:City ;
+    rdfs:label "Cájar"@en .
+
+<http://dbpedia.org/resource/Cárcheles> a ns1:City ;
+    rdfs:label "Cárcheles"@en .
+
+<http://dbpedia.org/resource/Daroca> a ns1:City ;
+    rdfs:label "Daroca"@en .
+
+<http://dbpedia.org/resource/Debrecen> a ns1:City ;
+    rdfs:label "Debrecen"@en ;
+    ns1:populationTotal 202402 .
+
+<http://dbpedia.org/resource/Deifontes> a ns1:City ;
+    rdfs:label "Deifontes"@en .
+
+<http://dbpedia.org/resource/Deinze> a ns1:City ;
+    rdfs:label "Deinze"@en .
+
+<http://dbpedia.org/resource/Delden> a ns1:City ;
+    rdfs:label "Delden"@en ;
+    ns1:populationTotal 7175 .
+
+<http://dbpedia.org/resource/Delicias_(Zaragoza)> a ns1:City ;
+    rdfs:label "Delicias (Zaragoza)"@en ;
+    ns1:populationTotal 104389 .
+
+<http://dbpedia.org/resource/Deluge_Fountain> a ns1:Monument ;
+    rdfs:label "Deluge Fountain"@en ;
+    ns1:location <http://dbpedia.org/resource/Bydgoszcz> .
+
+<http://dbpedia.org/resource/Dendermonde> a ns1:City ;
+    rdfs:label "Dendermonde"@en .
+
+<http://dbpedia.org/resource/Derry> a ns1:City ;
+    rdfs:label "Derry"@en .
+
+<http://dbpedia.org/resource/Deventer> a ns1:City ;
+    rdfs:label "Deventer"@en .
+
+<http://dbpedia.org/resource/Diepenheim> a ns1:City ;
+    rdfs:label "Diepenheim"@en ;
+    ns1:populationTotal 2615 .
+
+<http://dbpedia.org/resource/Diest> a ns1:City ;
+    rdfs:label "Diest"@en .
+
+<http://dbpedia.org/resource/Dijon> a ns1:City ;
+    rdfs:label "Dijon"@en .
+
+<http://dbpedia.org/resource/Diksmuide> a ns1:City ;
+    rdfs:label "Diksmuide"@en .
+
+<http://dbpedia.org/resource/Dimitrie_Sturdza_House> a ns1:Monument ;
+    rdfs:label "Dimitrie Sturdza House"@en ;
+    ns1:location <http://dbpedia.org/resource/Bucharest> .
+
+<http://dbpedia.org/resource/Dinant> a ns1:City ;
+    rdfs:label "Dinant"@en .
+
+<http://dbpedia.org/resource/Doetinchem> a ns1:City ;
+    rdfs:label "Doetinchem"@en .
+
+<http://dbpedia.org/resource/Dokkum> a ns1:City ;
+    rdfs:label "Dokkum"@en ;
+    ns1:populationTotal 12669 .
+
+<http://dbpedia.org/resource/Domburg> a ns1:City ;
+    rdfs:label "Domburg"@en ;
+    ns1:populationTotal 1660 .
+
+<http://dbpedia.org/resource/Domodossola> a ns1:City ;
+    rdfs:label "Domodossola"@en ;
+    ns1:populationTotal 17930 .
+
+<http://dbpedia.org/resource/Dornbirn> a ns1:City ;
+    rdfs:label "Dornbirn"@en .
+
+<http://dbpedia.org/resource/Dos_Torres> a ns1:City ;
+    rdfs:label "Dos Torres"@en .
+
+<http://dbpedia.org/resource/Doña_Mencía> a ns1:City ;
+    rdfs:label "Doña Mencía"@en .
+
+<http://dbpedia.org/resource/Drama,_Greece> a ns1:City ;
+    rdfs:label "Drama, Greece"@en .
+
+<http://dbpedia.org/resource/Dugald_Stewart_Monument> a ns1:Monument ;
+    rdfs:label "Dugald Stewart Monument"@en ;
+    ns1:location <http://dbpedia.org/resource/Edinburgh> .
+
+<http://dbpedia.org/resource/Dunakeszi> a ns1:City ;
+    rdfs:label "Dunakeszi"@en ;
+    ns1:populationTotal 43490 .
+
+<http://dbpedia.org/resource/Dunaújváros> a ns1:City ;
+    rdfs:label "Dunaújváros"@en ;
+    ns1:populationTotal 44640 .
+
+<http://dbpedia.org/resource/Dundee> a ns1:City ;
+    rdfs:label "Dundee"@en .
+
+<http://dbpedia.org/resource/Durbuy> a ns1:City ;
+    rdfs:label "Durbuy"@en .
+
+<http://dbpedia.org/resource/Durham,_England> a ns1:City ;
+    rdfs:label "Durham, England"@en ;
+    ns1:populationTotal 48069 .
+
+<http://dbpedia.org/resource/Dénia> a ns1:City ;
+    rdfs:label "Dénia"@en .
+
+<http://dbpedia.org/resource/Dílar> a ns1:City ;
+    rdfs:label "Dílar"@en .
+
+<http://dbpedia.org/resource/Dąbrowa_Górnicza> a ns1:City ;
+    rdfs:label "Dąbrowa Górnicza"@en ;
+    ns1:populationTotal 116971 .
+
+<http://dbpedia.org/resource/Dębica> a ns1:City ;
+    rdfs:label "Dębica"@en ;
+    ns1:populationTotal 44692 .
+
+<http://dbpedia.org/resource/Echt,_Netherlands> a ns1:City ;
+    rdfs:label "Echt, Netherlands"@en ;
+    ns1:populationTotal 7655 .
+
+<http://dbpedia.org/resource/Edam,_Netherlands> a ns1:City ;
+    rdfs:label "Edam, Netherlands"@en .
+
+<http://dbpedia.org/resource/Edenthorpe> a ns1:City ;
+    rdfs:label "Edenthorpe"@en ;
+    ns1:populationTotal 4776 .
+
+<http://dbpedia.org/resource/Edessa,_Greece> a ns1:City ;
+    rdfs:label "Edessa, Greece"@en ;
+    ns1:populationTotal 18229 .
+
+<http://dbpedia.org/resource/Edith_Cavell_Memorial> a ns1:Monument ;
+    rdfs:label "Edith Cavell Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Eger> a ns1:City ;
+    rdfs:label "Eger"@en ;
+    ns1:populationTotal 53876 .
+
+<http://dbpedia.org/resource/Eggenberg_(Graz)> a ns1:City ;
+    rdfs:label "Eggenberg (Graz)"@en ;
+    ns1:populationTotal 18487 .
+
+<http://dbpedia.org/resource/Eibar> a ns1:City ;
+    rdfs:label "Eibar"@en .
+
+<http://dbpedia.org/resource/Eindhoven> a ns1:City ;
+    rdfs:label "Eindhoven"@en .
+
+<http://dbpedia.org/resource/Eisenstadt> a ns1:City ;
+    rdfs:label "Eisenstadt"@en .
+
+<http://dbpedia.org/resource/El_Arenal,_Seville> a ns1:City ;
+    rdfs:label "El Arenal, Seville"@en ;
+    ns1:populationTotal 3798 .
+
+<http://dbpedia.org/resource/El_Castillo_de_las_Guardas> a ns1:City ;
+    rdfs:label "El Castillo de las Guardas"@en .
+
+<http://dbpedia.org/resource/El_Cañaveral> a ns1:City ;
+    rdfs:label "El Cañaveral"@en ;
+    ns1:populationTotal 2565 .
+
+<http://dbpedia.org/resource/El_Coronil> a ns1:City ;
+    rdfs:label "El Coronil"@en .
+
+<http://dbpedia.org/resource/El_Garrobo> a ns1:City ;
+    rdfs:label "El Garrobo"@en .
+
+<http://dbpedia.org/resource/El_Gastor> a ns1:City ;
+    rdfs:label "El Gastor"@en .
+
+<http://dbpedia.org/resource/El_Guijo> a ns1:City ;
+    rdfs:label "El Guijo"@en .
+
+<http://dbpedia.org/resource/El_Pedroso> a ns1:City ;
+    rdfs:label "El Pedroso"@en .
+
+<http://dbpedia.org/resource/El_Ronquillo> a ns1:City ;
+    rdfs:label "El Ronquillo"@en .
+
+<http://dbpedia.org/resource/El_Rubio> a ns1:City ;
+    rdfs:label "El Rubio"@en .
+
+<http://dbpedia.org/resource/El_Viso_(Madrid)> a ns1:City ;
+    rdfs:label "El Viso (Madrid)"@en ;
+    ns1:populationTotal 17502 .
+
+<http://dbpedia.org/resource/El_Viso_del_Alcor> a ns1:City ;
+    rdfs:label "El Viso del Alcor"@en .
+
+<http://dbpedia.org/resource/El_abrazo_(Madrid)> a ns1:Monument ;
+    rdfs:label "El abrazo (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Elateia> a ns1:City ;
+    rdfs:label "Elateia"@en .
+
+<http://dbpedia.org/resource/Elbląg> a ns1:City ;
+    rdfs:label "Elbląg"@en ;
+    ns1:populationTotal 117390 .
+
+<http://dbpedia.org/resource/Elche> a ns1:City ;
+    rdfs:label "Elche"@en ;
+    ns1:populationTotal 234765 .
+
+<http://dbpedia.org/resource/Elda> a ns1:City ;
+    rdfs:label "Elda"@en .
+
+<http://dbpedia.org/resource/Electio_Viritim_Monument> a ns1:Monument ;
+    rdfs:label "Electio Viritim Monument"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Elgin,_Moray> a ns1:City ;
+    rdfs:label "Elgin, Moray"@en .
+
+<http://dbpedia.org/resource/Elst,_Gelderland> a ns1:City ;
+    rdfs:label "Elst, Gelderland"@en .
+
+<http://dbpedia.org/resource/Ely,_Cambridgeshire> a ns1:City ;
+    rdfs:label "Ely, Cambridgeshire"@en ;
+    ns1:populationTotal 20112 .
+
+<http://dbpedia.org/resource/Embajadores> a ns1:City ;
+    rdfs:label "Embajadores"@en ;
+    ns1:populationTotal 44604 .
+
+<http://dbpedia.org/resource/Encinas_Reales> a ns1:City ;
+    rdfs:label "Encinas Reales"@en .
+
+<http://dbpedia.org/resource/Enna> a ns1:City ;
+    rdfs:label "Enna"@en ;
+    ns1:populationTotal 27268 .
+
+<http://dbpedia.org/resource/Ensanche_de_Vallecas> a ns1:City ;
+    rdfs:label "Ensanche de Vallecas"@en ;
+    ns1:populationTotal 49290 .
+
+<http://dbpedia.org/resource/Enschede> a ns1:City ;
+    rdfs:label "Enschede"@en ;
+    ns1:populationTotal 160341 .
+
+<http://dbpedia.org/resource/Epidaurus> a ns1:City ;
+    rdfs:label "Epidaurus"@en .
+
+<http://dbpedia.org/resource/Equestrian_statue_of_Francisco_Franco> a ns1:Monument ;
+    rdfs:label "Equestrian statue of Francisco Franco"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Eraclea> a ns1:City ;
+    rdfs:label "Eraclea"@en ;
+    ns1:populationTotal 12276 .
+
+<http://dbpedia.org/resource/Escúzar> a ns1:City ;
+    rdfs:label "Escúzar"@en .
+
+<http://dbpedia.org/resource/Eskilstuna> a ns1:City ;
+    rdfs:label "Eskilstuna"@en ;
+    ns1:populationTotal 67359 .
+
+<http://dbpedia.org/resource/Esmoriz> a ns1:City ;
+    rdfs:label "Esmoriz"@en .
+
+<http://dbpedia.org/resource/Espartinas> a ns1:City ;
+    rdfs:label "Espartinas"@en .
+
+<http://dbpedia.org/resource/Espejo,_Spain> a ns1:City ;
+    rdfs:label "Espejo, Spain"@en .
+
+<http://dbpedia.org/resource/Espera> a ns1:City ;
+    rdfs:label "Espera"@en .
+
+<http://dbpedia.org/resource/Espiel> a ns1:City ;
+    rdfs:label "Espiel"@en .
+
+<http://dbpedia.org/resource/Espinho,_Portugal> a ns1:City ;
+    rdfs:label "Espinho, Portugal"@en .
+
+<http://dbpedia.org/resource/Esposende> a ns1:City ;
+    rdfs:label "Esposende"@en .
+
+<http://dbpedia.org/resource/Estrella_(Madrid)> a ns1:City ;
+    rdfs:label "Estrella (Madrid)"@en ;
+    ns1:populationTotal 23474 .
+
+<http://dbpedia.org/resource/Esztergom> a ns1:City ;
+    rdfs:label "Esztergom"@en ;
+    ns1:populationTotal 28165 .
+
+<http://dbpedia.org/resource/Eupen> a ns1:City ;
+    rdfs:label "Eupen"@en .
+
+<http://dbpedia.org/resource/Exeter> a ns1:City ;
+    rdfs:label "Exeter"@en .
+
+<http://dbpedia.org/resource/Fabryczna,_Wrocław> a ns1:City ;
+    rdfs:label "Fabryczna, Wrocław"@en ;
+    ns1:populationTotal 196912 .
+
+<http://dbpedia.org/resource/Falun> a ns1:City ;
+    rdfs:label "Falun"@en ;
+    ns1:populationTotal 37291 .
+
+<http://dbpedia.org/resource/Faro,_Portugal> a ns1:City ;
+    rdfs:label "Faro, Portugal"@en .
+
+<http://dbpedia.org/resource/Farsala> a ns1:City ;
+    rdfs:label "Farsala"@en .
+
+<http://dbpedia.org/resource/Father_Time_(Lord's)> a ns1:Monument ;
+    rdfs:label "Father Time (Lord's)"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Fawkham> a ns1:City ;
+    rdfs:label "Fawkham"@en ;
+    ns1:populationTotal 429 .
+
+<http://dbpedia.org/resource/Feldkirch,_Vorarlberg> a ns1:City ;
+    rdfs:label "Feldkirch, Vorarlberg"@en .
+
+<http://dbpedia.org/resource/Feltépve> a ns1:Monument ;
+    rdfs:label "Feltépve"@en ;
+    ns1:location <http://dbpedia.org/resource/Budapest> .
+
+<http://dbpedia.org/resource/Fernán_Núñez> a ns1:City ;
+    rdfs:label "Fernán Núñez"@en .
+
+<http://dbpedia.org/resource/Ferrara> a ns1:City ;
+    rdfs:label "Ferrara"@en ;
+    ns1:populationTotal 132009 .
+
+<http://dbpedia.org/resource/Fidelity_Column> a ns1:Monument ;
+    rdfs:label "Fidelity Column"@en ;
+    ns1:location <http://dbpedia.org/resource/Timișoara> .
+
+<http://dbpedia.org/resource/Figueira_da_Foz> a ns1:City ;
+    rdfs:label "Figueira da Foz"@en .
+
+<http://dbpedia.org/resource/Filipstad> a ns1:City ;
+    rdfs:label "Filipstad"@en ;
+    ns1:populationTotal 10644 .
+
+<http://dbpedia.org/resource/Fischamend> a ns1:City ;
+    rdfs:label "Fischamend"@en .
+
+<http://dbpedia.org/resource/Foggia> a ns1:City ;
+    rdfs:label "Foggia"@en ;
+    ns1:populationTotal 153143 .
+
+<http://dbpedia.org/resource/Fond-du-Curé,_les_Saintes> a ns1:City ;
+    rdfs:label "Fond-du-Curé, les Saintes"@en .
+
+<http://dbpedia.org/resource/Fondi> a ns1:City ;
+    rdfs:label "Fondi"@en ;
+    ns1:populationTotal 39762 .
+
+<http://dbpedia.org/resource/Fonelas> a ns1:City ;
+    rdfs:label "Fonelas"@en .
+
+<http://dbpedia.org/resource/Font_de_Canaletes> a ns1:Monument ;
+    rdfs:label "Font de Canaletes"@en ;
+    ns1:location <http://dbpedia.org/resource/Barcelona> .
+
+<http://dbpedia.org/resource/Formia> a ns1:City ;
+    rdfs:label "Formia"@en ;
+    ns1:populationTotal 37244 .
+
+<http://dbpedia.org/resource/Fosie> a ns1:City ;
+    rdfs:label "Fosie"@en ;
+    ns1:populationTotal 43889 .
+
+<http://dbpedia.org/resource/Fossacesia> a ns1:City ;
+    rdfs:label "Fossacesia"@en ;
+    ns1:populationTotal 6184 .
+
+<http://dbpedia.org/resource/Fouquet's> a ns1:Monument ;
+    rdfs:label "Fouquet's"@en ;
+    ns1:location <http://dbpedia.org/resource/Paris> .
+
+<http://dbpedia.org/resource/Franeker> a ns1:City ;
+    rdfs:label "Franeker"@en ;
+    ns1:populationTotal 12780 .
+
+<http://dbpedia.org/resource/Frederic_Chopin_Monument,_Warsaw> a ns1:Monument ;
+    rdfs:label "Frederic Chopin Monument, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Freedom_Memorial> a ns1:Monument ;
+    rdfs:label "Freedom Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/Berlin> .
+
+<http://dbpedia.org/resource/Freedom_Monument_(Bydgoszcz)> a ns1:Monument ;
+    rdfs:label "Freedom Monument (Bydgoszcz)"@en ;
+    ns1:location <http://dbpedia.org/resource/Bydgoszcz> .
+
+<http://dbpedia.org/resource/Freila> a ns1:City ;
+    rdfs:label "Freila"@en .
+
+<http://dbpedia.org/resource/Frías,_Province_of_Burgos> a ns1:City ;
+    rdfs:label "Frías, Province of Burgos"@en .
+
+<http://dbpedia.org/resource/Fuensanta_de_Martos> a ns1:City ;
+    rdfs:label "Fuensanta de Martos"@en .
+
+<http://dbpedia.org/resource/Fuente-Tójar> a ns1:City ;
+    rdfs:label "Fuente-Tójar"@en .
+
+<http://dbpedia.org/resource/Fuente_Obejuna> a ns1:City ;
+    rdfs:label "Fuente Obejuna"@en .
+
+<http://dbpedia.org/resource/Fuente_Palmera> a ns1:City ;
+    rdfs:label "Fuente Palmera"@en .
+
+<http://dbpedia.org/resource/Fuente_del_Berro> a ns1:City ;
+    rdfs:label "Fuente del Berro"@en ;
+    ns1:populationTotal 21341 .
+
+<http://dbpedia.org/resource/Fuente_la_Lancha> a ns1:City ;
+    rdfs:label "Fuente la Lancha"@en .
+
+<http://dbpedia.org/resource/Fuentes_de_Andalucía> a ns1:City ;
+    rdfs:label "Fuentes de Andalucía"@en .
+
+<http://dbpedia.org/resource/Fuerte_del_Rey> a ns1:City ;
+    rdfs:label "Fuerte del Rey"@en .
+
+<http://dbpedia.org/resource/Funchal> a ns1:City ;
+    rdfs:label "Funchal"@en .
+
+<http://dbpedia.org/resource/Fundão,_Portugal> a ns1:City ;
+    rdfs:label "Fundão, Portugal"@en .
+
+<http://dbpedia.org/resource/Gaeta> a ns1:City ;
+    rdfs:label "Gaeta"@en .
+
+<http://dbpedia.org/resource/Gafanha_da_Nazaré> a ns1:City ;
+    rdfs:label "Gafanha da Nazaré"@en .
+
+<http://dbpedia.org/resource/Galați> a ns1:City ;
+    rdfs:label "Galați"@en ;
+    ns1:populationTotal 249432 .
+
+<http://dbpedia.org/resource/Gallarate> a ns1:City ;
+    rdfs:label "Gallarate"@en ;
+    ns1:populationTotal 52787 .
+
+<http://dbpedia.org/resource/Gallneukirchen> a ns1:City ;
+    rdfs:label "Gallneukirchen"@en .
+
+<http://dbpedia.org/resource/Gandia> a ns1:City ;
+    rdfs:label "Gandia"@en .
+
+<http://dbpedia.org/resource/Gandra_(Paredes)> a ns1:City ;
+    rdfs:label "Gandra (Paredes)"@en .
+
+<http://dbpedia.org/resource/Gdynia> a ns1:City ;
+    rdfs:label "Gdynia"@en ;
+    ns1:populationTotal 243918 .
+
+<http://dbpedia.org/resource/Geel> a ns1:City ;
+    rdfs:label "Geel"@en .
+
+<http://dbpedia.org/resource/Geertruidenberg> a ns1:City ;
+    rdfs:label "Geertruidenberg"@en .
+
+<http://dbpedia.org/resource/Geleen> a ns1:City ;
+    rdfs:label "Geleen"@en ;
+    ns1:populationTotal 31245 .
+
+<http://dbpedia.org/resource/Gelves> a ns1:City ;
+    rdfs:label "Gelves"@en .
+
+<http://dbpedia.org/resource/Gendt> a ns1:City ;
+    rdfs:label "Gendt"@en .
+
+<http://dbpedia.org/resource/Genemuiden> a ns1:City ;
+    rdfs:label "Genemuiden"@en ;
+    ns1:populationTotal 9700 .
+
+<http://dbpedia.org/resource/Genk> a ns1:City ;
+    rdfs:label "Genk"@en .
+
+<http://dbpedia.org/resource/George_Town,_Cayman_Islands> a ns1:City ;
+    rdfs:label "George Town, Cayman Islands"@en ;
+    ns1:populationTotal 34921 .
+
+<http://dbpedia.org/resource/Geraardsbergen> a ns1:City ;
+    rdfs:label "Geraardsbergen"@en .
+
+<http://dbpedia.org/resource/Ghent> a ns1:City ;
+    rdfs:label "Ghent"@en .
+
+<http://dbpedia.org/resource/Giannitsa> a ns1:City ;
+    rdfs:label "Giannitsa"@en .
+
+<http://dbpedia.org/resource/Gibbet_of_Montfaucon> a ns1:Monument ;
+    rdfs:label "Gibbet of Montfaucon"@en ;
+    ns1:location <http://dbpedia.org/resource/Paris> .
+
+<http://dbpedia.org/resource/Gibellina> a ns1:City ;
+    rdfs:label "Gibellina"@en ;
+    ns1:populationTotal 4028 .
+
+<http://dbpedia.org/resource/Gijón> a ns1:City ;
+    rdfs:label "Gijón"@en ;
+    ns1:populationTotal 271780 .
+
+<http://dbpedia.org/resource/Gilena> a ns1:City ;
+    rdfs:label "Gilena"@en .
+
+<http://dbpedia.org/resource/Girona> a ns1:City ;
+    rdfs:label "Girona"@en .
+
+<http://dbpedia.org/resource/Giugliano_in_Campania> a ns1:City ;
+    rdfs:label "Giugliano in Campania"@en ;
+    ns1:populationTotal 124139 .
+
+<http://dbpedia.org/resource/Glasgow> a ns1:City ;
+    rdfs:label "Glasgow"@en .
+
+<http://dbpedia.org/resource/Gliwice> a ns1:City ;
+    rdfs:label "Gliwice"@en ;
+    ns1:populationTotal 175102 .
+
+<http://dbpedia.org/resource/Gloucester> a ns1:City ;
+    rdfs:label "Gloucester"@en ;
+    ns1:populationTotal 132416 .
+
+<http://dbpedia.org/resource/Gniezno> a ns1:City ;
+    rdfs:label "Gniezno"@en ;
+    ns1:populationTotal 66769 .
+
+<http://dbpedia.org/resource/Goes> a ns1:City ;
+    rdfs:label "Goes"@en .
+
+<http://dbpedia.org/resource/Goor> a ns1:City ;
+    rdfs:label "Goor"@en ;
+    ns1:populationTotal 12155 .
+
+<http://dbpedia.org/resource/Gorlice> a ns1:City ;
+    rdfs:label "Gorlice"@en ;
+    ns1:populationTotal 29500 .
+
+<http://dbpedia.org/resource/Gorzów_Wielkopolski> a ns1:City ;
+    rdfs:label "Gorzów Wielkopolski"@en ;
+    ns1:populationTotal 120087 .
+
+<http://dbpedia.org/resource/Gothenburg> a ns1:City ;
+    rdfs:label "Gothenburg"@en ;
+    ns1:populationTotal 587549 .
+
+<http://dbpedia.org/resource/Gouda,_South_Holland> a ns1:City ;
+    rdfs:label "Gouda, South Holland"@en .
+
+<http://dbpedia.org/resource/Gouveia,_Portugal> a ns1:City ;
+    rdfs:label "Gouveia, Portugal"@en .
+
+<http://dbpedia.org/resource/Goya_(Madrid)> a ns1:City ;
+    rdfs:label "Goya (Madrid)"@en ;
+    ns1:populationTotal 30010 .
+
+<http://dbpedia.org/resource/Gołotczyzna> a ns1:City ;
+    rdfs:label "Gołotczyzna"@en ;
+    ns1:populationTotal 727 .
+
+<http://dbpedia.org/resource/Grafhorst> a ns1:City ;
+    rdfs:label "Grafhorst"@en ;
+    ns1:populationTotal 1030 .
+
+<http://dbpedia.org/resource/Gramsbergen> a ns1:City ;
+    rdfs:label "Gramsbergen"@en ;
+    ns1:populationTotal 3180 .
+
+<http://dbpedia.org/resource/Grave,_Netherlands> a ns1:City ;
+    rdfs:label "Grave, Netherlands"@en ;
+    ns1:populationTotal 8580 .
+
+<http://dbpedia.org/resource/Greater_Brighton_City_Region> a ns1:City ;
+    rdfs:label "Greater Brighton City Region"@en ;
+    ns1:populationTotal 932500 .
+
+<http://dbpedia.org/resource/Green_Gate> a ns1:City ;
+    rdfs:label "Green Gate"@en .
+
+<http://dbpedia.org/resource/Groenlo> a ns1:City ;
+    rdfs:label "Groenlo"@en ;
+    ns1:populationTotal 9860 .
+
+<http://dbpedia.org/resource/Groningen> a ns1:City ;
+    rdfs:label "Groningen"@en ;
+    ns1:populationTotal 233218 .
+
+<http://dbpedia.org/resource/Grosseto> a ns1:City ;
+    rdfs:label "Grosseto"@en ;
+    ns1:populationTotal 82131 .
+
+<http://dbpedia.org/resource/Grudziądz> a ns1:City ;
+    rdfs:label "Grudziądz"@en ;
+    ns1:populationTotal 92552 .
+
+<http://dbpedia.org/resource/Grygieliszki> a ns1:City ;
+    rdfs:label "Grygieliszki"@en ;
+    ns1:populationTotal 30 .
+
+<http://dbpedia.org/resource/Guadalcázar_(Córdoba)> a ns1:City ;
+    rdfs:label "Guadalcázar (Córdoba)"@en .
+
+<http://dbpedia.org/resource/Guarda,_Portugal> a ns1:City ;
+    rdfs:label "Guarda, Portugal"@en .
+
+<http://dbpedia.org/resource/Guards_Memorial> a ns1:Monument ;
+    rdfs:label "Guards Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Guarromán> a ns1:City ;
+    rdfs:label "Guarromán"@en .
+
+<http://dbpedia.org/resource/Guildford> a ns1:City ;
+    rdfs:label "Guildford"@en ;
+    ns1:populationTotal 77057 .
+
+<http://dbpedia.org/resource/Guillena> a ns1:City ;
+    rdfs:label "Guillena"@en .
+
+<http://dbpedia.org/resource/Guimarães> a ns1:City ;
+    rdfs:label "Guimarães"@en .
+
+<http://dbpedia.org/resource/Gurkha_Memorial,_London> a ns1:Monument ;
+    rdfs:label "Gurkha Memorial, London"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Gustavia,_Saint_Barthélemy> a ns1:City ;
+    rdfs:label "Gustavia, Saint Barthélemy"@en ;
+    ns1:populationTotal 2300 .
+
+<http://dbpedia.org/resource/Gustavsberg,_Värmdö> a ns1:City ;
+    rdfs:label "Gustavsberg, Värmdö"@en ;
+    ns1:populationTotal 11333 .
+
+<http://dbpedia.org/resource/Győr> a ns1:City ;
+    rdfs:label "Győr"@en ;
+    ns1:populationTotal 129301 .
+
+<http://dbpedia.org/resource/Gävle> a ns1:City ;
+    rdfs:label "Gävle"@en ;
+    ns1:populationTotal 75451 .
+
+<http://dbpedia.org/resource/Génave> a ns1:City ;
+    rdfs:label "Génave"@en .
+
+<http://dbpedia.org/resource/Gójar> a ns1:City ;
+    rdfs:label "Gójar"@en .
+
+<http://dbpedia.org/resource/Gösting> a ns1:City ;
+    rdfs:label "Gösting"@en ;
+    ns1:populationTotal 11489 .
+
+<http://dbpedia.org/resource/Güevéjar> a ns1:City ;
+    rdfs:label "Güevéjar"@en .
+
+<http://dbpedia.org/resource/Głogówek> a ns1:City ;
+    rdfs:label "Głogówek"@en ;
+    ns1:populationTotal 5592 .
+
+<http://dbpedia.org/resource/Haarlem> a ns1:City ;
+    rdfs:label "Haarlem"@en .
+
+<http://dbpedia.org/resource/Hagestein> a ns1:City ;
+    rdfs:label "Hagestein"@en ;
+    ns1:populationTotal 1460 .
+
+<http://dbpedia.org/resource/Halle,_Belgium> a ns1:City ;
+    rdfs:label "Halle, Belgium"@en .
+
+<http://dbpedia.org/resource/Halásztelek> a ns1:City ;
+    rdfs:label "Halásztelek"@en ;
+    ns1:populationTotal 8620 .
+
+<http://dbpedia.org/resource/Hamilton,_Bermuda> a ns1:City ;
+    rdfs:label "Hamilton, Bermuda"@en ;
+    ns1:populationTotal 854 .
+
+<http://dbpedia.org/resource/Hardenberg> a ns1:City ;
+    rdfs:label "Hardenberg"@en .
+
+<http://dbpedia.org/resource/Hartberg> a ns1:City ;
+    rdfs:label "Hartberg"@en .
+
+<http://dbpedia.org/resource/Hasselt> a ns1:City ;
+    rdfs:label "Hasselt"@en .
+
+<http://dbpedia.org/resource/Hasselt,_Overijssel> a ns1:City ;
+    rdfs:label "Hasselt, Overijssel"@en .
+
+<http://dbpedia.org/resource/Hattem> a ns1:City ;
+    rdfs:label "Hattem"@en .
+
+<http://dbpedia.org/resource/Heerhugowaard> a ns1:City ;
+    rdfs:label "Heerhugowaard"@en .
+
+<http://dbpedia.org/resource/Heerlen> a ns1:City ;
+    rdfs:label "Heerlen"@en .
+
+<http://dbpedia.org/resource/Hellevoetsluis> a ns1:City ;
+    rdfs:label "Hellevoetsluis"@en .
+
+<http://dbpedia.org/resource/Hellín_(Madrid)> a ns1:City ;
+    rdfs:label "Hellín (Madrid)"@en ;
+    ns1:populationTotal 9403 .
+
+<http://dbpedia.org/resource/Helmond> a ns1:City ;
+    rdfs:label "Helmond"@en .
+
+<http://dbpedia.org/resource/Heraklion> a ns1:City ;
+    rdfs:label "Heraklion"@en .
+
+<http://dbpedia.org/resource/Hereford> a ns1:City ;
+    rdfs:label "Hereford"@en ;
+    ns1:populationTotal 53112 .
+
+<http://dbpedia.org/resource/Herentals> a ns1:City ;
+    rdfs:label "Herentals"@en .
+
+<http://dbpedia.org/resource/Hertford_Heath> a ns1:City ;
+    rdfs:label "Hertford Heath"@en ;
+    ns1:populationTotal 2672 .
+
+<http://dbpedia.org/resource/Heukelum> a ns1:City ;
+    rdfs:label "Heukelum"@en ;
+    ns1:populationTotal 2280 .
+
+<http://dbpedia.org/resource/Heves> a ns1:City ;
+    rdfs:label "Heves"@en ;
+    ns1:populationTotal 10864 .
+
+<http://dbpedia.org/resource/High_Wycombe> a ns1:City ;
+    rdfs:label "High Wycombe"@en ;
+    ns1:populationTotal 75814 .
+
+<http://dbpedia.org/resource/Hillegersberg> a ns1:City ;
+    rdfs:label "Hillegersberg"@en ;
+    ns1:populationTotal 43991 .
+
+<http://dbpedia.org/resource/Hilversum> a ns1:City ;
+    rdfs:label "Hilversum"@en ;
+    ns1:populationTotal 90261 .
+
+<http://dbpedia.org/resource/Hindeloopen> a ns1:City ;
+    rdfs:label "Hindeloopen"@en ;
+    ns1:populationTotal 875 .
+
+<http://dbpedia.org/resource/Hinojosa_del_Duque> a ns1:City ;
+    rdfs:label "Hinojosa del Duque"@en .
+
+<http://dbpedia.org/resource/Hispanoamérica> a ns1:City ;
+    rdfs:label "Hispanoamérica"@en ;
+    ns1:populationTotal 32181 .
+
+<http://dbpedia.org/resource/Homo_Homini_(monument)> a ns1:Monument ;
+    rdfs:label "Homo Homini (monument)"@en ;
+    ns1:location <http://dbpedia.org/resource/Kielce> .
+
+<http://dbpedia.org/resource/Homomonument> a ns1:Monument ;
+    rdfs:label "Homomonument"@en ;
+    ns1:location <http://dbpedia.org/resource/Amsterdam> .
+
+<http://dbpedia.org/resource/Hoofddorp> a ns1:City ;
+    rdfs:label "Hoofddorp"@en ;
+    ns1:populationTotal 77885 .
+
+<http://dbpedia.org/resource/Hoogwoud> a ns1:City ;
+    rdfs:label "Hoogwoud"@en ;
+    ns1:populationTotal 3590 .
+
+<http://dbpedia.org/resource/Hoorn> a ns1:City ;
+    rdfs:label "Hoorn"@en ;
+    ns1:populationTotal 73619 .
+
+<http://dbpedia.org/resource/Horcajo_(Madrid)> a ns1:City ;
+    rdfs:label "Horcajo (Madrid)"@en ;
+    ns1:populationTotal 6453 .
+
+<http://dbpedia.org/resource/Hornachuelos> a ns1:City ;
+    rdfs:label "Hornachuelos"@en .
+
+<http://dbpedia.org/resource/Hudiksvall> a ns1:City ;
+    rdfs:label "Hudiksvall"@en ;
+    ns1:populationTotal 15015 .
+
+<http://dbpedia.org/resource/Huelma> a ns1:City ;
+    rdfs:label "Huelma"@en .
+
+<http://dbpedia.org/resource/Huesa> a ns1:City ;
+    rdfs:label "Huesa"@en .
+
+<http://dbpedia.org/resource/Huesca> a ns1:City ;
+    rdfs:label "Huesca"@en ;
+    ns1:populationTotal 53956 .
+
+<http://dbpedia.org/resource/Huissen> a ns1:City ;
+    rdfs:label "Huissen"@en .
+
+<http://dbpedia.org/resource/Hulst> a ns1:City ;
+    rdfs:label "Hulst"@en .
+
+<http://dbpedia.org/resource/Husie> a ns1:City ;
+    rdfs:label "Husie"@en ;
+    ns1:populationTotal 20769 .
+
+<http://dbpedia.org/resource/Huélago> a ns1:City ;
+    rdfs:label "Huélago"@en .
+
+<http://dbpedia.org/resource/Huéneja> a ns1:City ;
+    rdfs:label "Huéneja"@en .
+
+<http://dbpedia.org/resource/Huétor_Vega> a ns1:City ;
+    rdfs:label "Huétor Vega"@en .
+
+<http://dbpedia.org/resource/Huévar_del_Aljarafe> a ns1:City ;
+    rdfs:label "Huévar del Aljarafe"@en .
+
+<http://dbpedia.org/resource/Hyde_Park_Holocaust_Memorial> a ns1:Monument ;
+    rdfs:label "Hyde Park Holocaust Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Hyllie> a ns1:City ;
+    rdfs:label "Hyllie"@en ;
+    ns1:populationTotal 32998 .
+
+<http://dbpedia.org/resource/Hódmezővásárhely> a ns1:City ;
+    rdfs:label "Hódmezővásárhely"@en ;
+    ns1:populationTotal 44009 .
+
+<http://dbpedia.org/resource/Hôtel_de_Blossac> a ns1:Monument ;
+    rdfs:label "Hôtel de Blossac"@en ;
+    ns1:location <http://dbpedia.org/resource/Rennes> .
+
+<http://dbpedia.org/resource/Hôtel_de_Nevers_(rue_de_Richelieu)> a ns1:Monument ;
+    rdfs:label "Hôtel de Nevers (rue de Richelieu)"@en ;
+    ns1:location <http://dbpedia.org/resource/Paris> .
+
+<http://dbpedia.org/resource/IJlst> a ns1:City ;
+    rdfs:label "IJlst"@en ;
+    ns1:populationTotal 3140 .
+
+<http://dbpedia.org/resource/IJsselstein> a ns1:City ;
+    rdfs:label "IJsselstein"@en .
+
+<http://dbpedia.org/resource/IJzendijke> a ns1:City ;
+    rdfs:label "IJzendijke"@en ;
+    ns1:populationTotal 2400 .
+
+<http://dbpedia.org/resource/Iași> a ns1:City ;
+    rdfs:label "Iași"@en ;
+    ns1:populationTotal 290422 .
+
+<http://dbpedia.org/resource/Ibiza_(Madrid)> a ns1:City ;
+    rdfs:label "Ibiza (Madrid)"@en ;
+    ns1:populationTotal 22050 .
+
+<http://dbpedia.org/resource/Ibiza_(town)> a ns1:City ;
+    rdfs:label "Ibiza (town)"@en .
+
+<http://dbpedia.org/resource/Igoumenitsa> a ns1:City ;
+    rdfs:label "Igoumenitsa"@en .
+
+<http://dbpedia.org/resource/Imperia> a ns1:City ;
+    rdfs:label "Imperia"@en ;
+    ns1:populationTotal 42328 .
+
+<http://dbpedia.org/resource/Innerstaden,_Malmö> a ns1:City ;
+    rdfs:label "Innerstaden, Malmö"@en ;
+    ns1:populationTotal 67900 .
+
+<http://dbpedia.org/resource/Innsbruck> a ns1:City ;
+    rdfs:label "Innsbruck"@en .
+
+<http://dbpedia.org/resource/Inowrocław> a ns1:City ;
+    rdfs:label "Inowrocław"@en ;
+    ns1:populationTotal 70713 .
+
+<http://dbpedia.org/resource/International_Stele_Always_Remember> a ns1:Monument ;
+    rdfs:label "International Stele Always Remember"@en ;
+    ns1:location <http://dbpedia.org/resource/Berlin> .
+
+<http://dbpedia.org/resource/Ioannina> a ns1:City ;
+    rdfs:label "Ioannina"@en .
+
+<http://dbpedia.org/resource/Ipswich> a ns1:City ;
+    rdfs:label "Ipswich"@en ;
+    ns1:populationTotal 133384 .
+
+<http://dbpedia.org/resource/Isle_of_Lewis> a ns1:City ;
+    rdfs:label "Isle of Lewis"@en ;
+    ns1:populationTotal 18500 .
+
+<http://dbpedia.org/resource/Ispica> a ns1:City ;
+    rdfs:label "Ispica"@en ;
+    ns1:populationTotal 16302 .
+
+<http://dbpedia.org/resource/Itri> a ns1:City ;
+    rdfs:label "Itri"@en ;
+    ns1:populationTotal 10342 .
+
+<http://dbpedia.org/resource/Jabalquinto> a ns1:City ;
+    rdfs:label "Jabalquinto"@en .
+
+<http://dbpedia.org/resource/Jaca> a ns1:City ;
+    rdfs:label "Jaca"@en .
+
+<http://dbpedia.org/resource/Jamilena> a ns1:City ;
+    rdfs:label "Jamilena"@en .
+
+<http://dbpedia.org/resource/Jamno,_Koszalin> a ns1:City ;
+    rdfs:label "Jamno, Koszalin"@en ;
+    ns1:populationTotal 530 .
+
+<http://dbpedia.org/resource/Jastrzębie-Zdrój> a ns1:City ;
+    rdfs:label "Jastrzębie-Zdrój"@en ;
+    ns1:populationTotal 86632 .
+
+<http://dbpedia.org/resource/Jaworzno> a ns1:City ;
+    rdfs:label "Jaworzno"@en ;
+    ns1:populationTotal 89350 .
+
+<http://dbpedia.org/resource/Jayena> a ns1:City ;
+    rdfs:label "Jayena"@en .
+
+<http://dbpedia.org/resource/Jaén,_Spain> a ns1:City ;
+    rdfs:label "Jaén, Spain"@en .
+
+<http://dbpedia.org/resource/Jelenia_Góra> a ns1:City ;
+    rdfs:label "Jelenia Góra"@en ;
+    ns1:populationTotal 77366 .
+
+<http://dbpedia.org/resource/Jete,_Granada> a ns1:City ;
+    rdfs:label "Jete, Granada"@en .
+
+<http://dbpedia.org/resource/Jimena,_Spain> a ns1:City ;
+    rdfs:label "Jimena, Spain"@en .
+
+<http://dbpedia.org/resource/Jodoigne> a ns1:City ;
+    rdfs:label "Jodoigne"@en .
+
+<http://dbpedia.org/resource/John_III_Sobieski_Monument_in_Gdańsk> a ns1:Monument ;
+    rdfs:label "John III Sobieski Monument in Gdańsk"@en ;
+    ns1:location <http://dbpedia.org/resource/Gdańsk> .
+
+<http://dbpedia.org/resource/János_Esterházy_Monument,_Warsaw> a ns1:Monument ;
+    rdfs:label "János Esterházy Monument, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Jászberény> a ns1:City ;
+    rdfs:label "Jászberény"@en ;
+    ns1:populationTotal 27439 .
+
+<http://dbpedia.org/resource/Jódar> a ns1:City ;
+    rdfs:label "Jódar"@en .
+
+<http://dbpedia.org/resource/Józef_Piłsudski_Monument,_Warsaw> a ns1:Monument ;
+    rdfs:label "Józef Piłsudski Monument, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Jönköping> a ns1:City ;
+    rdfs:label "Jönköping"@en ;
+    ns1:populationTotal 112766 .
+
+<http://dbpedia.org/resource/Kalisz> a ns1:City ;
+    rdfs:label "Kalisz"@en ;
+    ns1:populationTotal 97905 .
+
+<http://dbpedia.org/resource/Kalmar> a ns1:City ;
+    rdfs:label "Kalmar"@en ;
+    ns1:populationTotal 36392 .
+
+<http://dbpedia.org/resource/Kampen,_Overijssel> a ns1:City ;
+    rdfs:label "Kampen, Overijssel"@en .
+
+<http://dbpedia.org/resource/Kanaris_at_Chios_(sculpture)> a ns1:Monument ;
+    rdfs:label "Kanaris at Chios (sculpture)"@en ;
+    ns1:location <http://dbpedia.org/resource/Palermo> .
+
+<http://dbpedia.org/resource/Kapfenberg> a ns1:City ;
+    rdfs:label "Kapfenberg"@en .
+
+<http://dbpedia.org/resource/Kaposvár> a ns1:City ;
+    rdfs:label "Kaposvár"@en ;
+    ns1:populationTotal 64280 .
+
+<http://dbpedia.org/resource/Karditsa> a ns1:City ;
+    rdfs:label "Karditsa"@en .
+
+<http://dbpedia.org/resource/Karlstad> a ns1:City ;
+    rdfs:label "Karlstad"@en ;
+    ns1:populationTotal 65856 .
+
+<http://dbpedia.org/resource/Kastoria> a ns1:City ;
+    rdfs:label "Kastoria"@en .
+
+<http://dbpedia.org/resource/Katowice> a ns1:City ;
+    rdfs:label "Katowice"@en ;
+    ns1:populationTotal 286960 .
+
+<http://dbpedia.org/resource/Kavala> a ns1:City ;
+    rdfs:label "Kavala"@en .
+
+<http://dbpedia.org/resource/Kecskemét> a ns1:City ;
+    rdfs:label "Kecskemét"@en ;
+    ns1:populationTotal 110813 .
+
+<http://dbpedia.org/resource/Kerepes> a ns1:City ;
+    rdfs:label "Kerepes"@en ;
+    ns1:populationTotal 9968 .
+
+<http://dbpedia.org/resource/Kessel,_Limburg> a ns1:City ;
+    rdfs:label "Kessel, Limburg"@en ;
+    ns1:populationTotal 3190 .
+
+<http://dbpedia.org/resource/Keszthely> a ns1:City ;
+    rdfs:label "Keszthely"@en ;
+    ns1:populationTotal 19652 .
+
+<http://dbpedia.org/resource/Khojaly_massacre_memorials> a ns1:Monument ;
+    rdfs:label "Khojaly massacre memorials"@en ;
+    ns1:location <http://dbpedia.org/resource/Berlin> .
+
+<http://dbpedia.org/resource/Kilkis> a ns1:City ;
+    rdfs:label "Kilkis"@en .
+
+<http://dbpedia.org/resource/Kirseberg> a ns1:City ;
+    rdfs:label "Kirseberg"@en ;
+    ns1:populationTotal 14959 .
+
+<http://dbpedia.org/resource/Kiskunfélegyháza> a ns1:City ;
+    rdfs:label "Kiskunfélegyháza"@en ;
+    ns1:populationTotal 30172 .
+
+<http://dbpedia.org/resource/Kiskunhalas> a ns1:City ;
+    rdfs:label "Kiskunhalas"@en ;
+    ns1:populationTotal 28997 .
+
+<http://dbpedia.org/resource/Klundert> a ns1:City ;
+    rdfs:label "Klundert"@en ;
+    ns1:populationTotal 5885 .
+
+<http://dbpedia.org/resource/Knittelfeld> a ns1:City ;
+    rdfs:label "Knittelfeld"@en .
+
+<http://dbpedia.org/resource/Kojdy> a ns1:City ;
+    rdfs:label "Kojdy"@en ;
+    ns1:populationTotal 120 .
+
+<http://dbpedia.org/resource/Konin> a ns1:City ;
+    rdfs:label "Konin"@en ;
+    ns1:populationTotal 71427 .
+
+<http://dbpedia.org/resource/Kortgene> a ns1:City ;
+    rdfs:label "Kortgene"@en ;
+    ns1:populationTotal 1910 .
+
+<http://dbpedia.org/resource/Kortrijk> a ns1:City ;
+    rdfs:label "Kortrijk"@en .
+
+<http://dbpedia.org/resource/Koszalin> a ns1:City ;
+    rdfs:label "Koszalin"@en ;
+    ns1:populationTotal 104994 .
+
+<http://dbpedia.org/resource/Kołobrzeg> a ns1:City ;
+    rdfs:label "Kołobrzeg"@en ;
+    ns1:populationTotal 46830 .
+
+<http://dbpedia.org/resource/Kralendijk> a ns1:City ;
+    rdfs:label "Kralendijk"@en ;
+    ns1:populationTotal 10620 .
+
+<http://dbpedia.org/resource/Kristianstad> a ns1:City ;
+    rdfs:label "Kristianstad"@en ;
+    ns1:populationTotal 40145 .
+
+<http://dbpedia.org/resource/Kungälv> a ns1:City ;
+    rdfs:label "Kungälv"@en ;
+    ns1:populationTotal 22768 .
+
+<http://dbpedia.org/resource/Köflach> a ns1:City ;
+    rdfs:label "Köflach"@en .
+
+<http://dbpedia.org/resource/L'Aquila> a ns1:City ;
+    rdfs:label "L'Aquila"@en ;
+    ns1:populationTotal 70967 .
+
+<http://dbpedia.org/resource/La_Campana> a ns1:City ;
+    rdfs:label "La Campana"@en .
+
+<http://dbpedia.org/resource/La_Granjuela> a ns1:City ;
+    rdfs:label "La Granjuela"@en .
+
+<http://dbpedia.org/resource/La_Guardia_de_Jaén> a ns1:City ;
+    rdfs:label "La Guardia de Jaén"@en ;
+    ns1:populationTotal 4061 .
+
+<http://dbpedia.org/resource/La_Guindalera> a ns1:City ;
+    rdfs:label "La Guindalera"@en ;
+    ns1:populationTotal 42516 .
+
+<http://dbpedia.org/resource/La_Louvière> a ns1:City ;
+    rdfs:label "La Louvière"@en .
+
+<http://dbpedia.org/resource/La_Luisiana> a ns1:City ;
+    rdfs:label "La Luisiana"@en .
+
+<http://dbpedia.org/resource/La_Malahá> a ns1:City ;
+    rdfs:label "La Malahá"@en .
+
+<http://dbpedia.org/resource/La_Puebla_de_Cazalla> a ns1:City ;
+    rdfs:label "La Puebla de Cazalla"@en .
+
+<http://dbpedia.org/resource/La_Puebla_de_los_Infantes> a ns1:City ;
+    rdfs:label "La Puebla de los Infantes"@en .
+
+<http://dbpedia.org/resource/La_Puebla_del_Río> a ns1:City ;
+    rdfs:label "La Puebla del Río"@en .
+
+<http://dbpedia.org/resource/La_Puerta_de_Segura> a ns1:City ;
+    rdfs:label "La Puerta de Segura"@en .
+
+<http://dbpedia.org/resource/La_Rambla,_Córdoba> a ns1:City ;
+    rdfs:label "La Rambla, Córdoba"@en .
+
+<http://dbpedia.org/resource/La_Rinconada> a ns1:City ;
+    rdfs:label "La Rinconada"@en .
+
+<http://dbpedia.org/resource/La_Rochelle> a ns1:City ;
+    rdfs:label "La Rochelle"@en .
+
+<http://dbpedia.org/resource/La_Roda> a ns1:City ;
+    rdfs:label "La Roda"@en .
+
+<http://dbpedia.org/resource/La_Spezia> a ns1:City ;
+    rdfs:label "La Spezia"@en ;
+    ns1:populationTotal 93288 .
+
+<http://dbpedia.org/resource/Laag-Keppel> a ns1:City ;
+    rdfs:label "Laag-Keppel"@en ;
+    ns1:populationTotal 455 .
+
+<http://dbpedia.org/resource/Lahiguera> a ns1:City ;
+    rdfs:label "Lahiguera"@en .
+
+<http://dbpedia.org/resource/Lahovari_House> a ns1:Monument ;
+    rdfs:label "Lahovari House"@en ;
+    ns1:location <http://dbpedia.org/resource/Bucharest> .
+
+<http://dbpedia.org/resource/Lamego> a ns1:City ;
+    rdfs:label "Lamego"@en .
+
+<http://dbpedia.org/resource/Lamezia_Terme> a ns1:City ;
+    rdfs:label "Lamezia Terme"@en ;
+    ns1:populationTotal 67713 .
+
+<http://dbpedia.org/resource/Lamia_(city)> a ns1:City ;
+    rdfs:label "Lamia (city)"@en .
+
+<http://dbpedia.org/resource/Lanteira> a ns1:City ;
+    rdfs:label "Lanteira"@en .
+
+<http://dbpedia.org/resource/Laon> a ns1:City ;
+    rdfs:label "Laon"@en .
+
+<http://dbpedia.org/resource/Las_Acacias_(Madrid)> a ns1:City ;
+    rdfs:label "Las Acacias (Madrid)"@en ;
+    ns1:populationTotal 37049 .
+
+<http://dbpedia.org/resource/Las_Gabias> a ns1:City ;
+    rdfs:label "Las Gabias"@en .
+
+<http://dbpedia.org/resource/Lateran_Obelisk> a ns1:Monument ;
+    rdfs:label "Lateran Obelisk"@en ;
+    ns1:location <http://dbpedia.org/resource/Rome> .
+
+<http://dbpedia.org/resource/Lavagna> a ns1:City ;
+    rdfs:label "Lavagna"@en ;
+    ns1:populationTotal 12510 .
+
+<http://dbpedia.org/resource/Le_Mans> a ns1:City ;
+    rdfs:label "Le Mans"@en .
+
+<http://dbpedia.org/resource/Leamington_Spa> a ns1:City ;
+    rdfs:label "Leamington Spa"@en ;
+    ns1:populationTotal 52213 .
+
+<http://dbpedia.org/resource/Lebrija> a ns1:City ;
+    rdfs:label "Lebrija"@en .
+
+<http://dbpedia.org/resource/Lecce> a ns1:City ;
+    rdfs:label "Lecce"@en ;
+    ns1:populationTotal 95766 .
+
+<http://dbpedia.org/resource/Lecco> a ns1:City ;
+    rdfs:label "Lecco"@en ;
+    ns1:populationTotal 48366 .
+
+<http://dbpedia.org/resource/Lecrín> a ns1:City ;
+    rdfs:label "Lecrín"@en .
+
+<http://dbpedia.org/resource/Leerdam> a ns1:City ;
+    rdfs:label "Leerdam"@en ;
+    ns1:populationTotal 21000 .
+
+<http://dbpedia.org/resource/Leeuwarden> a ns1:City ;
+    rdfs:label "Leeuwarden"@en .
+
+<http://dbpedia.org/resource/Lefkada_(city)> a ns1:City ;
+    rdfs:label "Lefkada (city)"@en .
+
+<http://dbpedia.org/resource/Legazpi_(Madrid)> a ns1:City ;
+    rdfs:label "Legazpi (Madrid)"@en ;
+    ns1:populationTotal 19820 .
+
+<http://dbpedia.org/resource/Leibnitz> a ns1:City ;
+    rdfs:label "Leibnitz"@en .
+
+<http://dbpedia.org/resource/Leiden> a ns1:City ;
+    rdfs:label "Leiden"@en .
+
+<http://dbpedia.org/resource/Leiria> a ns1:City ;
+    rdfs:label "Leiria"@en .
+
+<http://dbpedia.org/resource/Lelystad> a ns1:City ;
+    rdfs:label "Lelystad"@en .
+
+<http://dbpedia.org/resource/Lenham> a ns1:City ;
+    rdfs:label "Lenham"@en ;
+    ns1:populationTotal 3370 .
+
+<http://dbpedia.org/resource/Lentegí> a ns1:City ;
+    rdfs:label "Lentegí"@en .
+
+<http://dbpedia.org/resource/Leoben> a ns1:City ;
+    rdfs:label "Leoben"@en .
+
+<http://dbpedia.org/resource/Leonding> a ns1:City ;
+    rdfs:label "Leonding"@en .
+
+<http://dbpedia.org/resource/Licata> a ns1:City ;
+    rdfs:label "Licata"@en ;
+    ns1:populationTotal 36461 .
+
+<http://dbpedia.org/resource/Lichfield> a ns1:City ;
+    rdfs:label "Lichfield"@en ;
+    ns1:populationTotal 33816 .
+
+<http://dbpedia.org/resource/Lilienfeld> a ns1:City ;
+    rdfs:label "Lilienfeld"@en .
+
+<http://dbpedia.org/resource/Limbourg> a ns1:City ;
+    rdfs:label "Limbourg"@en .
+
+<http://dbpedia.org/resource/Limhamn-Bunkeflo> a ns1:City ;
+    rdfs:label "Limhamn-Bunkeflo"@en ;
+    ns1:populationTotal 42646 .
+
+<http://dbpedia.org/resource/Limoges> a ns1:City ;
+    rdfs:label "Limoges"@en .
+
+<http://dbpedia.org/resource/Linares,_Jaén> a ns1:City ;
+    rdfs:label "Linares, Jaén"@en ;
+    ns1:populationTotal 57414 .
+
+<http://dbpedia.org/resource/Linköping> a ns1:City ;
+    rdfs:label "Linköping"@en ;
+    ns1:populationTotal 104232 .
+
+<http://dbpedia.org/resource/Linz> a ns1:City ;
+    rdfs:label "Linz"@en .
+
+<http://dbpedia.org/resource/Lisburn> a ns1:City ;
+    rdfs:label "Lisburn"@en ;
+    ns1:populationTotal 45370 .
+
+<http://dbpedia.org/resource/Lista_(Madrid)> a ns1:City ;
+    rdfs:label "Lista (Madrid)"@en ;
+    ns1:populationTotal 21362 .
+
+<http://dbpedia.org/resource/Liverpool> a ns1:City ;
+    rdfs:label "Liverpool"@en .
+
+<http://dbpedia.org/resource/Liverpool_City_Region> a ns1:City ;
+    rdfs:label "Liverpool City Region"@en ;
+    ns1:populationTotal 1551500 .
+
+<http://dbpedia.org/resource/Livorno> a ns1:City ;
+    rdfs:label "Livorno"@en ;
+    ns1:populationTotal 157017 .
+
+<http://dbpedia.org/resource/Lixa> a ns1:City ;
+    rdfs:label "Lixa"@en ;
+    ns1:populationTotal 4233 .
+
+<http://dbpedia.org/resource/Liège> a ns1:City ;
+    rdfs:label "Liège"@en .
+
+<http://dbpedia.org/resource/Lleida> a ns1:City ;
+    rdfs:label "Lleida"@en .
+
+<http://dbpedia.org/resource/Lobras> a ns1:City ;
+    rdfs:label "Lobras"@en .
+
+<http://dbpedia.org/resource/Lochem> a ns1:City ;
+    rdfs:label "Lochem"@en .
+
+<http://dbpedia.org/resource/Lodi,_Lombardy> a ns1:City ;
+    rdfs:label "Lodi, Lombardy"@en ;
+    ns1:populationTotal 45212 .
+
+<http://dbpedia.org/resource/Logroño> a ns1:City ;
+    rdfs:label "Logroño"@en ;
+    ns1:populationTotal 152485 .
+
+<http://dbpedia.org/resource/Lopera> a ns1:City ;
+    rdfs:label "Lopera"@en .
+
+<http://dbpedia.org/resource/Lora_de_Estepa> a ns1:City ;
+    rdfs:label "Lora de Estepa"@en .
+
+<http://dbpedia.org/resource/Lora_del_Río> a ns1:City ;
+    rdfs:label "Lora del Río"@en .
+
+<http://dbpedia.org/resource/Los_Corrales> a ns1:City ;
+    rdfs:label "Los Corrales"@en .
+
+<http://dbpedia.org/resource/Los_Llanos_de_Aridane> a ns1:City ;
+    rdfs:label "Los Llanos de Aridane"@en .
+
+<http://dbpedia.org/resource/Los_Molares> a ns1:City ;
+    rdfs:label "Los Molares"@en .
+
+<http://dbpedia.org/resource/Los_Palacios_y_Villafranca> a ns1:City ;
+    rdfs:label "Los Palacios y Villafranca"@en .
+
+<http://dbpedia.org/resource/Los_Villares> a ns1:City ;
+    rdfs:label "Los Villares"@en .
+
+<http://dbpedia.org/resource/Loughborough> a ns1:City ;
+    rdfs:label "Loughborough"@en ;
+    ns1:populationTotal 59932 .
+
+<http://dbpedia.org/resource/Loulé> a ns1:City ;
+    rdfs:label "Loulé"@en .
+
+<http://dbpedia.org/resource/Loures> a ns1:City ;
+    rdfs:label "Loures"@en .
+
+<http://dbpedia.org/resource/Lublin_Holocaust_Memorial> a ns1:Monument ;
+    rdfs:label "Lublin Holocaust Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/Lublin> .
+
+<http://dbpedia.org/resource/Lucca> a ns1:City ;
+    rdfs:label "Lucca"@en ;
+    ns1:populationTotal 89346 .
+
+<http://dbpedia.org/resource/Lucera> a ns1:City ;
+    rdfs:label "Lucera"@en ;
+    ns1:populationTotal 34243 .
+
+<http://dbpedia.org/resource/Lugo> a ns1:City ;
+    rdfs:label "Lugo"@en .
+
+<http://dbpedia.org/resource/Lugoj> a ns1:City ;
+    rdfs:label "Lugoj"@en ;
+    ns1:populationTotal 47125 .
+
+<http://dbpedia.org/resource/Luleå> a ns1:City ;
+    rdfs:label "Luleå"@en .
+
+<http://dbpedia.org/resource/Lund> a ns1:City ;
+    rdfs:label "Lund"@en ;
+    ns1:populationTotal 94393 .
+
+<http://dbpedia.org/resource/Maasbommel> a ns1:City ;
+    rdfs:label "Maasbommel"@en ;
+    ns1:populationTotal 1345 .
+
+<http://dbpedia.org/resource/Maastricht> a ns1:City ;
+    rdfs:label "Maastricht"@en .
+
+<http://dbpedia.org/resource/Macerata> a ns1:City ;
+    rdfs:label "Macerata"@en ;
+    ns1:populationTotal 41564 .
+
+<http://dbpedia.org/resource/Machico,_Madeira> a ns1:City ;
+    rdfs:label "Machico, Madeira"@en .
+
+<http://dbpedia.org/resource/Mafra,_Portugal> a ns1:City ;
+    rdfs:label "Mafra, Portugal"@en .
+
+<http://dbpedia.org/resource/Mairena_del_Alcor> a ns1:City ;
+    rdfs:label "Mairena del Alcor"@en .
+
+<http://dbpedia.org/resource/Maison_Coilliot> a ns1:Monument ;
+    rdfs:label "Maison Coilliot"@en ;
+    ns1:location <http://dbpedia.org/resource/Lille> .
+
+<http://dbpedia.org/resource/Malmedy> a ns1:City ;
+    rdfs:label "Malmedy"@en .
+
+<http://dbpedia.org/resource/Malmö> a ns1:City ;
+    rdfs:label "Malmö"@en ;
+    ns1:populationTotal 351749 .
+
+<http://dbpedia.org/resource/Mancha_Real> a ns1:City ;
+    rdfs:label "Mancha Real"@en .
+
+<http://dbpedia.org/resource/Manchester_City_Region> a ns1:City ;
+    rdfs:label "Manchester City Region"@en ;
+    ns1:populationTotal 3363555 .
+
+<http://dbpedia.org/resource/Mantineia> a ns1:City ;
+    rdfs:label "Mantineia"@en .
+
+<http://dbpedia.org/resource/Mantua> a ns1:City ;
+    rdfs:label "Mantua"@en ;
+    ns1:populationTotal 48353 .
+
+<http://dbpedia.org/resource/Maracena> a ns1:City ;
+    rdfs:label "Maracena"@en .
+
+<http://dbpedia.org/resource/Marbella> a ns1:City ;
+    rdfs:label "Marbella"@en .
+
+<http://dbpedia.org/resource/Marchal,_Granada> a ns1:City ;
+    rdfs:label "Marchal, Granada"@en .
+
+<http://dbpedia.org/resource/Marchena,_Spain> a ns1:City ;
+    rdfs:label "Marchena, Spain"@en .
+
+<http://dbpedia.org/resource/Marco_de_Canaveses> a ns1:City ;
+    rdfs:label "Marco de Canaveses"@en .
+
+<http://dbpedia.org/resource/Marconi_Obelisk> a ns1:Monument ;
+    rdfs:label "Marconi Obelisk"@en ;
+    ns1:location <http://dbpedia.org/resource/Rome> .
+
+<http://dbpedia.org/resource/Marden,_Herefordshire> a ns1:City ;
+    rdfs:label "Marden, Herefordshire"@en .
+
+<http://dbpedia.org/resource/Mariazell> a ns1:City ;
+    rdfs:label "Mariazell"@en .
+
+<http://dbpedia.org/resource/Marie-Galante> a ns1:City ;
+    rdfs:label "Marie-Galante"@en ;
+    ns1:populationTotal 10867 .
+
+<http://dbpedia.org/resource/Marie_Curie_Monument_in_Lublin> a ns1:Monument ;
+    rdfs:label "Marie Curie Monument in Lublin"@en ;
+    ns1:location <http://dbpedia.org/resource/Lublin> .
+
+<http://dbpedia.org/resource/Marino,_Lazio> a ns1:City ;
+    rdfs:label "Marino, Lazio"@en ;
+    ns1:populationTotal 44142 .
+
+<http://dbpedia.org/resource/Marki> a ns1:City ;
+    rdfs:label "Marki"@en ;
+    ns1:populationTotal 29032 .
+
+<http://dbpedia.org/resource/Marmolejo,_Spain> a ns1:City ;
+    rdfs:label "Marmolejo, Spain"@en .
+
+<http://dbpedia.org/resource/Marousi> a ns1:City ;
+    rdfs:label "Marousi"@en .
+
+<http://dbpedia.org/resource/Martín_de_la_Jara> a ns1:City ;
+    rdfs:label "Martín de la Jara"@en .
+
+<http://dbpedia.org/resource/Matera> a ns1:City ;
+    rdfs:label "Matera"@en ;
+    ns1:populationTotal 60403 .
+
+<http://dbpedia.org/resource/Matosinhos> a ns1:City ;
+    rdfs:label "Matosinhos"@en .
+
+<http://dbpedia.org/resource/Matthias_Corvinus_Monument> a ns1:Monument ;
+    rdfs:label "Matthias Corvinus Monument"@en ;
+    ns1:location <http://dbpedia.org/resource/Cluj-Napoca> .
+
+<http://dbpedia.org/resource/Mazzarino,_Sicily> a ns1:City ;
+    rdfs:label "Mazzarino, Sicily"@en ;
+    ns1:populationTotal 11900 .
+
+<http://dbpedia.org/resource/Mały_Powstaniec> a ns1:Monument ;
+    rdfs:label "Mały Powstaniec"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Mealhada> a ns1:City ;
+    rdfs:label "Mealhada"@en .
+
+<http://dbpedia.org/resource/Mechelen> a ns1:City ;
+    rdfs:label "Mechelen"@en .
+
+<http://dbpedia.org/resource/Meda,_Lombardy> a ns1:City ;
+    rdfs:label "Meda, Lombardy"@en ;
+    ns1:populationTotal 23448 .
+
+<http://dbpedia.org/resource/Media_Legua> a ns1:City ;
+    rdfs:label "Media Legua"@en ;
+    ns1:populationTotal 17977 .
+
+<http://dbpedia.org/resource/Medina-Sidonia> a ns1:City ;
+    rdfs:label "Medina-Sidonia"@en .
+
+<http://dbpedia.org/resource/Medina_de_Pomar> a ns1:City ;
+    rdfs:label "Medina de Pomar"@en .
+
+<http://dbpedia.org/resource/Megen> a ns1:City ;
+    rdfs:label "Megen"@en ;
+    ns1:populationTotal 1740 .
+
+<http://dbpedia.org/resource/Melk> a ns1:City ;
+    rdfs:label "Melk"@en .
+
+<http://dbpedia.org/resource/Melville_Monument> a ns1:Monument ;
+    rdfs:label "Melville Monument"@en ;
+    ns1:location <http://dbpedia.org/resource/Edinburgh> .
+
+<http://dbpedia.org/resource/Memorial_Route_of_Jewish_Martyrdom_and_Struggle,_Warsaw> a ns1:Monument ;
+    rdfs:label "Memorial Route of Jewish Martyrdom and Struggle, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Memorial_to_Queen_Victoria,_Leeds> a ns1:Monument ;
+    rdfs:label "Memorial to Queen Victoria, Leeds"@en ;
+    ns1:location <http://dbpedia.org/resource/Leeds> .
+
+<http://dbpedia.org/resource/Memorial_to_the_Murdered_Jews_of_Europe> a ns1:Monument ;
+    rdfs:label "Memorial to the Murdered Jews of Europe"@en ;
+    ns1:location <http://dbpedia.org/resource/Berlin> .
+
+<http://dbpedia.org/resource/Memorial_to_the_Victims_of_National_Socialist_'Euthanasia'_Killings> a ns1:Monument ;
+    rdfs:label "Memorial to the Victims of National Socialist 'Euthanasia' Killings"@en ;
+    ns1:location <http://dbpedia.org/resource/Berlin> .
+
+<http://dbpedia.org/resource/Mendicino> a ns1:City ;
+    rdfs:label "Mendicino"@en ;
+    ns1:populationTotal 9491 .
+
+<http://dbpedia.org/resource/Mengíbar> a ns1:City ;
+    rdfs:label "Mengíbar"@en .
+
+<http://dbpedia.org/resource/Meppel> a ns1:City ;
+    rdfs:label "Meppel"@en .
+
+<http://dbpedia.org/resource/Mesen> a ns1:City ;
+    rdfs:label "Mesen"@en .
+
+<http://dbpedia.org/resource/Metropolitan_City_of_Bari> a ns1:City ;
+    rdfs:label "Metropolitan City of Bari"@en ;
+    ns1:populationTotal 1261954 .
+
+<http://dbpedia.org/resource/Metropolitan_City_of_Cagliari> a ns1:City ;
+    rdfs:label "Metropolitan City of Cagliari"@en ;
+    ns1:populationTotal 431538 .
+
+<http://dbpedia.org/resource/Metropolitan_City_of_Catania> a ns1:City ;
+    rdfs:label "Metropolitan City of Catania"@en ;
+    ns1:populationTotal 1112328 .
+
+<http://dbpedia.org/resource/Metropolitan_City_of_Florence> a ns1:City ;
+    rdfs:label "Metropolitan City of Florence"@en ;
+    ns1:populationTotal 1012388 .
+
+<http://dbpedia.org/resource/Metropolitan_City_of_Genoa> a ns1:City ;
+    rdfs:label "Metropolitan City of Genoa"@en ;
+    ns1:populationTotal 815739 .
+
+<http://dbpedia.org/resource/Metropolitan_City_of_Palermo> a ns1:City ;
+    rdfs:label "Metropolitan City of Palermo"@en ;
+    ns1:populationTotal 1260193 .
+
+<http://dbpedia.org/resource/Metropolitan_City_of_Venice> a ns1:City ;
+    rdfs:label "Metropolitan City of Venice"@en ;
+    ns1:populationTotal 853761 .
+
+<http://dbpedia.org/resource/Metz> a ns1:City ;
+    rdfs:label "Metz"@en .
+
+<http://dbpedia.org/resource/Mi_Amigo_memorial> a ns1:Monument ;
+    rdfs:label "Mi Amigo memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/Sheffield> .
+
+<http://dbpedia.org/resource/Middelburg,_Zeeland> a ns1:City ;
+    rdfs:label "Middelburg, Zeeland"@en .
+
+<http://dbpedia.org/resource/Mielec> a ns1:City ;
+    rdfs:label "Mielec"@en ;
+    ns1:populationTotal 59509 .
+
+<http://dbpedia.org/resource/Miggiano> a ns1:City ;
+    rdfs:label "Miggiano"@en ;
+    ns1:populationTotal 3684 .
+
+<http://dbpedia.org/resource/Minturno> a ns1:City ;
+    rdfs:label "Minturno"@en ;
+    ns1:populationTotal 19825 .
+
+<http://dbpedia.org/resource/Mirandela> a ns1:City ;
+    rdfs:label "Mirandela"@en .
+
+<http://dbpedia.org/resource/Mirandola> a ns1:City ;
+    rdfs:label "Mirandola"@en ;
+    ns1:populationTotal 22068 .
+
+<http://dbpedia.org/resource/Miskolc> a ns1:City ;
+    rdfs:label "Miskolc"@en ;
+    ns1:populationTotal 154521 .
+
+<http://dbpedia.org/resource/Mitcham> a ns1:City ;
+    rdfs:label "Mitcham"@en ;
+    ns1:populationTotal 63393 .
+
+<http://dbpedia.org/resource/Mittersill> a ns1:City ;
+    rdfs:label "Mittersill"@en .
+
+<http://dbpedia.org/resource/Międzyrzec_Podlaski> a ns1:City ;
+    rdfs:label "Międzyrzec Podlaski"@en ;
+    ns1:populationTotal 17102 .
+
+<http://dbpedia.org/resource/Miła_18> a ns1:Monument ;
+    rdfs:label "Miła 18"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Mjölby> a ns1:City ;
+    rdfs:label "Mjölby"@en ;
+    ns1:populationTotal 12245 .
+
+<http://dbpedia.org/resource/Modena> a ns1:City ;
+    rdfs:label "Modena"@en ;
+    ns1:populationTotal 184732 .
+
+<http://dbpedia.org/resource/Modica> a ns1:City ;
+    rdfs:label "Modica"@en ;
+    ns1:populationTotal 54456 .
+
+<http://dbpedia.org/resource/Moguer> a ns1:City ;
+    rdfs:label "Moguer"@en .
+
+<http://dbpedia.org/resource/Molfetta> a ns1:City ;
+    rdfs:label "Molfetta"@en ;
+    ns1:populationTotal 60433 .
+
+<http://dbpedia.org/resource/Moncalvo> a ns1:City ;
+    rdfs:label "Moncalvo"@en ;
+    ns1:populationTotal 2967 .
+
+<http://dbpedia.org/resource/Monforte_de_Lemos> a ns1:City ;
+    rdfs:label "Monforte de Lemos"@en .
+
+<http://dbpedia.org/resource/Monnickendam> a ns1:City ;
+    rdfs:label "Monnickendam"@en ;
+    ns1:populationTotal 9915 .
+
+<http://dbpedia.org/resource/Mons> a ns1:City ;
+    rdfs:label "Mons"@en .
+
+<http://dbpedia.org/resource/Montalto_Uffugo> a ns1:City ;
+    rdfs:label "Montalto Uffugo"@en ;
+    ns1:populationTotal 20220 .
+
+<http://dbpedia.org/resource/Montbéliard> a ns1:City ;
+    rdfs:label "Montbéliard"@en .
+
+<http://dbpedia.org/resource/Montegaldella> a ns1:City ;
+    rdfs:label "Montegaldella"@en ;
+    ns1:populationTotal 1809 .
+
+<http://dbpedia.org/resource/Montellano> a ns1:City ;
+    rdfs:label "Montellano"@en .
+
+<http://dbpedia.org/resource/Montemayor> a ns1:City ;
+    rdfs:label "Montemayor"@en .
+
+<http://dbpedia.org/resource/Montfort,_Netherlands> a ns1:City ;
+    rdfs:label "Montfort, Netherlands"@en ;
+    ns1:populationTotal 3130 .
+
+<http://dbpedia.org/resource/Montijo,_Spain> a ns1:City ;
+    rdfs:label "Montijo, Spain"@en .
+
+<http://dbpedia.org/resource/Montizón> a ns1:City ;
+    rdfs:label "Montizón"@en .
+
+<http://dbpedia.org/resource/Montoro> a ns1:City ;
+    rdfs:label "Montoro"@en .
+
+<http://dbpedia.org/resource/Montpellier> a ns1:City ;
+    rdfs:label "Montpellier"@en .
+
+<http://dbpedia.org/resource/Monturque> a ns1:City ;
+    rdfs:label "Monturque"@en .
+
+<http://dbpedia.org/resource/Monument_Indië-Nederland> a ns1:Monument ;
+    rdfs:label "Monument Indië-Nederland"@en ;
+    ns1:location <http://dbpedia.org/resource/Amsterdam> .
+
+<http://dbpedia.org/resource/Monument_in_Memory_of_Chinese_from_Tiananmen> a ns1:Monument ;
+    rdfs:label "Monument in Memory of Chinese from Tiananmen"@en ;
+    ns1:location <http://dbpedia.org/resource/Wrocław> .
+
+<http://dbpedia.org/resource/Monument_in_Memory_of_the_Fallen_Polish_Pilots_in_World_War_II> a ns1:Monument ;
+    rdfs:label "Monument in Memory of the Fallen Polish Pilots in World War II"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Monument_of_Hungarian_Boy,_Szczecin> a ns1:Monument ;
+    rdfs:label "Monument of Hungarian Boy, Szczecin"@en ;
+    ns1:location <http://dbpedia.org/resource/Szczecin> .
+
+<http://dbpedia.org/resource/Monument_of_Jews_and_Poles_Common_Martyrdom,_Warsaw> a ns1:Monument ;
+    rdfs:label "Monument of Jews and Poles Common Martyrdom, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Monument_of_Railwayman,_Szczecin> a ns1:Monument ;
+    rdfs:label "Monument of Railwayman, Szczecin"@en ;
+    ns1:location <http://dbpedia.org/resource/Szczecin> .
+
+<http://dbpedia.org/resource/Monument_of_Sailor> a ns1:Monument ;
+    rdfs:label "Monument of Sailor"@en ;
+    ns1:location <http://dbpedia.org/resource/Szczecin> .
+
+<http://dbpedia.org/resource/Monument_to_Agustina_de_Aragón_(Zaragoza)> a ns1:Monument ;
+    rdfs:label "Monument to Agustina de Aragón (Zaragoza)"@en ;
+    ns1:location <http://dbpedia.org/resource/Zaragoza> .
+
+<http://dbpedia.org/resource/Monument_to_Alfonso_XII> a ns1:Monument ;
+    rdfs:label "Monument to Alfonso XII"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Alfonso_XIII_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Alfonso XIII (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Andrés_Bello> a ns1:Monument ;
+    rdfs:label "Monument to Andrés Bello"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Antonio_Maura> a ns1:Monument ;
+    rdfs:label "Monument to Antonio Maura"@en ;
+    ns1:location <http://dbpedia.org/resource/Palma_de_Mallorca> .
+
+<http://dbpedia.org/resource/Monument_to_Bravo_Murillo_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Bravo Murillo (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Calvo_Sotelo> a ns1:Monument ;
+    rdfs:label "Monument to Calvo Sotelo"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Castelar_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Castelar (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Claudio_Moyano_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Claudio Moyano (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Columbus_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Columbus (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Columbus_(Salamanca)> a ns1:Monument ;
+    rdfs:label "Monument to Columbus (Salamanca)"@en ;
+    ns1:location <http://dbpedia.org/resource/Salamanca> .
+
+<http://dbpedia.org/resource/Monument_to_Columbus_(Valladolid)> a ns1:Monument ;
+    rdfs:label "Monument to Columbus (Valladolid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Valladolid> .
+
+<http://dbpedia.org/resource/Monument_to_Concepción_Arenal_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Concepción Arenal (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Count_Ansúrez> a ns1:Monument ;
+    rdfs:label "Monument to Count Ansúrez"@en ;
+    ns1:location <http://dbpedia.org/resource/Valladolid> .
+
+<http://dbpedia.org/resource/Monument_to_Cuba_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Cuba (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Cánovas_del_Castillo> a ns1:Monument ;
+    rdfs:label "Monument to Cánovas del Castillo"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Dante> a ns1:Monument ;
+    rdfs:label "Monument to Dante"@en ;
+    ns1:location <http://dbpedia.org/resource/Florence> .
+
+<http://dbpedia.org/resource/Monument_to_Daoiz_and_Velarde_(Segovia)> a ns1:Monument ;
+    rdfs:label "Monument to Daoiz and Velarde (Segovia)"@en ;
+    ns1:location <http://dbpedia.org/resource/Segovia> .
+
+<http://dbpedia.org/resource/Monument_to_Eloy_Gonzalo> a ns1:Monument ;
+    rdfs:label "Monument to Eloy Gonzalo"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Eugenio_d'Ors_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Eugenio d'Ors (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Federico_García_Lorca> a ns1:Monument ;
+    rdfs:label "Monument to Federico García Lorca"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Franco_(Santa_Cruz_de_Tenerife)> a ns1:Monument ;
+    rdfs:label "Monument to Franco (Santa Cruz de Tenerife)"@en ;
+    ns1:location <http://dbpedia.org/resource/Santa_Cruz_de_Tenerife> .
+
+<http://dbpedia.org/resource/Monument_to_Galdós_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Galdós (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Garibaldi,_Pistoia> a ns1:Monument ;
+    rdfs:label "Monument to Garibaldi, Pistoia"@en ;
+    ns1:location <http://dbpedia.org/resource/Pistoia> .
+
+<http://dbpedia.org/resource/Monument_to_General_Cassola> a ns1:Monument ;
+    rdfs:label "Monument to General Cassola"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_General_Espartero_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to General Espartero (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_General_Martínez_Campos> a ns1:Monument ;
+    rdfs:label "Monument to General Martínez Campos"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_General_Perón_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to General Perón (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Giovanni_Meli,_Palermo> a ns1:Monument ;
+    rdfs:label "Monument to Giovanni Meli, Palermo"@en ;
+    ns1:location <http://dbpedia.org/resource/Palermo> .
+
+<http://dbpedia.org/resource/Monument_to_Giovanni_delle_Bande_Nere,_Florence> a ns1:Monument ;
+    rdfs:label "Monument to Giovanni delle Bande Nere, Florence"@en ;
+    ns1:location <http://dbpedia.org/resource/Florence> .
+
+<http://dbpedia.org/resource/Monument_to_Hispanidad_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Hispanidad (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Ignazio_Florio,_Palermo> a ns1:Monument ;
+    rdfs:label "Monument to Ignazio Florio, Palermo"@en ;
+    ns1:location <http://dbpedia.org/resource/Palermo> .
+
+<http://dbpedia.org/resource/Monument_to_Isabella_the_Catholic_(Granada)> a ns1:Monument ;
+    rdfs:label "Monument to Isabella the Catholic (Granada)"@en ;
+    ns1:location <http://dbpedia.org/resource/Granada> .
+
+<http://dbpedia.org/resource/Monument_to_Isabella_the_Catholic_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Isabella the Catholic (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_José_Martí_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to José Martí (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_José_de_Anchieta> a ns1:Monument ;
+    rdfs:label "Monument to José de Anchieta"@en ;
+    ns1:location <http://dbpedia.org/resource/San_Cristóbal_de_La_Laguna> .
+
+<http://dbpedia.org/resource/Monument_to_Maria_Christina_of_Bourbon_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Maria Christina of Bourbon (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Mendizábal_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Mendizábal (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Mosè_Bianchi> a ns1:Monument ;
+    rdfs:label "Monument to Mosè Bianchi"@en ;
+    ns1:location <http://dbpedia.org/resource/Monza> .
+
+<http://dbpedia.org/resource/Monument_to_Nizami_Ganjavi_in_Rome> a ns1:Monument ;
+    rdfs:label "Monument to Nizami Ganjavi in Rome"@en ;
+    ns1:location <http://dbpedia.org/resource/Rome> .
+
+<http://dbpedia.org/resource/Monument_to_Onésimo_Redondo> a ns1:Monument ;
+    rdfs:label "Monument to Onésimo Redondo"@en ;
+    ns1:location <http://dbpedia.org/resource/Valladolid> .
+
+<http://dbpedia.org/resource/Monument_to_Quevedo_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Quevedo (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Savonarola_in_Piazza_Savonarola> a ns1:Monument ;
+    rdfs:label "Monument to Savonarola in Piazza Savonarola"@en ;
+    ns1:location <http://dbpedia.org/resource/Florence> .
+
+<http://dbpedia.org/resource/Monument_to_Simón_Bolívar_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Simón Bolívar (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Ubaldino_Peruzzi,_Florence> a ns1:Monument ;
+    rdfs:label "Monument to Ubaldino Peruzzi, Florence"@en ;
+    ns1:location <http://dbpedia.org/resource/Florence> .
+
+<http://dbpedia.org/resource/Monument_to_Vasco_Núñez_de_Balboa_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Vasco Núñez de Balboa (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_Victims_of_the_Wola_Massacre> a ns1:Monument ;
+    rdfs:label "Monument to Victims of the Wola Massacre"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Monument_to_Viriathus_(Zamora)> a ns1:Monument ;
+    rdfs:label "Monument to Viriathus (Zamora)"@en ;
+    ns1:location <http://dbpedia.org/resource/Zamora,_Spain> .
+
+<http://dbpedia.org/resource/Monument_to_World_War_II_Orthodox_victims,_Białystok> a ns1:Monument ;
+    rdfs:label "Monument to World War II Orthodox victims, Białystok"@en ;
+    ns1:location <http://dbpedia.org/resource/Białystok> .
+
+<http://dbpedia.org/resource/Monument_to_the_Battle_of_Talavera> a ns1:Monument ;
+    rdfs:label "Monument to the Battle of Talavera"@en ;
+    ns1:location <http://dbpedia.org/resource/Talavera_de_la_Reina> .
+
+<http://dbpedia.org/resource/Monument_to_the_Discovery_Faith> a ns1:Monument ;
+    rdfs:label "Monument to the Discovery Faith"@en ;
+    ns1:location <http://dbpedia.org/resource/Huelva> .
+
+<http://dbpedia.org/resource/Monument_to_the_Fallen_(Santa_Cruz_de_Tenerife)> a ns1:Monument ;
+    rdfs:label "Monument to the Fallen (Santa Cruz de Tenerife)"@en ;
+    ns1:location <http://dbpedia.org/resource/Santa_Cruz_de_Tenerife> .
+
+<http://dbpedia.org/resource/Monument_to_the_Fallen_and_Murdered_in_the_East> a ns1:Monument ;
+    rdfs:label "Monument to the Fallen and Murdered in the East"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Monument_to_the_French_Declaration_of_the_Rights_of_Man_and_of_the_Citizen> a ns1:Monument ;
+    rdfs:label "Monument to the French Declaration of the Rights of Man and of the Citizen"@en ;
+    ns1:location <http://dbpedia.org/resource/Paris> .
+
+<http://dbpedia.org/resource/Monument_to_the_Ghetto_Heroes> a ns1:Monument ;
+    rdfs:label "Monument to the Ghetto Heroes"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Monument_to_the_Heroes_of_Cavite_and_Santiago_de_Cuba> a ns1:Monument ;
+    rdfs:label "Monument to the Heroes of Cavite and Santiago de Cuba"@en ;
+    ns1:location <http://dbpedia.org/resource/Cartagena,_Spain> .
+
+<http://dbpedia.org/resource/Monument_to_the_Marquis_of_the_Duero_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to the Marquis of the Duero (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monument_to_the_Volhynia_27th_Home_Army_Infantry_Division> a ns1:Monument ;
+    rdfs:label "Monument to the Volhynia 27th Home Army Infantry Division"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Monument_to_the_X-ray_and_Radium_Martyrs_of_All_Nations> a ns1:Monument ;
+    rdfs:label "Monument to the X-ray and Radium Martyrs of All Nations"@en ;
+    ns1:location <http://dbpedia.org/resource/Hamburg> .
+
+<http://dbpedia.org/resource/Monument_to_Álvaro_de_Bazán_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monument to Álvaro de Bazán (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monumento_a_los_Caídos_por_España_(Madrid)> a ns1:Monument ;
+    rdfs:label "Monumento a los Caídos por España (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Monumento_all'Indiano,_Florence> a ns1:Monument ;
+    rdfs:label "Monumento all'Indiano, Florence"@en ;
+    ns1:location <http://dbpedia.org/resource/Florence> .
+
+<http://dbpedia.org/resource/Monzón> a ns1:City ;
+    rdfs:label "Monzón"@en .
+
+<http://dbpedia.org/resource/Morella,_Castellón> a ns1:City ;
+    rdfs:label "Morella, Castellón"@en .
+
+<http://dbpedia.org/resource/Moriles> a ns1:City ;
+    rdfs:label "Moriles"@en .
+
+<http://dbpedia.org/resource/Morley_War_Memorial,_Scatcherd_Park> a ns1:Monument ;
+    rdfs:label "Morley War Memorial, Scatcherd Park"@en ;
+    ns1:location <http://dbpedia.org/resource/Leeds> .
+
+<http://dbpedia.org/resource/Mortsel> a ns1:City ;
+    rdfs:label "Mortsel"@en .
+
+<http://dbpedia.org/resource/Moura,_Portugal> a ns1:City ;
+    rdfs:label "Moura, Portugal"@en .
+
+<http://dbpedia.org/resource/Mouscron> a ns1:City ;
+    rdfs:label "Mouscron"@en .
+
+<http://dbpedia.org/resource/Mozart_Monument,_Vienna> a ns1:Monument ;
+    rdfs:label "Mozart Monument, Vienna"@en ;
+    ns1:location <http://dbpedia.org/resource/Vienna> .
+
+<http://dbpedia.org/resource/Muggiò> a ns1:City ;
+    rdfs:label "Muggiò"@en ;
+    ns1:populationTotal 23583 .
+
+<http://dbpedia.org/resource/Muiden> a ns1:City ;
+    rdfs:label "Muiden"@en ;
+    ns1:populationTotal 7200 .
+
+<http://dbpedia.org/resource/Mulhouse> a ns1:City ;
+    rdfs:label "Mulhouse"@en .
+
+<http://dbpedia.org/resource/Murtas> a ns1:City ;
+    rdfs:label "Murtas"@en .
+
+<http://dbpedia.org/resource/Mutriku> a ns1:City ;
+    rdfs:label "Mutriku"@en .
+
+<http://dbpedia.org/resource/Mysłowice> a ns1:City ;
+    rdfs:label "Mysłowice"@en ;
+    ns1:populationTotal 74085 .
+
+<http://dbpedia.org/resource/Mytilene> a ns1:City ;
+    rdfs:label "Mytilene"@en .
+
+<http://dbpedia.org/resource/Myślibórz> a ns1:City ;
+    rdfs:label "Myślibórz"@en ;
+    ns1:populationTotal 11867 .
+
+<http://dbpedia.org/resource/Mátraverebély> a ns1:City ;
+    rdfs:label "Mátraverebély"@en ;
+    ns1:populationTotal 2252 .
+
+<http://dbpedia.org/resource/Mâcon> a ns1:City ;
+    rdfs:label "Mâcon"@en .
+
+<http://dbpedia.org/resource/Mémorial_des_Martyrs_de_la_Déportation> a ns1:Monument ;
+    rdfs:label "Mémorial des Martyrs de la Déportation"@en ;
+    ns1:location <http://dbpedia.org/resource/Paris> .
+
+<http://dbpedia.org/resource/Móstoles> a ns1:City ;
+    rdfs:label "Móstoles"@en .
+
+<http://dbpedia.org/resource/Naarden> a ns1:City ;
+    rdfs:label "Naarden"@en ;
+    ns1:populationTotal 17555 .
+
+<http://dbpedia.org/resource/Nagykanizsa> a ns1:City ;
+    rdfs:label "Nagykanizsa"@en ;
+    ns1:populationTotal 47349 .
+
+<http://dbpedia.org/resource/Nagykereki> a ns1:City ;
+    rdfs:label "Nagykereki"@en ;
+    ns1:populationTotal 1275 .
+
+<http://dbpedia.org/resource/Nakory> a ns1:City ;
+    rdfs:label "Nakory"@en .
+
+<http://dbpedia.org/resource/Namur> a ns1:City ;
+    rdfs:label "Namur"@en .
+
+<http://dbpedia.org/resource/Nantes> a ns1:City ;
+    rdfs:label "Nantes"@en .
+
+<http://dbpedia.org/resource/Naousa,_Imathia> a ns1:City ;
+    rdfs:label "Naousa, Imathia"@en .
+
+<http://dbpedia.org/resource/Napoleon_Bonaparte_Monument_(Warsaw)> a ns1:Monument ;
+    rdfs:label "Napoleon Bonaparte Monument (Warsaw)"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/National_East_Indies_monument> a ns1:Monument ;
+    rdfs:label "National East Indies monument"@en ;
+    ns1:location <http://dbpedia.org/resource/Roermond> .
+
+<http://dbpedia.org/resource/National_Monument_(Amsterdam)> a ns1:Monument ;
+    rdfs:label "National Monument (Amsterdam)"@en ;
+    ns1:location <http://dbpedia.org/resource/Amsterdam> .
+
+<http://dbpedia.org/resource/Naxos_(city)> a ns1:City ;
+    rdfs:label "Naxos (city)"@en .
+
+<http://dbpedia.org/resource/Nea_Ionia,_Magnesia> a ns1:City ;
+    rdfs:label "Nea Ionia, Magnesia"@en .
+
+<http://dbpedia.org/resource/Nelson's_Column> a ns1:Monument ;
+    rdfs:label "Nelson's Column"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Newry> a ns1:City ;
+    rdfs:label "Newry"@en ;
+    ns1:populationTotal 26967 .
+
+<http://dbpedia.org/resource/Nicolaus_Copernicus_Monument,_Warsaw> a ns1:Monument ;
+    rdfs:label "Nicolaus Copernicus Monument, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Nieuwpoort,_South_Holland> a ns1:City ;
+    rdfs:label "Nieuwpoort, South Holland"@en ;
+    ns1:populationTotal 1394 .
+
+<http://dbpedia.org/resource/Nieuwstadt> a ns1:City ;
+    rdfs:label "Nieuwstadt"@en ;
+    ns1:populationTotal 3260 .
+
+<http://dbpedia.org/resource/Nijmegen> a ns1:City ;
+    rdfs:label "Nijmegen"@en .
+
+<http://dbpedia.org/resource/Ninove> a ns1:City ;
+    rdfs:label "Ninove"@en .
+
+<http://dbpedia.org/resource/Nivelles> a ns1:City ;
+    rdfs:label "Nivelles"@en .
+
+<http://dbpedia.org/resource/Noalejo> a ns1:City ;
+    rdfs:label "Noalejo"@en .
+
+<http://dbpedia.org/resource/Noci> a ns1:City ;
+    rdfs:label "Noci"@en ;
+    ns1:populationTotal 19477 .
+
+<http://dbpedia.org/resource/Norr,_Malmö> a ns1:City ;
+    rdfs:label "Norr, Malmö"@en ;
+    ns1:populationTotal 62100 .
+
+<http://dbpedia.org/resource/Norrköping> a ns1:City ;
+    rdfs:label "Norrköping"@en ;
+    ns1:populationTotal 137326 .
+
+<http://dbpedia.org/resource/North_Wales> a ns1:City ;
+    rdfs:label "North Wales"@en ;
+    ns1:populationTotal 698400 .
+
+<http://dbpedia.org/resource/Norwich> a ns1:City ;
+    rdfs:label "Norwich"@en .
+
+<http://dbpedia.org/resource/Noto> a ns1:City ;
+    rdfs:label "Noto"@en ;
+    ns1:populationTotal 24048 .
+
+<http://dbpedia.org/resource/Nottingham> a ns1:City ;
+    rdfs:label "Nottingham"@en ;
+    ns1:populationTotal 321500 .
+
+<http://dbpedia.org/resource/Nouméa> a ns1:City ;
+    rdfs:label "Nouméa"@en ;
+    ns1:populationTotal 94285 .
+
+<http://dbpedia.org/resource/Novara> a ns1:City ;
+    rdfs:label "Novara"@en ;
+    ns1:populationTotal 101916 .
+
+<http://dbpedia.org/resource/Novelda> a ns1:City ;
+    rdfs:label "Novelda"@en .
+
+<http://dbpedia.org/resource/Novi_Ligure> a ns1:City ;
+    rdfs:label "Novi Ligure"@en ;
+    ns1:populationTotal 27786 .
+
+<http://dbpedia.org/resource/Nueva_Carteya> a ns1:City ;
+    rdfs:label "Nueva Carteya"@en ;
+    ns1:populationTotal 5566 .
+
+<http://dbpedia.org/resource/Numancia_(Madrid)> a ns1:City ;
+    rdfs:label "Numancia (Madrid)"@en ;
+    ns1:populationTotal 48815 .
+
+<http://dbpedia.org/resource/Nuoro> a ns1:City ;
+    rdfs:label "Nuoro"@en ;
+    ns1:populationTotal 36347 .
+
+<http://dbpedia.org/resource/Nybro> a ns1:City ;
+    rdfs:label "Nybro"@en ;
+    ns1:populationTotal 13583 .
+
+<http://dbpedia.org/resource/Nyíregyháza> a ns1:City ;
+    rdfs:label "Nyíregyháza"@en ;
+    ns1:populationTotal 117689 .
+
+<http://dbpedia.org/resource/Nívar> a ns1:City ;
+    rdfs:label "Nívar"@en .
+
+<http://dbpedia.org/resource/Nîmes> a ns1:City ;
+    rdfs:label "Nîmes"@en .
+
+<http://dbpedia.org/resource/Obejo> a ns1:City ;
+    rdfs:label "Obejo"@en .
+
+<http://dbpedia.org/resource/Odivelas> a ns1:City ;
+    rdfs:label "Odivelas"@en .
+
+<http://dbpedia.org/resource/Ogíjares> a ns1:City ;
+    rdfs:label "Ogíjares"@en .
+
+<http://dbpedia.org/resource/Olbia> a ns1:City ;
+    rdfs:label "Olbia"@en ;
+    ns1:populationTotal 60345 .
+
+<http://dbpedia.org/resource/Olecko> a ns1:City ;
+    rdfs:label "Olecko"@en ;
+    ns1:populationTotal 22384 .
+
+<http://dbpedia.org/resource/Olivares,_Spain> a ns1:City ;
+    rdfs:label "Olivares, Spain"@en .
+
+<http://dbpedia.org/resource/Oliveira_de_Azeméis> a ns1:City ;
+    rdfs:label "Oliveira de Azeméis"@en .
+
+<http://dbpedia.org/resource/Olsztyn> a ns1:City ;
+    rdfs:label "Olsztyn"@en ;
+    ns1:populationTotal 169793 .
+
+<http://dbpedia.org/resource/Ootmarsum> a ns1:City ;
+    rdfs:label "Ootmarsum"@en ;
+    ns1:populationTotal 4460 .
+
+<http://dbpedia.org/resource/Opole> a ns1:City ;
+    rdfs:label "Opole"@en ;
+    ns1:populationTotal 127387 .
+
+<http://dbpedia.org/resource/Oppeano> a ns1:City ;
+    rdfs:label "Oppeano"@en ;
+    ns1:populationTotal 9005 .
+
+<http://dbpedia.org/resource/Oppuurs> a ns1:City ;
+    rdfs:label "Oppuurs"@en ;
+    ns1:populationTotal 2048 .
+
+<http://dbpedia.org/resource/Oradea> a ns1:City ;
+    rdfs:label "Oradea"@en .
+
+<http://dbpedia.org/resource/Orcasur> a ns1:City ;
+    rdfs:label "Orcasur"@en ;
+    ns1:populationTotal 14264 .
+
+<http://dbpedia.org/resource/Orce> a ns1:City ;
+    rdfs:label "Orce"@en .
+
+<http://dbpedia.org/resource/Orcera> a ns1:City ;
+    rdfs:label "Orcera"@en .
+
+<http://dbpedia.org/resource/Orihuela> a ns1:City ;
+    rdfs:label "Orihuela"@en .
+
+<http://dbpedia.org/resource/Oristano> a ns1:City ;
+    rdfs:label "Oristano"@en ;
+    ns1:populationTotal 31671 .
+
+<http://dbpedia.org/resource/Orléans> a ns1:City ;
+    rdfs:label "Orléans"@en .
+
+<http://dbpedia.org/resource/Orosháza> a ns1:City ;
+    rdfs:label "Orosháza"@en ;
+    ns1:populationTotal 28888 .
+
+<http://dbpedia.org/resource/Oroszlány> a ns1:City ;
+    rdfs:label "Oroszlány"@en ;
+    ns1:populationTotal 20034 .
+
+<http://dbpedia.org/resource/Orsara_di_Puglia> a ns1:City ;
+    rdfs:label "Orsara di Puglia"@en ;
+    ns1:populationTotal 3268 .
+
+<http://dbpedia.org/resource/Ortigueira> a ns1:City ;
+    rdfs:label "Ortigueira"@en .
+
+<http://dbpedia.org/resource/Orvieto> a ns1:City ;
+    rdfs:label "Orvieto"@en ;
+    ns1:populationTotal 20253 .
+
+<http://dbpedia.org/resource/Oskarshamn> a ns1:City ;
+    rdfs:label "Oskarshamn"@en ;
+    ns1:populationTotal 17258 .
+
+<http://dbpedia.org/resource/Ostend> a ns1:City ;
+    rdfs:label "Ostend"@en .
+
+<http://dbpedia.org/resource/Ostuni> a ns1:City ;
+    rdfs:label "Ostuni"@en ;
+    ns1:populationTotal 31197 .
+
+<http://dbpedia.org/resource/Ouranoupoli> a ns1:City ;
+    rdfs:label "Ouranoupoli"@en .
+
+<http://dbpedia.org/resource/Ourense> a ns1:City ;
+    rdfs:label "Ourense"@en ;
+    ns1:populationTotal 105233 .
+
+<http://dbpedia.org/resource/Ourique> a ns1:City ;
+    rdfs:label "Ourique"@en .
+
+<http://dbpedia.org/resource/Ovar> a ns1:City ;
+    rdfs:label "Ovar"@en .
+
+<http://dbpedia.org/resource/Oviedo> a ns1:City ;
+    rdfs:label "Oviedo"@en .
+
+<http://dbpedia.org/resource/Oxford> a ns1:City ;
+    rdfs:label "Oxford"@en ;
+    ns1:populationTotal 151584 .
+
+<http://dbpedia.org/resource/Oxie> a ns1:City ;
+    rdfs:label "Oxie"@en ;
+    ns1:populationTotal 12453 .
+
+<http://dbpedia.org/resource/Padua> a ns1:City ;
+    rdfs:label "Padua"@en ;
+    ns1:populationTotal 214125 .
+
+<http://dbpedia.org/resource/Palairos> a ns1:City ;
+    rdfs:label "Palairos"@en .
+
+<http://dbpedia.org/resource/Palazzolo_sull'Oglio> a ns1:City ;
+    rdfs:label "Palazzolo sull'Oglio"@en ;
+    ns1:populationTotal 19883 .
+
+<http://dbpedia.org/resource/Palenciana> a ns1:City ;
+    rdfs:label "Palenciana"@en .
+
+<http://dbpedia.org/resource/Palestrina> a ns1:City ;
+    rdfs:label "Palestrina"@en ;
+    ns1:populationTotal 21872 .
+
+<http://dbpedia.org/resource/Palma_del_Río> a ns1:City ;
+    rdfs:label "Palma del Río"@en .
+
+<http://dbpedia.org/resource/Palomares_del_Río> a ns1:City ;
+    rdfs:label "Palomares del Río"@en .
+
+<http://dbpedia.org/resource/Palomeras_Bajas> a ns1:City ;
+    rdfs:label "Palomeras Bajas"@en ;
+    ns1:populationTotal 41034 .
+
+<http://dbpedia.org/resource/Pamplona> a ns1:City ;
+    rdfs:label "Pamplona"@en ;
+    ns1:populationTotal 209672 .
+
+<http://dbpedia.org/resource/Paredes,_Portugal> a ns1:City ;
+    rdfs:label "Paredes, Portugal"@en .
+
+<http://dbpedia.org/resource/Paredes_(parish)> a ns1:City ;
+    rdfs:label "Paredes (parish)"@en .
+
+<http://dbpedia.org/resource/Parma> a ns1:City ;
+    rdfs:label "Parma"@en ;
+    ns1:populationTotal 198292 .
+
+<http://dbpedia.org/resource/Patras> a ns1:City ;
+    rdfs:label "Patras"@en ;
+    ns1:populationTotal 213984 .
+
+<http://dbpedia.org/resource/Pavones> a ns1:City ;
+    rdfs:label "Pavones"@en ;
+    ns1:populationTotal 9197 .
+
+<http://dbpedia.org/resource/Peal_de_Becerro> a ns1:City ;
+    rdfs:label "Peal de Becerro"@en .
+
+<http://dbpedia.org/resource/Pedrera,_Seville> a ns1:City ;
+    rdfs:label "Pedrera, Seville"@en .
+
+<http://dbpedia.org/resource/Pegalajar> a ns1:City ;
+    rdfs:label "Pegalajar"@en .
+
+<http://dbpedia.org/resource/Peligros> a ns1:City ;
+    rdfs:label "Peligros"@en .
+
+<http://dbpedia.org/resource/Pellana> a ns1:City ;
+    rdfs:label "Pellana"@en .
+
+<http://dbpedia.org/resource/Perama> a ns1:City ;
+    rdfs:label "Perama"@en .
+
+<http://dbpedia.org/resource/Perg> a ns1:City ;
+    rdfs:label "Perg"@en .
+
+<http://dbpedia.org/resource/Perpignan> a ns1:City ;
+    rdfs:label "Perpignan"@en .
+
+<http://dbpedia.org/resource/Perth,_Scotland> a ns1:City ;
+    rdfs:label "Perth, Scotland"@en .
+
+<http://dbpedia.org/resource/Perugia> a ns1:City ;
+    rdfs:label "Perugia"@en ;
+    ns1:populationTotal 168066 .
+
+<http://dbpedia.org/resource/Pescara> a ns1:City ;
+    rdfs:label "Pescara"@en ;
+    ns1:populationTotal 119554 .
+
+<http://dbpedia.org/resource/Pescia> a ns1:City ;
+    rdfs:label "Pescia"@en ;
+    ns1:populationTotal 19584 .
+
+<http://dbpedia.org/resource/Peterborough> a ns1:City ;
+    rdfs:label "Peterborough"@en ;
+    ns1:populationTotal 215700 .
+
+<http://dbpedia.org/resource/Peterloo_Memorial> a ns1:Monument ;
+    rdfs:label "Peterloo Memorial"@en ;
+    ns1:location <http://dbpedia.org/resource/Manchester> .
+
+<http://dbpedia.org/resource/Peterston-super-Ely> a ns1:City ;
+    rdfs:label "Peterston-super-Ely"@en ;
+    ns1:populationTotal 874 .
+
+<http://dbpedia.org/resource/Petite-Anse,_les_Saintes> a ns1:City ;
+    rdfs:label "Petite-Anse, les Saintes"@en .
+
+<http://dbpedia.org/resource/Philippeville> a ns1:City ;
+    rdfs:label "Philippeville"@en .
+
+<http://dbpedia.org/resource/Piacenza> a ns1:City ;
+    rdfs:label "Piacenza"@en ;
+    ns1:populationTotal 103607 .
+
+<http://dbpedia.org/resource/Piekary_Śląskie> a ns1:City ;
+    rdfs:label "Piekary Śląskie"@en ;
+    ns1:populationTotal 54226 .
+
+<http://dbpedia.org/resource/Pinkafeld> a ns1:City ;
+    rdfs:label "Pinkafeld"@en .
+
+<http://dbpedia.org/resource/Pinos_Genil> a ns1:City ;
+    rdfs:label "Pinos Genil"@en .
+
+<http://dbpedia.org/resource/Pinos_Puente> a ns1:City ;
+    rdfs:label "Pinos Puente"@en .
+
+<http://dbpedia.org/resource/Piotrków_Trybunalski> a ns1:City ;
+    rdfs:label "Piotrków Trybunalski"@en ;
+    ns1:populationTotal 71252 .
+
+<http://dbpedia.org/resource/Piraeus> a ns1:City ;
+    rdfs:label "Piraeus"@en .
+
+<http://dbpedia.org/resource/Pisa> a ns1:City ;
+    rdfs:label "Pisa"@en ;
+    ns1:populationTotal 109960 .
+
+<http://dbpedia.org/resource/Plague_Column,_Timișoara> a ns1:Monument ;
+    rdfs:label "Plague Column, Timișoara"@en ;
+    ns1:location <http://dbpedia.org/resource/Timișoara> .
+
+<http://dbpedia.org/resource/Plasencia> a ns1:City ;
+    rdfs:label "Plasencia"@en .
+
+<http://dbpedia.org/resource/Ploiești> a ns1:City ;
+    rdfs:label "Ploiești"@en ;
+    ns1:populationTotal 209945 .
+
+<http://dbpedia.org/resource/Pointe-à-Pitre> a ns1:City ;
+    rdfs:label "Pointe-à-Pitre"@en .
+
+<http://dbpedia.org/resource/Poitiers> a ns1:City ;
+    rdfs:label "Poitiers"@en .
+
+<http://dbpedia.org/resource/Polgár,_Hungary> a ns1:City ;
+    rdfs:label "Polgár, Hungary"@en ;
+    ns1:populationTotal 8418 .
+
+<http://dbpedia.org/resource/Polícar> a ns1:City ;
+    rdfs:label "Polícar"@en .
+
+<http://dbpedia.org/resource/Pombal,_Portugal> a ns1:City ;
+    rdfs:label "Pombal, Portugal"@en .
+
+<http://dbpedia.org/resource/Pompei> a ns1:City ;
+    rdfs:label "Pompei"@en ;
+    ns1:populationTotal 25196 .
+
+<http://dbpedia.org/resource/Ponferrada> a ns1:City ;
+    rdfs:label "Ponferrada"@en ;
+    ns1:populationTotal 63747 .
+
+<http://dbpedia.org/resource/Pontremoli> a ns1:City ;
+    rdfs:label "Pontremoli"@en ;
+    ns1:populationTotal 7357 .
+
+<http://dbpedia.org/resource/Porta_Sempione> a ns1:City ;
+    rdfs:label "Porta Sempione"@en .
+
+<http://dbpedia.org/resource/Portazgo_(Madrid)> a ns1:City ;
+    rdfs:label "Portazgo (Madrid)"@en ;
+    ns1:populationTotal 29094 .
+
+<http://dbpedia.org/resource/Porto> a ns1:City ;
+    rdfs:label "Porto"@en ;
+    ns1:populationTotal 291962 .
+
+<http://dbpedia.org/resource/Portsmouth> a ns1:City ;
+    rdfs:label "Portsmouth"@en ;
+    ns1:populationTotal 205100 .
+
+<http://dbpedia.org/resource/Posadas,_Spain> a ns1:City ;
+    rdfs:label "Posadas, Spain"@en .
+
+<http://dbpedia.org/resource/Potenza> a ns1:City ;
+    rdfs:label "Potenza"@en ;
+    ns1:populationTotal 67348 .
+
+<http://dbpedia.org/resource/Poznań> a ns1:City ;
+    rdfs:label "Poznań"@en ;
+    ns1:populationTotal 529410 .
+
+<http://dbpedia.org/resource/Pozo_Alcón> a ns1:City ;
+    rdfs:label "Pozo Alcón"@en .
+
+<http://dbpedia.org/resource/Pozzuoli> a ns1:City ;
+    rdfs:label "Pozzuoli"@en ;
+    ns1:populationTotal 81231 .
+
+<http://dbpedia.org/resource/Praça_do_Império> a ns1:City ;
+    rdfs:label "Praça do Império"@en .
+
+<http://dbpedia.org/resource/Preston,_Lancashire> a ns1:City ;
+    rdfs:label "Preston, Lancashire"@en ;
+    ns1:populationTotal 122719 .
+
+<http://dbpedia.org/resource/Prosperidad_(Madrid)> a ns1:City ;
+    rdfs:label "Prosperidad (Madrid)"@en ;
+    ns1:populationTotal 37018 .
+
+<http://dbpedia.org/resource/Prussian_National_Monument_for_the_Liberation_Wars> a ns1:Monument ;
+    rdfs:label "Prussian National Monument for the Liberation Wars"@en ;
+    ns1:location <http://dbpedia.org/resource/Berlin> .
+
+<http://dbpedia.org/resource/Pruszków> a ns1:City ;
+    rdfs:label "Pruszków"@en ;
+    ns1:populationTotal 62750 .
+
+<http://dbpedia.org/resource/Przemyśl> a ns1:City ;
+    rdfs:label "Przemyśl"@en ;
+    ns1:populationTotal 58721 .
+
+<http://dbpedia.org/resource/Przysiersk> a ns1:City ;
+    rdfs:label "Przysiersk"@en ;
+    ns1:populationTotal 780 .
+
+<http://dbpedia.org/resource/Puebla_de_Don_Fadrique> a ns1:City ;
+    rdfs:label "Puebla de Don Fadrique"@en .
+
+<http://dbpedia.org/resource/Pueblo_Nuevo_(Madrid)> a ns1:City ;
+    rdfs:label "Pueblo Nuevo (Madrid)"@en ;
+    ns1:populationTotal 63930 .
+
+<http://dbpedia.org/resource/Puente_de_Génave> a ns1:City ;
+    rdfs:label "Puente de Génave"@en .
+
+<http://dbpedia.org/resource/Puerta_Bonita_(Madrid)> a ns1:City ;
+    rdfs:label "Puerta Bonita (Madrid)"@en ;
+    ns1:populationTotal 36157 .
+
+<http://dbpedia.org/resource/Puerto_Serrano> a ns1:City ;
+    rdfs:label "Puerto Serrano"@en .
+
+<http://dbpedia.org/resource/Puerto_de_la_Cruz> a ns1:City ;
+    rdfs:label "Puerto de la Cruz"@en .
+
+<http://dbpedia.org/resource/Puertollano> a ns1:City ;
+    rdfs:label "Puertollano"@en ;
+    ns1:populationTotal 47035 .
+
+<http://dbpedia.org/resource/Pulianas> a ns1:City ;
+    rdfs:label "Pulianas"@en .
+
+<http://dbpedia.org/resource/Pulkau> a ns1:City ;
+    rdfs:label "Pulkau"@en .
+
+<http://dbpedia.org/resource/Puławy> a ns1:City ;
+    rdfs:label "Puławy"@en ;
+    ns1:populationTotal 47417 .
+
+<http://dbpedia.org/resource/Pydna> a ns1:City ;
+    rdfs:label "Pydna"@en .
+
+<http://dbpedia.org/resource/Pécs> a ns1:City ;
+    rdfs:label "Pécs"@en ;
+    ns1:populationTotal 145347 .
+
+<http://dbpedia.org/resource/Póvoa_de_Varzim> a ns1:City ;
+    rdfs:label "Póvoa de Varzim"@en .
+
+<http://dbpedia.org/resource/Quartu_Sant'Elena> a ns1:City ;
+    rdfs:label "Quartu Sant'Elena"@en ;
+    ns1:populationTotal 69255 .
+
+<http://dbpedia.org/resource/Queluz,_Portugal> a ns1:City ;
+    rdfs:label "Queluz, Portugal"@en ;
+    ns1:populationTotal 78273 .
+
+<http://dbpedia.org/resource/Radom> a ns1:City ;
+    rdfs:label "Radom"@en ;
+    ns1:populationTotal 206946 .
+
+<http://dbpedia.org/resource/Ragusa,_Sicily> a ns1:City ;
+    rdfs:label "Ragusa, Sicily"@en ;
+    ns1:populationTotal 74251 .
+
+<http://dbpedia.org/resource/Ravenna> a ns1:City ;
+    rdfs:label "Ravenna"@en ;
+    ns1:populationTotal 158784 .
+
+<http://dbpedia.org/resource/Ravenstein,_Netherlands> a ns1:City ;
+    rdfs:label "Ravenstein, Netherlands"@en ;
+    ns1:populationTotal 3410 .
+
+<http://dbpedia.org/resource/Refugiados_(monument)> a ns1:Monument ;
+    rdfs:label "Refugiados (monument)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Reggio_Calabria> a ns1:City ;
+    rdfs:label "Reggio Calabria"@en ;
+    ns1:populationTotal 182455 .
+
+<http://dbpedia.org/resource/Reggio_Emilia> a ns1:City ;
+    rdfs:label "Reggio Emilia"@en ;
+    ns1:populationTotal 171944 .
+
+<http://dbpedia.org/resource/Rethymno> a ns1:City ;
+    rdfs:label "Rethymno"@en .
+
+<http://dbpedia.org/resource/Rhenen> a ns1:City ;
+    rdfs:label "Rhenen"@en .
+
+<http://dbpedia.org/resource/Rhodes_(city)> a ns1:City ;
+    rdfs:label "Rhodes (city)"@en .
+
+<http://dbpedia.org/resource/Rieti> a ns1:City ;
+    rdfs:label "Rieti"@en ;
+    ns1:populationTotal 47745 .
+
+<http://dbpedia.org/resource/Rijssen> a ns1:City ;
+    rdfs:label "Rijssen"@en ;
+    ns1:populationTotal 28 .
+
+<http://dbpedia.org/resource/Rikitea> a ns1:City ;
+    rdfs:label "Rikitea"@en .
+
+<http://dbpedia.org/resource/Rimini> a ns1:City ;
+    rdfs:label "Rimini"@en ;
+    ns1:populationTotal 148688 .
+
+<http://dbpedia.org/resource/Rio_Tinto_(Gondomar)> a ns1:City ;
+    rdfs:label "Rio Tinto (Gondomar)"@en .
+
+<http://dbpedia.org/resource/Ripon> a ns1:City ;
+    rdfs:label "Ripon"@en ;
+    ns1:populationTotal 16702 .
+
+<http://dbpedia.org/resource/Robbio> a ns1:City ;
+    rdfs:label "Robbio"@en ;
+    ns1:populationTotal 6161 .
+
+<http://dbpedia.org/resource/Rodano> a ns1:City ;
+    rdfs:label "Rodano"@en ;
+    ns1:populationTotal 4631 .
+
+<http://dbpedia.org/resource/Roeselare> a ns1:City ;
+    rdfs:label "Roeselare"@en .
+
+<http://dbpedia.org/resource/Roman_Dmowski_Monument,_Warsaw> a ns1:Monument ;
+    rdfs:label "Roman Dmowski Monument, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Roman_column,_York> a ns1:Monument ;
+    rdfs:label "Roman column, York"@en ;
+    ns1:location <http://dbpedia.org/resource/York> .
+
+<http://dbpedia.org/resource/Romano_d'Ezzelino> a ns1:City ;
+    rdfs:label "Romano d'Ezzelino"@en ;
+    ns1:populationTotal 14621 .
+
+<http://dbpedia.org/resource/Ronald_Reagan_Monument_(Warsaw)> a ns1:Monument ;
+    rdfs:label "Ronald Reagan Monument (Warsaw)"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Ronciglione> a ns1:City ;
+    rdfs:label "Ronciglione"@en ;
+    ns1:populationTotal 8715 .
+
+<http://dbpedia.org/resource/Ronda> a ns1:City ;
+    rdfs:label "Ronda"@en .
+
+<http://dbpedia.org/resource/Ronse> a ns1:City ;
+    rdfs:label "Ronse"@en .
+
+<http://dbpedia.org/resource/Rosas_(Madrid)> a ns1:City ;
+    rdfs:label "Rosas (Madrid)"@en ;
+    ns1:populationTotal 31953 .
+
+<http://dbpedia.org/resource/Rosengård> a ns1:City ;
+    rdfs:label "Rosengård"@en ;
+    ns1:populationTotal 23563 .
+
+<http://dbpedia.org/resource/Rouen> a ns1:City ;
+    rdfs:label "Rouen"@en .
+
+<http://dbpedia.org/resource/Rovereto> a ns1:City ;
+    rdfs:label "Rovereto"@en ;
+    ns1:populationTotal 39915 .
+
+<http://dbpedia.org/resource/Royal_Arsenal_Gatehouse> a ns1:Monument ;
+    rdfs:label "Royal Arsenal Gatehouse"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Ruda_Śląska> a ns1:City ;
+    rdfs:label "Ruda Śląska"@en ;
+    ns1:populationTotal 135008 .
+
+<http://dbpedia.org/resource/Rumia> a ns1:City ;
+    rdfs:label "Rumia"@en ;
+    ns1:populationTotal 49230 .
+
+<http://dbpedia.org/resource/Runwell> a ns1:City ;
+    rdfs:label "Runwell"@en ;
+    ns1:populationTotal 3394 .
+
+<http://dbpedia.org/resource/Rust,_Burgenland> a ns1:City ;
+    rdfs:label "Rust, Burgenland"@en .
+
+<http://dbpedia.org/resource/Rybnik> a ns1:City ;
+    rdfs:label "Rybnik"@en ;
+    ns1:populationTotal 135994 .
+
+<http://dbpedia.org/resource/Rzeszów> a ns1:City ;
+    rdfs:label "Rzeszów"@en ;
+    ns1:populationTotal 198609 .
+
+<http://dbpedia.org/resource/Sabadell> a ns1:City ;
+    rdfs:label "Sabadell"@en .
+
+<http://dbpedia.org/resource/Sabugal> a ns1:City ;
+    rdfs:label "Sabugal"@en .
+
+<http://dbpedia.org/resource/Sacedón> a ns1:City ;
+    rdfs:label "Sacedón"@en .
+
+<http://dbpedia.org/resource/Saint-Malo> a ns1:City ;
+    rdfs:label "Saint-Malo"@en .
+
+<http://dbpedia.org/resource/Saint-Étienne> a ns1:City ;
+    rdfs:label "Saint-Étienne"@en .
+
+<http://dbpedia.org/resource/Sainte-Anne,_Guadeloupe> a ns1:City ;
+    rdfs:label "Sainte-Anne, Guadeloupe"@en .
+
+<http://dbpedia.org/resource/Salas_de_los_Infantes> a ns1:City ;
+    rdfs:label "Salas de los Infantes"@en .
+
+<http://dbpedia.org/resource/Salerno> a ns1:City ;
+    rdfs:label "Salerno"@en ;
+    ns1:populationTotal 133199 .
+
+<http://dbpedia.org/resource/Salgótarján> a ns1:City ;
+    rdfs:label "Salgótarján"@en ;
+    ns1:populationTotal 34627 .
+
+<http://dbpedia.org/resource/Salinas_del_Manzano> a ns1:City ;
+    rdfs:label "Salinas del Manzano"@en .
+
+<http://dbpedia.org/resource/Salisbury> a ns1:City ;
+    rdfs:label "Salisbury"@en ;
+    ns1:populationTotal 41820 .
+
+<http://dbpedia.org/resource/Salteras> a ns1:City ;
+    rdfs:label "Salteras"@en .
+
+<http://dbpedia.org/resource/Salvador_(Madrid)> a ns1:City ;
+    rdfs:label "Salvador (Madrid)"@en ;
+    ns1:populationTotal 11516 .
+
+<http://dbpedia.org/resource/Salzburg> a ns1:City ;
+    rdfs:label "Salzburg"@en ;
+    ns1:populationTotal 157245 .
+
+<http://dbpedia.org/resource/San_Benedetto_del_Tronto> a ns1:City ;
+    rdfs:label "San Benedetto del Tronto"@en ;
+    ns1:populationTotal 47560 .
+
+<http://dbpedia.org/resource/San_Biagio_di_Callalta> a ns1:City ;
+    rdfs:label "San Biagio di Callalta"@en ;
+    ns1:populationTotal 12950 .
+
+<http://dbpedia.org/resource/San_Donà_di_Piave> a ns1:City ;
+    rdfs:label "San Donà di Piave"@en ;
+    ns1:populationTotal 41856 .
+
+<http://dbpedia.org/resource/San_Giovanni_Rotondo> a ns1:City ;
+    rdfs:label "San Giovanni Rotondo"@en ;
+    ns1:populationTotal 27124 .
+
+<http://dbpedia.org/resource/San_José_del_Valle> a ns1:City ;
+    rdfs:label "San José del Valle"@en .
+
+<http://dbpedia.org/resource/San_Juan_de_Aznalfarache> a ns1:City ;
+    rdfs:label "San Juan de Aznalfarache"@en .
+
+<http://dbpedia.org/resource/San_Marco_d'Alunzio> a ns1:City ;
+    rdfs:label "San Marco d'Alunzio"@en ;
+    ns1:populationTotal 1828 .
+
+<http://dbpedia.org/resource/San_Sebastián> a ns1:City ;
+    rdfs:label "San Sebastián"@en .
+
+<http://dbpedia.org/resource/San_Sebastián_de_los_Ballesteros> a ns1:City ;
+    rdfs:label "San Sebastián de los Ballesteros"@en .
+
+<http://dbpedia.org/resource/San_Severo> a ns1:City ;
+    rdfs:label "San Severo"@en ;
+    ns1:populationTotal 51919 .
+
+<http://dbpedia.org/resource/Sangüesa> a ns1:City ;
+    rdfs:label "Sangüesa"@en .
+
+<http://dbpedia.org/resource/Sanlúcar_de_Barrameda> a ns1:City ;
+    rdfs:label "Sanlúcar de Barrameda"@en .
+
+<http://dbpedia.org/resource/Sanremo> a ns1:City ;
+    rdfs:label "Sanremo"@en ;
+    ns1:populationTotal 56864 .
+
+<http://dbpedia.org/resource/Sant_Adrià_de_Besòs> a ns1:City ;
+    rdfs:label "Sant Adrià de Besòs"@en .
+
+<http://dbpedia.org/resource/Sant_Feliu_de_Llobregat> a ns1:City ;
+    rdfs:label "Sant Feliu de Llobregat"@en .
+
+<http://dbpedia.org/resource/Sant_Joan_Despí> a ns1:City ;
+    rdfs:label "Sant Joan Despí"@en .
+
+<http://dbpedia.org/resource/Santa_Bárbara_(Toledo)> a ns1:City ;
+    rdfs:label "Santa Bárbara (Toledo)"@en ;
+    ns1:populationTotal 7888 .
+
+<http://dbpedia.org/resource/Santa_Coloma_de_Gramenet> a ns1:City ;
+    rdfs:label "Santa Coloma de Gramenet"@en .
+
+<http://dbpedia.org/resource/Santa_Comba_Dão> a ns1:City ;
+    rdfs:label "Santa Comba Dão"@en .
+
+<http://dbpedia.org/resource/Santa_Cruz_de_La_Palma> a ns1:City ;
+    rdfs:label "Santa Cruz de La Palma"@en .
+
+<http://dbpedia.org/resource/Santa_Cruz_del_Comercio> a ns1:City ;
+    rdfs:label "Santa Cruz del Comercio"@en .
+
+<http://dbpedia.org/resource/Santa_Eugenia_(Madrid)> a ns1:City ;
+    rdfs:label "Santa Eugenia (Madrid)"@en ;
+    ns1:populationTotal 24782 .
+
+<http://dbpedia.org/resource/Santa_Maria_da_Feira> a ns1:City ;
+    rdfs:label "Santa Maria da Feira"@en .
+
+<http://dbpedia.org/resource/Santa_María_de_Benquerencia> a ns1:City ;
+    rdfs:label "Santa María de Benquerencia"@en ;
+    ns1:populationTotal 22110 .
+
+<http://dbpedia.org/resource/Santarém,_Portugal> a ns1:City ;
+    rdfs:label "Santarém, Portugal"@en .
+
+<http://dbpedia.org/resource/Santarém_District> a ns1:City ;
+    rdfs:label "Santarém District"@en ;
+    ns1:populationTotal 475344 .
+
+<http://dbpedia.org/resource/Santiago-Pontones> a ns1:City ;
+    rdfs:label "Santiago-Pontones"@en .
+
+<http://dbpedia.org/resource/Santiago_de_Calatrava> a ns1:City ;
+    rdfs:label "Santiago de Calatrava"@en .
+
+<http://dbpedia.org/resource/Santiago_de_Compostela> a ns1:City ;
+    rdfs:label "Santiago de Compostela"@en ;
+    ns1:populationTotal 97849 .
+
+<http://dbpedia.org/resource/Santiponce> a ns1:City ;
+    rdfs:label "Santiponce"@en .
+
+<http://dbpedia.org/resource/Santisteban_del_Puerto> a ns1:City ;
+    rdfs:label "Santisteban del Puerto"@en .
+
+<http://dbpedia.org/resource/Santo_André_(Santiago_do_Cacém)> a ns1:City ;
+    rdfs:label "Santo André (Santiago do Cacém)"@en .
+
+<http://dbpedia.org/resource/Santo_Tirso> a ns1:City ;
+    rdfs:label "Santo Tirso"@en .
+
+<http://dbpedia.org/resource/Sas_van_Gent> a ns1:City ;
+    rdfs:label "Sas van Gent"@en ;
+    ns1:populationTotal 3780 .
+
+<http://dbpedia.org/resource/Sassari> a ns1:City ;
+    rdfs:label "Sassari"@en ;
+    ns1:populationTotal 127567 .
+
+<http://dbpedia.org/resource/Satu_Mare> a ns1:City ;
+    rdfs:label "Satu Mare"@en ;
+    ns1:populationTotal 102441 .
+
+<http://dbpedia.org/resource/Schagen> a ns1:City ;
+    rdfs:label "Schagen"@en .
+
+<http://dbpedia.org/resource/Schiedam> a ns1:City ;
+    rdfs:label "Schiedam"@en .
+
+<http://dbpedia.org/resource/Schoonhoven> a ns1:City ;
+    rdfs:label "Schoonhoven"@en .
+
+<http://dbpedia.org/resource/Schwaz> a ns1:City ;
+    rdfs:label "Schwaz"@en .
+
+<http://dbpedia.org/resource/Scicli> a ns1:City ;
+    rdfs:label "Scicli"@en ;
+    ns1:populationTotal 27051 .
+
+<http://dbpedia.org/resource/Serpa> a ns1:City ;
+    rdfs:label "Serpa"@en .
+
+<http://dbpedia.org/resource/Serres> a ns1:City ;
+    rdfs:label "Serres"@en .
+
+<http://dbpedia.org/resource/Sestri_Ponente> a ns1:City ;
+    rdfs:label "Sestri Ponente"@en .
+
+<http://dbpedia.org/resource/Setúbal> a ns1:City ;
+    rdfs:label "Setúbal"@en .
+
+<http://dbpedia.org/resource/Setúbal_District> a ns1:City ;
+    rdfs:label "Setúbal District"@en ;
+    ns1:populationTotal 788459 .
+
+<http://dbpedia.org/resource/Sibiu> a ns1:City ;
+    rdfs:label "Sibiu"@en ;
+    ns1:populationTotal 147245 .
+
+<http://dbpedia.org/resource/Siemianowice_Śląskie> a ns1:City ;
+    rdfs:label "Siemianowice Śląskie"@en ;
+    ns1:populationTotal 65684 .
+
+<http://dbpedia.org/resource/Siena> a ns1:City ;
+    rdfs:label "Siena"@en ;
+    ns1:populationTotal 53901 .
+
+<http://dbpedia.org/resource/Sigismund's_Column> a ns1:Monument ;
+    rdfs:label "Sigismund's Column"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Sigüenza> a ns1:City ;
+    rdfs:label "Sigüenza"@en .
+
+<http://dbpedia.org/resource/Simancas_(Madrid)> a ns1:City ;
+    rdfs:label "Simancas (Madrid)"@en ;
+    ns1:populationTotal 28799 .
+
+<http://dbpedia.org/resource/Sineu> a ns1:City ;
+    rdfs:label "Sineu"@en .
+
+<http://dbpedia.org/resource/Sint-Niklaas> a ns1:City ;
+    rdfs:label "Sint-Niklaas"@en .
+
+<http://dbpedia.org/resource/Sint-Truiden> a ns1:City ;
+    rdfs:label "Sint-Truiden"@en .
+
+<http://dbpedia.org/resource/Sint_Anna_ter_Muiden> a ns1:City ;
+    rdfs:label "Sint Anna ter Muiden"@en ;
+    ns1:populationTotal 55 .
+
+<http://dbpedia.org/resource/Sittard> a ns1:City ;
+    rdfs:label "Sittard"@en .
+
+<http://dbpedia.org/resource/Siófok> a ns1:City ;
+    rdfs:label "Siófok"@en ;
+    ns1:populationTotal 25468 .
+
+<http://dbpedia.org/resource/Skellefteå> a ns1:City ;
+    rdfs:label "Skellefteå"@en ;
+    ns1:populationTotal 36395 .
+
+<http://dbpedia.org/resource/Skiathos_(town)> a ns1:City ;
+    rdfs:label "Skiathos (town)"@en .
+
+<http://dbpedia.org/resource/Sleeping_Lion,_Bytom> a ns1:Monument ;
+    rdfs:label "Sleeping Lion, Bytom"@en ;
+    ns1:location <http://dbpedia.org/resource/Bytom> .
+
+<http://dbpedia.org/resource/Sloten,_Friesland> a ns1:City ;
+    rdfs:label "Sloten, Friesland"@en ;
+    ns1:populationTotal 715 .
+
+<http://dbpedia.org/resource/Sneek> a ns1:City ;
+    rdfs:label "Sneek"@en ;
+    ns1:populationTotal 34485 .
+
+<http://dbpedia.org/resource/Sobieszów> a ns1:City ;
+    rdfs:label "Sobieszów"@en .
+
+<http://dbpedia.org/resource/Sobětuchy_(Tuřice)> a ns1:City ;
+    rdfs:label "Sobětuchy (Tuřice)"@en ;
+    ns1:populationTotal 62 .
+
+<http://dbpedia.org/resource/Sochaczew> a ns1:City ;
+    rdfs:label "Sochaczew"@en ;
+    ns1:populationTotal 37306 .
+
+<http://dbpedia.org/resource/Socuéllamos> a ns1:City ;
+    rdfs:label "Socuéllamos"@en .
+
+<http://dbpedia.org/resource/Soho> a ns1:City ;
+    rdfs:label "Soho"@en .
+
+<http://dbpedia.org/resource/Soleto> a ns1:City ;
+    rdfs:label "Soleto"@en ;
+    ns1:populationTotal 5523 .
+
+<http://dbpedia.org/resource/Solna_Municipality> a ns1:City ;
+    rdfs:label "Solna Municipality"@en .
+
+<http://dbpedia.org/resource/Soportújar> a ns1:City ;
+    rdfs:label "Soportújar"@en .
+
+<http://dbpedia.org/resource/Sopot> a ns1:City ;
+    rdfs:label "Sopot"@en ;
+    ns1:populationTotal 35049 .
+
+<http://dbpedia.org/resource/Sopron> a ns1:City ;
+    rdfs:label "Sopron"@en ;
+    ns1:populationTotal 62246 .
+
+<http://dbpedia.org/resource/Sora,_Lazio> a ns1:City ;
+    rdfs:label "Sora, Lazio"@en ;
+    ns1:populationTotal 25799 .
+
+<http://dbpedia.org/resource/Soria> a ns1:City ;
+    rdfs:label "Soria"@en .
+
+<http://dbpedia.org/resource/Southampton> a ns1:City ;
+    rdfs:label "Southampton"@en ;
+    ns1:populationTotal 269781 .
+
+<http://dbpedia.org/resource/Spanbroek> a ns1:City ;
+    rdfs:label "Spanbroek"@en ;
+    ns1:populationTotal 4075 .
+
+<http://dbpedia.org/resource/Spielberg,_Styria> a ns1:City ;
+    rdfs:label "Spielberg, Styria"@en .
+
+<http://dbpedia.org/resource/Spijkenisse> a ns1:City ;
+    rdfs:label "Spijkenisse"@en ;
+    ns1:populationTotal 72500 .
+
+<http://dbpedia.org/resource/Spike_Island,_Bristol> a ns1:City ;
+    rdfs:label "Spike Island, Bristol"@en .
+
+<http://dbpedia.org/resource/Spire_of_Notre-Dame_de_Paris> a ns1:Monument ;
+    rdfs:label "Spire of Notre-Dame de Paris"@en ;
+    ns1:location <http://dbpedia.org/resource/Paris> .
+
+<http://dbpedia.org/resource/Spoleto> a ns1:City ;
+    rdfs:label "Spoleto"@en ;
+    ns1:populationTotal 38283 .
+
+<http://dbpedia.org/resource/St_Albans_City_and_District> a ns1:City ;
+    rdfs:label "St Albans City and District"@en ;
+    ns1:populationTotal 147095 .
+
+<http://dbpedia.org/resource/St_Asaph> a ns1:City ;
+    rdfs:label "St Asaph"@en ;
+    ns1:populationTotal 3355 .
+
+<http://dbpedia.org/resource/St_Davids> a ns1:City ;
+    rdfs:label "St Davids"@en ;
+    ns1:populationTotal 1600 .
+
+<http://dbpedia.org/resource/Stalin_Monument_(The_Hague)> a ns1:Monument ;
+    rdfs:label "Stalin Monument (The Hague)"@en ;
+    ns1:location <http://dbpedia.org/resource/The_Hague> .
+
+<http://dbpedia.org/resource/Stalowa_Wola> a ns1:City ;
+    rdfs:label "Stalowa Wola"@en ;
+    ns1:populationTotal 58545 .
+
+<http://dbpedia.org/resource/Stanley,_Falkland_Islands> a ns1:City ;
+    rdfs:label "Stanley, Falkland Islands"@en ;
+    ns1:populationTotal 2460 .
+
+<http://dbpedia.org/resource/Stargard> a ns1:City ;
+    rdfs:label "Stargard"@en ;
+    ns1:populationTotal 67293 .
+
+<http://dbpedia.org/resource/Statue_of_Ayrton_Senna> a ns1:Monument ;
+    rdfs:label "Statue of Ayrton Senna"@en ;
+    ns1:location <http://dbpedia.org/resource/Wałbrzych> .
+
+<http://dbpedia.org/resource/Statue_of_Emilia_Pardo_Bazán_(Madrid)> a ns1:Monument ;
+    rdfs:label "Statue of Emilia Pardo Bazán (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Statue_of_Erasmus> a ns1:Monument ;
+    rdfs:label "Statue of Erasmus"@en ;
+    ns1:location <http://dbpedia.org/resource/Rotterdam> .
+
+<http://dbpedia.org/resource/Statue_of_Francisco_Franco,_Melilla> a ns1:Monument ;
+    rdfs:label "Statue of Francisco Franco, Melilla"@en ;
+    ns1:location <http://dbpedia.org/resource/Melilla> .
+
+<http://dbpedia.org/resource/Statue_of_Indalecio_Prieto> a ns1:Monument ;
+    rdfs:label "Statue of Indalecio Prieto"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Statue_of_Lázaro_Cárdenas_(Madrid)> a ns1:Monument ;
+    rdfs:label "Statue of Lázaro Cárdenas (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Statue_of_Marcelino_Menéndez_y_Pelayo> a ns1:Monument ;
+    rdfs:label "Statue of Marcelino Menéndez y Pelayo"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Statue_of_Michael_Jackson_(Fulham_F.C.)> a ns1:Monument ;
+    rdfs:label "Statue of Michael Jackson (Fulham F.C.)"@en ;
+    ns1:location <http://dbpedia.org/resource/Manchester> .
+
+<http://dbpedia.org/resource/Statue_of_Velázquez_(Madrid)> a ns1:Monument ;
+    rdfs:label "Statue of Velázquez (Madrid)"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Statue_of_William_III,_Kensington_Palace> a ns1:Monument ;
+    rdfs:label "Statue of William III, Kensington Palace"@en ;
+    ns1:location <http://dbpedia.org/resource/London> .
+
+<http://dbpedia.org/resource/Statue_of_the_Bear_and_the_Strawberry_Tree> a ns1:Monument ;
+    rdfs:label "Statue of the Bear and the Strawberry Tree"@en ;
+    ns1:location <http://dbpedia.org/resource/Madrid> .
+
+<http://dbpedia.org/resource/Staverden> a ns1:City ;
+    rdfs:label "Staverden"@en .
+
+<http://dbpedia.org/resource/Stavoren> a ns1:City ;
+    rdfs:label "Stavoren"@en ;
+    ns1:populationTotal 950 .
+
+<http://dbpedia.org/resource/Steenwijk> a ns1:City ;
+    rdfs:label "Steenwijk"@en ;
+    ns1:populationTotal 17115 .
+
+<http://dbpedia.org/resource/Stefan_Starzyński_Monument> a ns1:Monument ;
+    rdfs:label "Stefan Starzyński Monument"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Steyr> a ns1:City ;
+    rdfs:label "Steyr"@en .
+
+<http://dbpedia.org/resource/Stockholm> a ns1:City ;
+    rdfs:label "Stockholm"@en ;
+    ns1:populationTotal 978770 ;
+    owl:sameAs <http://sws.geonames.org/2673730/> .
+
+<http://dbpedia.org/resource/Stranocum> a ns1:City ;
+    rdfs:label "Stranocum"@en ;
+    ns1:populationTotal 285 .
+
+<http://dbpedia.org/resource/Straßgang> a ns1:City ;
+    rdfs:label "Straßgang"@en ;
+    ns1:populationTotal 13562 .
+
+<http://dbpedia.org/resource/Suceava> a ns1:City ;
+    rdfs:label "Suceava"@en .
+
+<http://dbpedia.org/resource/Sueca,_Valencia> a ns1:City ;
+    rdfs:label "Sueca, Valencia"@en .
+
+<http://dbpedia.org/resource/Sulmona> a ns1:City ;
+    rdfs:label "Sulmona"@en ;
+    ns1:populationTotal 24221 .
+
+<http://dbpedia.org/resource/Susa,_Piedmont> a ns1:City ;
+    rdfs:label "Susa, Piedmont"@en ;
+    ns1:populationTotal 6340 .
+
+<http://dbpedia.org/resource/Susteren> a ns1:City ;
+    rdfs:label "Susteren"@en ;
+    ns1:populationTotal 5965 .
+
+<http://dbpedia.org/resource/Swansea> a ns1:City ;
+    rdfs:label "Swansea"@en .
+
+<http://dbpedia.org/resource/Swansea_Bay_City_Region> a ns1:City ;
+    rdfs:label "Swansea Bay City Region"@en ;
+    ns1:populationTotal 685051 .
+
+<http://dbpedia.org/resource/Syracuse,_Sicily> a ns1:City ;
+    rdfs:label "Syracuse, Sicily"@en ;
+    ns1:populationTotal 121605 .
+
+<http://dbpedia.org/resource/Szamocin> a ns1:City ;
+    rdfs:label "Szamocin"@en ;
+    ns1:populationTotal 4267 .
+
+<http://dbpedia.org/resource/Szczebrzeszyn> a ns1:City ;
+    rdfs:label "Szczebrzeszyn"@en ;
+    ns1:populationTotal 5299 .
+
+<http://dbpedia.org/resource/Szczecinek> a ns1:City ;
+    rdfs:label "Szczecinek"@en ;
+    ns1:populationTotal 40211 .
+
+<http://dbpedia.org/resource/Szeged> a ns1:City ;
+    rdfs:label "Szeged"@en ;
+    ns1:populationTotal 160766 .
+
+<http://dbpedia.org/resource/Szekszárd> a ns1:City ;
+    rdfs:label "Szekszárd"@en ;
+    ns1:populationTotal 33720 .
+
+<http://dbpedia.org/resource/Szentes> a ns1:City ;
+    rdfs:label "Szentes"@en ;
+    ns1:populationTotal 27898 .
+
+<http://dbpedia.org/resource/Szolnok> a ns1:City ;
+    rdfs:label "Szolnok"@en ;
+    ns1:populationTotal 71285 .
+
+<http://dbpedia.org/resource/Szombathely> a ns1:City ;
+    rdfs:label "Szombathely"@en ;
+    ns1:populationTotal 78025 .
+
+<http://dbpedia.org/resource/Szwederowo_district,_Bydgoszcz> a ns1:City ;
+    rdfs:label "Szwederowo district, Bydgoszcz"@en ;
+    ns1:populationTotal 32760 .
+
+<http://dbpedia.org/resource/Székesfehérvár> a ns1:City ;
+    rdfs:label "Székesfehérvár"@en ;
+    ns1:populationTotal 97617 .
+
+<http://dbpedia.org/resource/São_João_da_Madeira> a ns1:City ;
+    rdfs:label "São João da Madeira"@en .
+
+<http://dbpedia.org/resource/Söder,_Malmö> a ns1:City ;
+    rdfs:label "Söder, Malmö"@en ;
+    ns1:populationTotal 56300 .
+
+<http://dbpedia.org/resource/Södertälje> a ns1:City ;
+    rdfs:label "Södertälje"@en ;
+    ns1:populationTotal 72704 .
+
+<http://dbpedia.org/resource/Södra_Innerstaden> a ns1:City ;
+    rdfs:label "Södra Innerstaden"@en ;
+    ns1:populationTotal 34671 .
+
+<http://dbpedia.org/resource/Sękocin_Las> a ns1:City ;
+    rdfs:label "Sękocin Las"@en .
+
+<http://dbpedia.org/resource/Słupsk> a ns1:City ;
+    rdfs:label "Słupsk"@en ;
+    ns1:populationTotal 88835 .
+
+<http://dbpedia.org/resource/Tacoronte> a ns1:City ;
+    rdfs:label "Tacoronte"@en .
+
+<http://dbpedia.org/resource/Tadeusz_Kościuszko_Monument,_Warsaw> a ns1:Monument ;
+    rdfs:label "Tadeusz Kościuszko Monument, Warsaw"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Taranto> a ns1:City ;
+    rdfs:label "Taranto"@en ;
+    ns1:populationTotal 198585 .
+
+<http://dbpedia.org/resource/Tarnobrzeg> a ns1:City ;
+    rdfs:label "Tarnobrzeg"@en ;
+    ns1:populationTotal 47387 .
+
+<http://dbpedia.org/resource/Tarnów> a ns1:City ;
+    rdfs:label "Tarnów"@en ;
+    ns1:populationTotal 105922 .
+
+<http://dbpedia.org/resource/Tarquinia> a ns1:City ;
+    rdfs:label "Tarquinia"@en ;
+    ns1:populationTotal 16428 .
+
+<http://dbpedia.org/resource/Tarragona> a ns1:City ;
+    rdfs:label "Tarragona"@en .
+
+<http://dbpedia.org/resource/Tatabánya> a ns1:City ;
+    rdfs:label "Tatabánya"@en ;
+    ns1:populationTotal 65849 .
+
+<http://dbpedia.org/resource/Tavira> a ns1:City ;
+    rdfs:label "Tavira"@en .
+
+<http://dbpedia.org/resource/Telde> a ns1:City ;
+    rdfs:label "Telde"@en .
+
+<http://dbpedia.org/resource/Telephones_Company_Building> a ns1:Monument ;
+    rdfs:label "Telephones Company Building"@en ;
+    ns1:location <http://dbpedia.org/resource/Bucharest> .
+
+<http://dbpedia.org/resource/Tenea> a ns1:City ;
+    rdfs:label "Tenea"@en .
+
+<http://dbpedia.org/resource/Teramo> a ns1:City ;
+    rdfs:label "Teramo"@en ;
+    ns1:populationTotal 54338 .
+
+<http://dbpedia.org/resource/Terborg> a ns1:City ;
+    rdfs:label "Terborg"@en ;
+    ns1:populationTotal 4690 .
+
+<http://dbpedia.org/resource/Terneuzen> a ns1:City ;
+    rdfs:label "Terneuzen"@en .
+
+<http://dbpedia.org/resource/Terni> a ns1:City ;
+    rdfs:label "Terni"@en ;
+    ns1:populationTotal 111189 .
+
+<http://dbpedia.org/resource/Terrassa> a ns1:City ;
+    rdfs:label "Terrassa"@en .
+
+<http://dbpedia.org/resource/Teteringen> a ns1:City ;
+    rdfs:label "Teteringen"@en .
+
+<http://dbpedia.org/resource/Tetuán_(Madrid)> a ns1:City ;
+    rdfs:label "Tetuán (Madrid)"@en .
+
+<http://dbpedia.org/resource/The_Glade_of_Light> a ns1:Monument ;
+    rdfs:label "The Glade of Light"@en ;
+    ns1:location <http://dbpedia.org/resource/Manchester> .
+
+<http://dbpedia.org/resource/Thebes,_Greece> a ns1:City ;
+    rdfs:label "Thebes, Greece"@en .
+
+<http://dbpedia.org/resource/Thessaloniki> a ns1:City ;
+    rdfs:label "Thessaloniki"@en ;
+    ns1:populationTotal 317778 .
+
+<http://dbpedia.org/resource/Thiene> a ns1:City ;
+    rdfs:label "Thiene"@en ;
+    ns1:populationTotal 23927 .
+
+<http://dbpedia.org/resource/Thornton,_Lancashire> a ns1:City ;
+    rdfs:label "Thornton, Lancashire"@en .
+
+<http://dbpedia.org/resource/Tidaholm> a ns1:City ;
+    rdfs:label "Tidaholm"@en ;
+    ns1:populationTotal 12790 .
+
+<http://dbpedia.org/resource/Tienen> a ns1:City ;
+    rdfs:label "Tienen"@en .
+
+<http://dbpedia.org/resource/Tocina> a ns1:City ;
+    rdfs:label "Tocina"@en .
+
+<http://dbpedia.org/resource/Tomar> a ns1:City ;
+    rdfs:label "Tomar"@en .
+
+<http://dbpedia.org/resource/Tomb_of_Caecilia_Metella> a ns1:Monument ;
+    rdfs:label "Tomb of Caecilia Metella"@en ;
+    ns1:location <http://dbpedia.org/resource/Rome> .
+
+<http://dbpedia.org/resource/Tonbridge> a ns1:City ;
+    rdfs:label "Tonbridge"@en ;
+    ns1:populationTotal 41617 .
+
+<http://dbpedia.org/resource/Tongeren> a ns1:City ;
+    rdfs:label "Tongeren"@en .
+
+<http://dbpedia.org/resource/Tongland> a ns1:City ;
+    rdfs:label "Tongland"@en .
+
+<http://dbpedia.org/resource/Tordera> a ns1:City ;
+    rdfs:label "Tordera"@en .
+
+<http://dbpedia.org/resource/Toroni> a ns1:City ;
+    rdfs:label "Toroni"@en .
+
+<http://dbpedia.org/resource/Torre-Cardela> a ns1:City ;
+    rdfs:label "Torre-Cardela"@en .
+
+<http://dbpedia.org/resource/Torre_Annunziata> a ns1:City ;
+    rdfs:label "Torre Annunziata"@en ;
+    ns1:populationTotal 42788 .
+
+<http://dbpedia.org/resource/Torre_del_Greco> a ns1:City ;
+    rdfs:label "Torre del Greco"@en .
+
+<http://dbpedia.org/resource/Torreblascopedro> a ns1:City ;
+    rdfs:label "Torreblascopedro"@en .
+
+<http://dbpedia.org/resource/Torrecampo> a ns1:City ;
+    rdfs:label "Torrecampo"@en .
+
+<http://dbpedia.org/resource/Torredelcampo> a ns1:City ;
+    rdfs:label "Torredelcampo"@en .
+
+<http://dbpedia.org/resource/Torredonjimeno> a ns1:City ;
+    rdfs:label "Torredonjimeno"@en .
+
+<http://dbpedia.org/resource/Torrent,_Valencia> a ns1:City ;
+    rdfs:label "Torrent, Valencia"@en ;
+    ns1:populationTotal 83962 .
+
+<http://dbpedia.org/resource/Torrevieja> a ns1:City ;
+    rdfs:label "Torrevieja"@en .
+
+<http://dbpedia.org/resource/Toruń> a ns1:City ;
+    rdfs:label "Toruń"@en ;
+    ns1:populationTotal 196935 .
+
+<http://dbpedia.org/resource/Toulon> a ns1:City ;
+    rdfs:label "Toulon"@en .
+
+<http://dbpedia.org/resource/Toulouse> a ns1:City ;
+    rdfs:label "Toulouse"@en .
+
+<http://dbpedia.org/resource/Tourcoing> a ns1:City ;
+    rdfs:label "Tourcoing"@en .
+
+<http://dbpedia.org/resource/Tournai> a ns1:City ;
+    rdfs:label "Tournai"@en .
+
+<http://dbpedia.org/resource/Tours> a ns1:City ;
+    rdfs:label "Tours"@en .
+
+<http://dbpedia.org/resource/Tradate> a ns1:City ;
+    rdfs:label "Tradate"@en ;
+    ns1:populationTotal 18768 .
+
+<http://dbpedia.org/resource/Trafalgar_(Madrid)> a ns1:City ;
+    rdfs:label "Trafalgar (Madrid)"@en ;
+    ns1:populationTotal 24748 .
+
+<http://dbpedia.org/resource/Trancoso,_Portugal> a ns1:City ;
+    rdfs:label "Trancoso, Portugal"@en .
+
+<http://dbpedia.org/resource/Trapani> a ns1:City ;
+    rdfs:label "Trapani"@en ;
+    ns1:populationTotal 67531 .
+
+<http://dbpedia.org/resource/Trebujena> a ns1:City ;
+    rdfs:label "Trebujena"@en .
+
+<http://dbpedia.org/resource/Trento> a ns1:City ;
+    rdfs:label "Trento"@en ;
+    ns1:populationTotal 120709 .
+
+<http://dbpedia.org/resource/Treviso> a ns1:City ;
+    rdfs:label "Treviso"@en ;
+    ns1:populationTotal 85760 .
+
+<http://dbpedia.org/resource/Trieben> a ns1:City ;
+    rdfs:label "Trieben"@en .
+
+<http://dbpedia.org/resource/Trieste> a ns1:City ;
+    rdfs:label "Trieste"@en ;
+    ns1:populationTotal 204338 .
+
+<http://dbpedia.org/resource/Trikala> a ns1:City ;
+    rdfs:label "Trikala"@en .
+
+<http://dbpedia.org/resource/Tripoli,_Greece> a ns1:City ;
+    rdfs:label "Tripoli, Greece"@en .
+
+<http://dbpedia.org/resource/Trollhättan> a ns1:City ;
+    rdfs:label "Trollhättan"@en ;
+    ns1:populationTotal 59210 .
+
+<http://dbpedia.org/resource/Troutbeck_Bridge> a ns1:City ;
+    rdfs:label "Troutbeck Bridge"@en .
+
+<http://dbpedia.org/resource/Truro> a ns1:City ;
+    rdfs:label "Truro"@en ;
+    ns1:populationTotal 18766 .
+
+<http://dbpedia.org/resource/Turin> a ns1:City ;
+    rdfs:label "Turin"@en ;
+    ns1:populationTotal 847287 .
+
+<http://dbpedia.org/resource/Tychy> a ns1:City ;
+    rdfs:label "Tychy"@en ;
+    ns1:populationTotal 125781 .
+
+<http://dbpedia.org/resource/Târgu_Mureș> a ns1:City ;
+    rdfs:label "Târgu Mureș"@en ;
+    ns1:populationTotal 134290 .
+
+<http://dbpedia.org/resource/Tęcza_(Warsaw)> a ns1:Monument ;
+    rdfs:label "Tęcza (Warsaw)"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Udine> a ns1:City ;
+    rdfs:label "Udine"@en ;
+    ns1:populationTotal 100170 .
+
+<http://dbpedia.org/resource/Ugíjar> a ns1:City ;
+    rdfs:label "Ugíjar"@en .
+
+<http://dbpedia.org/resource/Umbrete> a ns1:City ;
+    rdfs:label "Umbrete"@en .
+
+<http://dbpedia.org/resource/Urbino> a ns1:City ;
+    rdfs:label "Urbino"@en ;
+    ns1:populationTotal 14786 .
+
+<http://dbpedia.org/resource/Utrecht> a ns1:City ;
+    rdfs:label "Utrecht"@en ;
+    ns1:populationTotal 361742 .
+
+<http://dbpedia.org/resource/Valbom> a ns1:City ;
+    rdfs:label "Valbom"@en .
+
+<http://dbpedia.org/resource/Valdebernardo> a ns1:City ;
+    rdfs:label "Valdebernardo"@en ;
+    ns1:populationTotal 17851 .
+
+<http://dbpedia.org/resource/Valdepeñas_de_Jaén> a ns1:City ;
+    rdfs:label "Valdepeñas de Jaén"@en .
+
+<http://dbpedia.org/resource/Valderrivas> a ns1:City ;
+    rdfs:label "Valderrivas"@en ;
+    ns1:populationTotal 18175 .
+
+<http://dbpedia.org/resource/Vale_de_Cambra> a ns1:City ;
+    rdfs:label "Vale de Cambra"@en .
+
+<http://dbpedia.org/resource/Valencina_de_la_Concepción> a ns1:City ;
+    rdfs:label "Valencina de la Concepción"@en .
+
+<http://dbpedia.org/resource/Valle_del_Zalabí> a ns1:City ;
+    rdfs:label "Valle del Zalabí"@en .
+
+<http://dbpedia.org/resource/Vallehermoso_(Madrid)> a ns1:City ;
+    rdfs:label "Vallehermoso (Madrid)"@en ;
+    ns1:populationTotal 20480 .
+
+<http://dbpedia.org/resource/Valverde_(Madrid)> a ns1:City ;
+    rdfs:label "Valverde (Madrid)"@en ;
+    ns1:populationTotal 65022 .
+
+<http://dbpedia.org/resource/Varbóc> a ns1:City ;
+    rdfs:label "Varbóc"@en .
+
+<http://dbpedia.org/resource/Varese> a ns1:City ;
+    rdfs:label "Varese"@en ;
+    ns1:populationTotal 80588 .
+
+<http://dbpedia.org/resource/Venice> a ns1:City ;
+    rdfs:label "Venice"@en ;
+    ns1:populationTotal 258685 .
+
+<http://dbpedia.org/resource/Venlo> a ns1:City ;
+    rdfs:label "Venlo"@en .
+
+<http://dbpedia.org/resource/Ventas_(Madrid)> a ns1:City ;
+    rdfs:label "Ventas (Madrid)"@en ;
+    ns1:populationTotal 49198 .
+
+<http://dbpedia.org/resource/Ventimiglia> a ns1:City ;
+    rdfs:label "Ventimiglia"@en ;
+    ns1:populationTotal 24120 .
+
+<http://dbpedia.org/resource/Vercelli> a ns1:City ;
+    rdfs:label "Vercelli"@en ;
+    ns1:populationTotal 45875 .
+
+<http://dbpedia.org/resource/Verdun> a ns1:City ;
+    rdfs:label "Verdun"@en .
+
+<http://dbpedia.org/resource/Veria> a ns1:City ;
+    rdfs:label "Veria"@en .
+
+<http://dbpedia.org/resource/Verona> a ns1:City ;
+    rdfs:label "Verona"@en ;
+    ns1:populationTotal 258031 .
+
+<http://dbpedia.org/resource/Verviers> a ns1:City ;
+    rdfs:label "Verviers"@en .
+
+<http://dbpedia.org/resource/Verín> a ns1:City ;
+    rdfs:label "Verín"@en .
+
+<http://dbpedia.org/resource/Vesec> a ns1:City ;
+    rdfs:label "Vesec"@en ;
+    ns1:populationTotal 4090 .
+
+<http://dbpedia.org/resource/Veszprém> a ns1:City ;
+    rdfs:label "Veszprém"@en ;
+    ns1:populationTotal 56927 .
+
+<http://dbpedia.org/resource/Veurne> a ns1:City ;
+    rdfs:label "Veurne"@en .
+
+<http://dbpedia.org/resource/Viana_do_Castelo> a ns1:City ;
+    rdfs:label "Viana do Castelo"@en .
+
+<http://dbpedia.org/resource/Vianen> a ns1:City ;
+    rdfs:label "Vianen"@en ;
+    ns1:populationTotal 20423 .
+
+<http://dbpedia.org/resource/Viareggio> a ns1:City ;
+    rdfs:label "Viareggio"@en ;
+    ns1:populationTotal 62169 .
+
+<http://dbpedia.org/resource/Vibo_Valentia> a ns1:City ;
+    rdfs:label "Vibo Valentia"@en ;
+    ns1:populationTotal 33819 .
+
+<http://dbpedia.org/resource/Vicenza> a ns1:City ;
+    rdfs:label "Vicenza"@en ;
+    ns1:populationTotal 111980 .
+
+<http://dbpedia.org/resource/Vichy> a ns1:City ;
+    rdfs:label "Vichy"@en .
+
+<http://dbpedia.org/resource/Vigo> a ns1:City ;
+    rdfs:label "Vigo"@en .
+
+<http://dbpedia.org/resource/Vila_Nova_de_Foz_Côa> a ns1:City ;
+    rdfs:label "Vila Nova de Foz Côa"@en .
+
+<http://dbpedia.org/resource/Vila_Nova_de_Gaia> a ns1:City ;
+    rdfs:label "Vila Nova de Gaia"@en .
+
+<http://dbpedia.org/resource/Vila_Real_de_Santo_António> a ns1:City ;
+    rdfs:label "Vila Real de Santo António"@en .
+
+<http://dbpedia.org/resource/Vilanova_i_la_Geltrú> a ns1:City ;
+    rdfs:label "Vilanova i la Geltrú"@en .
+
+<http://dbpedia.org/resource/Villa_del_Río> a ns1:City ;
+    rdfs:label "Villa del Río"@en .
+
+<http://dbpedia.org/resource/Villach> a ns1:City ;
+    rdfs:label "Villach"@en .
+
+<http://dbpedia.org/resource/Villafranca_de_Córdoba> a ns1:City ;
+    rdfs:label "Villafranca de Córdoba"@en .
+
+<http://dbpedia.org/resource/Villaharta> a ns1:City ;
+    rdfs:label "Villaharta"@en .
+
+<http://dbpedia.org/resource/Villamanrique_de_la_Condesa> a ns1:City ;
+    rdfs:label "Villamanrique de la Condesa"@en .
+
+<http://dbpedia.org/resource/Villamartin> a ns1:City ;
+    rdfs:label "Villamartin"@en .
+
+<http://dbpedia.org/resource/Villamena> a ns1:City ;
+    rdfs:label "Villamena"@en .
+
+<http://dbpedia.org/resource/Villanueva_de_Córdoba> a ns1:City ;
+    rdfs:label "Villanueva de Córdoba"@en .
+
+<http://dbpedia.org/resource/Villanueva_de_San_Juan> a ns1:City ;
+    rdfs:label "Villanueva de San Juan"@en .
+
+<http://dbpedia.org/resource/Villanueva_de_la_Reina> a ns1:City ;
+    rdfs:label "Villanueva de la Reina"@en .
+
+<http://dbpedia.org/resource/Villanueva_de_las_Torres> a ns1:City ;
+    rdfs:label "Villanueva de las Torres"@en .
+
+<http://dbpedia.org/resource/Villanueva_del_Ariscal> a ns1:City ;
+    rdfs:label "Villanueva del Ariscal"@en .
+
+<http://dbpedia.org/resource/Villanueva_del_Arzobispo> a ns1:City ;
+    rdfs:label "Villanueva del Arzobispo"@en .
+
+<http://dbpedia.org/resource/Villanueva_del_Rey> a ns1:City ;
+    rdfs:label "Villanueva del Rey"@en .
+
+<http://dbpedia.org/resource/Villanueva_del_Río_y_Minas> a ns1:City ;
+    rdfs:label "Villanueva del Río y Minas"@en .
+
+<http://dbpedia.org/resource/Villaralto> a ns1:City ;
+    rdfs:label "Villaralto"@en .
+
+<http://dbpedia.org/resource/Villardompardo> a ns1:City ;
+    rdfs:label "Villardompardo"@en .
+
+<http://dbpedia.org/resource/Villarreal> a ns1:City ;
+    rdfs:label "Villarreal"@en .
+
+<http://dbpedia.org/resource/Villarrobledo> a ns1:City ;
+    rdfs:label "Villarrobledo"@en .
+
+<http://dbpedia.org/resource/Villarrodrigo> a ns1:City ;
+    rdfs:label "Villarrodrigo"@en .
+
+<http://dbpedia.org/resource/Villaverde_del_Río> a ns1:City ;
+    rdfs:label "Villaverde del Río"@en .
+
+<http://dbpedia.org/resource/Villaviciosa_de_Córdoba> a ns1:City ;
+    rdfs:label "Villaviciosa de Córdoba"@en .
+
+<http://dbpedia.org/resource/Villena> a ns1:City ;
+    rdfs:label "Villena"@en .
+
+<http://dbpedia.org/resource/Vimercate> a ns1:City ;
+    rdfs:label "Vimercate"@en ;
+    ns1:populationTotal 26156 .
+
+<http://dbpedia.org/resource/Vimmerby> a ns1:City ;
+    rdfs:label "Vimmerby"@en ;
+    ns1:populationTotal 10934 .
+
+<http://dbpedia.org/resource/Vinateros> a ns1:City ;
+    rdfs:label "Vinateros"@en ;
+    ns1:populationTotal 17225 .
+
+<http://dbpedia.org/resource/Virgin_Mary_Monument,_Timișoara> a ns1:Monument ;
+    rdfs:label "Virgin Mary Monument, Timișoara"@en ;
+    ns1:location <http://dbpedia.org/resource/Timișoara> .
+
+<http://dbpedia.org/resource/Viseu> a ns1:City ;
+    rdfs:label "Viseu"@en .
+
+<http://dbpedia.org/resource/Viseu_District> a ns1:City ;
+    rdfs:label "Viseu District"@en ;
+    ns1:populationTotal 394927 .
+
+<http://dbpedia.org/resource/Vista_Alegre_(Madrid)> a ns1:City ;
+    rdfs:label "Vista Alegre (Madrid)"@en ;
+    ns1:populationTotal 47757 .
+
+<http://dbpedia.org/resource/Vitoria-Gasteiz> a ns1:City ;
+    rdfs:label "Vitoria-Gasteiz"@en .
+
+<http://dbpedia.org/resource/Vittorio_Veneto> a ns1:City ;
+    rdfs:label "Vittorio Veneto"@en ;
+    ns1:populationTotal 28232 .
+
+<http://dbpedia.org/resource/Vlaardingen> a ns1:City ;
+    rdfs:label "Vlaardingen"@en .
+
+<http://dbpedia.org/resource/Voitsberg> a ns1:City ;
+    rdfs:label "Voitsberg"@en .
+
+<http://dbpedia.org/resource/Vollenhove> a ns1:City ;
+    rdfs:label "Vollenhove"@en ;
+    ns1:populationTotal 4295 .
+
+<http://dbpedia.org/resource/Volos> a ns1:City ;
+    rdfs:label "Volos"@en .
+
+<http://dbpedia.org/resource/Vreeland> a ns1:City ;
+    rdfs:label "Vreeland"@en ;
+    ns1:populationTotal 1530 .
+
+<http://dbpedia.org/resource/Väster,_Malmö> a ns1:City ;
+    rdfs:label "Väster, Malmö"@en ;
+    ns1:populationTotal 75600 .
+
+<http://dbpedia.org/resource/Västervik> a ns1:City ;
+    rdfs:label "Västervik"@en ;
+    ns1:populationTotal 36747 .
+
+<http://dbpedia.org/resource/Västerås> a ns1:City ;
+    rdfs:label "Västerås"@en ;
+    ns1:populationTotal 127799 .
+
+<http://dbpedia.org/resource/Västra_Innerstaden> a ns1:City ;
+    rdfs:label "Västra Innerstaden"@en ;
+    ns1:populationTotal 33191 .
+
+<http://dbpedia.org/resource/Vélez_de_Benaudalla> a ns1:City ;
+    rdfs:label "Vélez de Benaudalla"@en .
+
+<http://dbpedia.org/resource/Wadowice> a ns1:City ;
+    rdfs:label "Wadowice"@en ;
+    ns1:populationTotal 19149 .
+
+<http://dbpedia.org/resource/Waidhofen_an_der_Ybbs> a ns1:City ;
+    rdfs:label "Waidhofen an der Ybbs"@en .
+
+<http://dbpedia.org/resource/Wakefield> a ns1:City ;
+    rdfs:label "Wakefield"@en ;
+    ns1:populationTotal 99251 .
+
+<http://dbpedia.org/resource/Warsaw_Ghetto_boundary_markers> a ns1:Monument ;
+    rdfs:label "Warsaw Ghetto boundary markers"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Warsaw_Uprising_Monument> a ns1:Monument ;
+    rdfs:label "Warsaw Uprising Monument"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Wavre> a ns1:City ;
+    rdfs:label "Wavre"@en .
+
+<http://dbpedia.org/resource/Wednesbury> a ns1:City ;
+    rdfs:label "Wednesbury"@en ;
+    ns1:populationTotal 37817 .
+
+<http://dbpedia.org/resource/Weesp> a ns1:City ;
+    rdfs:label "Weesp"@en .
+
+<http://dbpedia.org/resource/Wells,_Somerset> a ns1:City ;
+    rdfs:label "Wells, Somerset"@en ;
+    ns1:populationTotal 12000 .
+
+<http://dbpedia.org/resource/Wels> a ns1:City ;
+    rdfs:label "Wels"@en .
+
+<http://dbpedia.org/resource/Wessem> a ns1:City ;
+    rdfs:label "Wessem"@en ;
+    ns1:populationTotal 2030 .
+
+<http://dbpedia.org/resource/Westerplatte_Monument> a ns1:Monument ;
+    rdfs:label "Westerplatte Monument"@en ;
+    ns1:location <http://dbpedia.org/resource/Gdańsk> .
+
+<http://dbpedia.org/resource/Westkapelle,_Netherlands> a ns1:City ;
+    rdfs:label "Westkapelle, Netherlands"@en ;
+    ns1:populationTotal 2632 .
+
+<http://dbpedia.org/resource/Westside,_Gibraltar> a ns1:City ;
+    rdfs:label "Westside, Gibraltar"@en ;
+    ns1:populationTotal 26572 .
+
+<http://dbpedia.org/resource/Wieluń> a ns1:City ;
+    rdfs:label "Wieluń"@en ;
+    ns1:populationTotal 21624 .
+
+<http://dbpedia.org/resource/Wiener_Neustadt> a ns1:City ;
+    rdfs:label "Wiener Neustadt"@en .
+
+<http://dbpedia.org/resource/Wijchen> a ns1:City ;
+    rdfs:label "Wijchen"@en .
+
+<http://dbpedia.org/resource/Willemstad,_North_Brabant> a ns1:City ;
+    rdfs:label "Willemstad, North Brabant"@en ;
+    ns1:populationTotal 2490 .
+
+<http://dbpedia.org/resource/Willy_Brandt_Monument_(Warsaw)> a ns1:Monument ;
+    rdfs:label "Willy Brandt Monument (Warsaw)"@en ;
+    ns1:location <http://dbpedia.org/resource/Warsaw> .
+
+<http://dbpedia.org/resource/Wilsum> a ns1:City ;
+    rdfs:label "Wilsum"@en ;
+    ns1:populationTotal 870 .
+
+<http://dbpedia.org/resource/Winchester> a ns1:City ;
+    rdfs:label "Winchester"@en ;
+    ns1:populationTotal 45184 .
+
+<http://dbpedia.org/resource/Winschoten> a ns1:City ;
+    rdfs:label "Winschoten"@en ;
+    ns1:populationTotal 18518 .
+
+<http://dbpedia.org/resource/Witches'_Well,_Edinburgh> a ns1:Monument ;
+    rdfs:label "Witches' Well, Edinburgh"@en ;
+    ns1:location <http://dbpedia.org/resource/Edinburgh> .
+
+<http://dbpedia.org/resource/Woerden> a ns1:City ;
+    rdfs:label "Woerden"@en .
+
+<http://dbpedia.org/resource/Wolverhampton> a ns1:City ;
+    rdfs:label "Wolverhampton"@en ;
+    ns1:populationTotal 263700 .
+
+<http://dbpedia.org/resource/Woodhouse,_Leicestershire> a ns1:City ;
+    rdfs:label "Woodhouse, Leicestershire"@en ;
+    ns1:populationTotal 2319 .
+
+<http://dbpedia.org/resource/Worcester,_England> a ns1:City ;
+    rdfs:label "Worcester, England"@en ;
+    ns1:populationTotal 103872 .
+
+<http://dbpedia.org/resource/Workum> a ns1:City ;
+    rdfs:label "Workum"@en ;
+    ns1:populationTotal 4435 .
+
+<http://dbpedia.org/resource/Woudrichem> a ns1:City ;
+    rdfs:label "Woudrichem"@en ;
+    ns1:populationTotal 5 .
+
+<http://dbpedia.org/resource/Wrexham_County_Borough> a ns1:City ;
+    rdfs:label "Wrexham County Borough"@en .
+
+<http://dbpedia.org/resource/Xanthi> a ns1:City ;
+    rdfs:label "Xanthi"@en .
+
+<http://dbpedia.org/resource/Ybbs_an_der_Donau> a ns1:City ;
+    rdfs:label "Ybbs an der Donau"@en .
+
+<http://dbpedia.org/resource/York_and_Lancaster_Memorial,_Sheffield> a ns1:Monument ;
+    rdfs:label "York and Lancaster Memorial, Sheffield"@en ;
+    ns1:location <http://dbpedia.org/resource/Sheffield> .
+
+<http://dbpedia.org/resource/Yvoire> a ns1:City ;
+    rdfs:label "Yvoire"@en .
+
+<http://dbpedia.org/resource/Zaandam> a ns1:City ;
+    rdfs:label "Zaandam"@en ;
+    ns1:populationTotal 76804 .
+
+<http://dbpedia.org/resource/Zabrze> a ns1:City ;
+    rdfs:label "Zabrze"@en ;
+    ns1:populationTotal 168946 .
+
+<http://dbpedia.org/resource/Zagra,_Granada> a ns1:City ;
+    rdfs:label "Zagra, Granada"@en .
+
+<http://dbpedia.org/resource/Zakynthos_(city)> a ns1:City ;
+    rdfs:label "Zakynthos (city)"@en .
+
+<http://dbpedia.org/resource/Zalaegerszeg> a ns1:City ;
+    rdfs:label "Zalaegerszeg"@en ;
+    ns1:populationTotal 61970 .
+
+<http://dbpedia.org/resource/Zamość> a ns1:City ;
+    rdfs:label "Zamość"@en ;
+    ns1:populationTotal 62021 .
+
+<http://dbpedia.org/resource/Zawiercie> a ns1:City ;
+    rdfs:label "Zawiercie"@en ;
+    ns1:populationTotal 49334 .
+
+<http://dbpedia.org/resource/Zduny> a ns1:City ;
+    rdfs:label "Zduny"@en ;
+    ns1:populationTotal 4551 .
+
+<http://dbpedia.org/resource/Zeltweg> a ns1:City ;
+    rdfs:label "Zeltweg"@en .
+
+<http://dbpedia.org/resource/Zevenaar> a ns1:City ;
+    rdfs:label "Zevenaar"@en .
+
+<http://dbpedia.org/resource/Zevenbergen> a ns1:City ;
+    rdfs:label "Zevenbergen"@en ;
+    ns1:populationTotal 14530 .
+
+<http://dbpedia.org/resource/Zeńbok> a ns1:City ;
+    rdfs:label "Zeńbok"@en .
+
+<http://dbpedia.org/resource/Zierikzee> a ns1:City ;
+    rdfs:label "Zierikzee"@en ;
+    ns1:populationTotal 11460 .
+
+<http://dbpedia.org/resource/Zoetermeer> a ns1:City ;
+    rdfs:label "Zoetermeer"@en .
+
+<http://dbpedia.org/resource/Zutphen> a ns1:City ;
+    rdfs:label "Zutphen"@en .
+
+<http://dbpedia.org/resource/Zwartsluis> a ns1:City ;
+    rdfs:label "Zwartsluis"@en ;
+    ns1:populationTotal 4890 .
+
+<http://dbpedia.org/resource/Zwolle> a ns1:City ;
+    rdfs:label "Zwolle"@en .
+
+<http://dbpedia.org/resource/Złocieniec> a ns1:City ;
+    rdfs:label "Złocieniec"@en ;
+    ns1:populationTotal 13377 .
+
+<http://dbpedia.org/resource/Águeda> a ns1:City ;
+    rdfs:label "Águeda"@en .
+
+<http://dbpedia.org/resource/Érd> a ns1:City ;
+    rdfs:label "Érd"@en ;
+    ns1:populationTotal 69431 .
+
+<http://dbpedia.org/resource/Évora> a ns1:City ;
+    rdfs:label "Évora"@en .
+
+<http://dbpedia.org/resource/Örebro> a ns1:City ;
+    rdfs:label "Örebro"@en ;
+    ns1:populationTotal 155989 .
+
+<http://dbpedia.org/resource/Öster,_Malmö> a ns1:City ;
+    rdfs:label "Öster, Malmö"@en ;
+    ns1:populationTotal 44300 .
+
+<http://dbpedia.org/resource/Östersund> a ns1:City ;
+    rdfs:label "Östersund"@en ;
+    ns1:populationTotal 49806 .
+
+<http://dbpedia.org/resource/Łomża> a ns1:City ;
+    rdfs:label "Łomża"@en ;
+    ns1:populationTotal 62019 .
+
+<http://dbpedia.org/resource/Łuków> a ns1:City ;
+    rdfs:label "Łuków"@en ;
+    ns1:populationTotal 30564 .
+
+<http://dbpedia.org/resource/Łódź> a ns1:City ;
+    rdfs:label "Łódź"@en ;
+    ns1:populationTotal 670642 .
+
+<http://dbpedia.org/resource/Śródmieście,_Wrocław> a ns1:City ;
+    rdfs:label "Śródmieście, Wrocław"@en ;
+    ns1:populationTotal 117492 .
+
+<http://dbpedia.org/resource/Świdnica> a ns1:City ;
+    rdfs:label "Świdnica"@en ;
+    ns1:populationTotal 55413 .
+
+<http://dbpedia.org/resource/Świdnik> a ns1:City ;
+    rdfs:label "Świdnik"@en ;
+    ns1:populationTotal 40040 .
+
+<http://dbpedia.org/resource/Świnoujście> a ns1:City ;
+    rdfs:label "Świnoujście"@en ;
+    ns1:populationTotal 41516 .
+
+<http://dbpedia.org/resource/Świętochłowice> a ns1:City ;
+    rdfs:label "Świętochłowice"@en ;
+    ns1:populationTotal 49762 .
+
+<http://dbpedia.org/resource/Żytniów> a ns1:City ;
+    rdfs:label "Żytniów"@en ;
+    ns1:populationTotal 963 .
+
+<http://sws.geonames.org/146669/> a ns2:Country ;
+    rdfs:label "Cyprus"@en ;
+    ns2:areaInSqKm 9.25e+03 ;
+    ns2:capital <http://sws.geonames.org/146268/> ;
+    ns2:countryCode "CY" ;
+    ns2:population 1189265 .
+
+<http://sws.geonames.org/2264397/> a ns2:Country ;
+    rdfs:label "Portugal"@en ;
+    ns2:areaInSqKm 9.2391e+04 ;
+    ns2:capital <http://sws.geonames.org/2267057/> ;
+    ns2:countryCode "PT" ;
+    ns2:population 10281762 .
+
+<http://sws.geonames.org/2510769/> a ns2:Country ;
+    rdfs:label "Spain"@en ;
+    ns2:areaInSqKm 5.04782e+05 ;
+    ns2:capital <http://sws.geonames.org/3117735/> ;
+    ns2:countryCode "ES" ;
+    ns2:population 46723749 .
+
+<http://sws.geonames.org/2562770/> a ns2:Country ;
+    rdfs:label "Malta"@en ;
+    ns2:areaInSqKm 3.16e+02 ;
+    ns2:capital <http://sws.geonames.org/2562305/> ;
+    ns2:countryCode "MT" ;
+    ns2:population 483530 .
+
+<http://sws.geonames.org/2623032/> a ns2:Country ;
+    rdfs:label "Denmark"@en ;
+    ns2:areaInSqKm 4.3094e+04 ;
+    ns2:capital <http://sws.geonames.org/2618425/> ;
+    ns2:countryCode "DK" ;
+    ns2:population 5797446 .
+
+<http://sws.geonames.org/2629691/> a ns2:Country ;
+    rdfs:label "Iceland"@en ;
+    ns2:areaInSqKm 1.03e+05 ;
+    ns2:capital <http://sws.geonames.org/3413829/> ;
+    ns2:countryCode "IS" ;
+    ns2:population 353574 .
+
+<http://sws.geonames.org/2635167/> a ns2:Country ;
+    rdfs:label "United Kingdom"@en ;
+    ns2:areaInSqKm 2.4482e+05 ;
+    ns2:capital <http://sws.geonames.org/2643743/> ;
+    ns2:countryCode "GB" ;
+    ns2:population 66488991 .
+
+<http://sws.geonames.org/2658434/> a ns2:Country ;
+    rdfs:label "Switzerland"@en ;
+    ns2:areaInSqKm 4.129e+04 ;
+    ns2:capital <http://sws.geonames.org/2661552/> ;
+    ns2:countryCode "CH" ;
+    ns2:population 8516543 .
+
+<http://sws.geonames.org/2661886/> a ns2:Country ;
+    rdfs:label "Sweden"@en ;
+    ns2:areaInSqKm 4.49964e+05 ;
+    ns2:capital <http://sws.geonames.org/2673730/> ;
+    ns2:countryCode "SE" ;
+    ns2:population 10183175 .
+
+<http://sws.geonames.org/2750405/> a ns2:Country ;
+    rdfs:label "The Netherlands"@en ;
+    ns2:areaInSqKm 4.1526e+04 ;
+    ns2:capital <http://sws.geonames.org/2759794/> ;
+    ns2:countryCode "NL" ;
+    ns2:population 17231017 .
+
+<http://sws.geonames.org/2782113/> a ns2:Country ;
+    rdfs:label "Austria"@en ;
+    ns2:areaInSqKm 8.3858e+04 ;
+    ns2:capital <http://sws.geonames.org/2761369/> ;
+    ns2:countryCode "AT" ;
+    ns2:population 8847037 .
+
+<http://sws.geonames.org/2802361/> a ns2:Country ;
+    rdfs:label "Belgium"@en ;
+    ns2:areaInSqKm 3.051e+04 ;
+    ns2:capital <http://sws.geonames.org/2800866/> ;
+    ns2:countryCode "BE" ;
+    ns2:population 11422068 .
+
+<http://sws.geonames.org/2921044/> a ns2:Country ;
+    rdfs:label "Germany"@en ;
+    ns2:areaInSqKm 3.57021e+05 ;
+    ns2:capital <http://sws.geonames.org/2950159/> ;
+    ns2:countryCode "DE" ;
+    ns2:population 82927922 .
+
+<http://sws.geonames.org/2960313/> a ns2:Country ;
+    rdfs:label "Luxembourg"@en ;
+    ns2:areaInSqKm 2.586e+03 ;
+    ns2:capital <http://sws.geonames.org/2960316/> ;
+    ns2:countryCode "LU" ;
+    ns2:population 607728 .
+
+<http://sws.geonames.org/2963597/> a ns2:Country ;
+    rdfs:label "Ireland"@en ;
+    ns2:areaInSqKm 7.028e+04 ;
+    ns2:capital <http://sws.geonames.org/2964574/> ;
+    ns2:countryCode "IE" ;
+    ns2:population 4853506 .
+
+<http://sws.geonames.org/3017382/> a ns2:Country ;
+    rdfs:label "France"@en ;
+    ns2:areaInSqKm 5.4703e+05 ;
+    ns2:capital <http://sws.geonames.org/2988507/> ;
+    ns2:countryCode "FR" ;
+    ns2:population 66987244 .
+
+<http://sws.geonames.org/3057568/> a ns2:Country ;
+    rdfs:label "Slovakia"@en ;
+    ns2:areaInSqKm 4.8845e+04 ;
+    ns2:capital <http://sws.geonames.org/3060972/> ;
+    ns2:countryCode "SK" ;
+    ns2:population 5447011 .
+
+<http://sws.geonames.org/3077311/> a ns2:Country ;
+    rdfs:label "Czechia"@en ;
+    ns2:areaInSqKm 7.8866e+04 ;
+    ns2:capital <http://sws.geonames.org/3067696/> ;
+    ns2:countryCode "CZ" ;
+    ns2:population 10625695 .
+
+<http://sws.geonames.org/3144096/> a ns2:Country ;
+    rdfs:label "Norway"@en ;
+    ns2:areaInSqKm 3.2422e+05 ;
+    ns2:capital <http://sws.geonames.org/3143244/> ;
+    ns2:countryCode "NO" ;
+    ns2:population 5314336 .
+
+<http://sws.geonames.org/3175395/> a ns2:Country ;
+    rdfs:label "Italy"@en ;
+    ns2:areaInSqKm 3.0123e+05 ;
+    ns2:capital <http://sws.geonames.org/3169070/> ;
+    ns2:countryCode "IT" ;
+    ns2:population 60431283 .
+
+<http://sws.geonames.org/3190538/> a ns2:Country ;
+    rdfs:label "Slovenia"@en ;
+    ns2:areaInSqKm 2.0273e+04 ;
+    ns2:capital <http://sws.geonames.org/3196359/> ;
+    ns2:countryCode "SI" ;
+    ns2:population 2067372 .
+
+<http://sws.geonames.org/3202326/> a ns2:Country ;
+    rdfs:label "Croatia"@en ;
+    ns2:areaInSqKm 5.6542e+04 ;
+    ns2:capital <http://sws.geonames.org/3186886/> ;
+    ns2:countryCode "HR" ;
+    ns2:population 3871833 .
+
+<http://sws.geonames.org/390903/> a ns2:Country ;
+    rdfs:label "Greece"@en ;
+    ns2:areaInSqKm 1.3194e+05 ;
+    ns2:capital <http://sws.geonames.org/264371/> ;
+    ns2:countryCode "GR" ;
+    ns2:population 10727668 .
+
+<http://sws.geonames.org/453733/> a ns2:Country ;
+    rdfs:label "Estonia"@en ;
+    ns2:areaInSqKm 4.5226e+04 ;
+    ns2:capital <http://sws.geonames.org/588409/> ;
+    ns2:countryCode "EE" ;
+    ns2:population 1320884 .
+
+<http://sws.geonames.org/458258/> a ns2:Country ;
+    rdfs:label "Latvia"@en ;
+    ns2:areaInSqKm 6.4589e+04 ;
+    ns2:capital <http://sws.geonames.org/456172/> ;
+    ns2:countryCode "LV" ;
+    ns2:population 1926542 .
+
+<http://sws.geonames.org/597427/> a ns2:Country ;
+    rdfs:label "Lithuania"@en ;
+    ns2:areaInSqKm 6.52e+04 ;
+    ns2:capital <http://sws.geonames.org/593116/> ;
+    ns2:countryCode "LT" ;
+    ns2:population 2789533 .
+
+<http://sws.geonames.org/660013/> a ns2:Country ;
+    rdfs:label "Finland"@en ;
+    ns2:areaInSqKm 3.3703e+05 ;
+    ns2:capital <http://sws.geonames.org/658225/> ;
+    ns2:countryCode "FI" ;
+    ns2:population 5518050 .
+
+<http://sws.geonames.org/719819/> a ns2:Country ;
+    rdfs:label "Hungary"@en ;
+    ns2:areaInSqKm 9.303e+04 ;
+    ns2:capital <http://sws.geonames.org/3054643/> ;
+    ns2:countryCode "HU" ;
+    ns2:population 9768785 .
+
+<http://sws.geonames.org/732800/> a ns2:Country ;
+    rdfs:label "Bulgaria"@en ;
+    ns2:areaInSqKm 1.1091e+05 ;
+    ns2:capital <http://sws.geonames.org/727011/> ;
+    ns2:countryCode "BG" ;
+    ns2:population 7000039 .
+
+<http://sws.geonames.org/798544/> a ns2:Country ;
+    rdfs:label "Poland"@en ;
+    ns2:areaInSqKm 3.12685e+05 ;
+    ns2:capital <http://sws.geonames.org/756135/> ;
+    ns2:countryCode "PL" ;
+    ns2:population 37978548 .
+
+<http://sws.geonames.org/798549/> a ns2:Country ;
+    rdfs:label "Romania"@en ;
+    ns2:areaInSqKm 2.375e+05 ;
+    ns2:capital <http://sws.geonames.org/683506/> ;
+    ns2:countryCode "RO" ;
+    ns2:population 19473936 .
+
+<http://www.bd-knowledge-graph.com/ontology#capitalOf> a owl:ObjectProperty ;
+    rdfs:domain <http://www.bd-knowledge-graph.com/ontology#City> ;
+    rdfs:range <http://www.bd-knowledge-graph.com/ontology#Country> ;
+    rdfs:subPropertyOf <http://www.bd-knowledge-graph.com/ontology#locatedIn> .
+
+<http://www.bd-knowledge-graph.com/ontology#hasMonument> a owl:ObjectProperty ;
+    rdfs:domain <http://www.bd-knowledge-graph.com/ontology#City> ;
+    rdfs:range <http://www.bd-knowledge-graph.com/ontology#Monument> .
+
+<http://www.bd-knowledge-graph.com/ontology#population> a owl:DatatypeProperty ;
+    rdfs:domain <http://www.bd-knowledge-graph.com/ontology#Location> ;
+    rdfs:range xsd:integer .
+
+<http://dbpedia.org/resource/Barcelona> a ns1:City ;
+    rdfs:label "Barcelona"@en .
+
+<http://dbpedia.org/resource/Białystok> a ns1:City ;
+    rdfs:label "Białystok"@en ;
+    ns1:populationTotal 295683 .
+
+<http://dbpedia.org/resource/Budapest> a ns1:City ;
+    rdfs:label "Budapest"@en ;
+    ns1:populationTotal 1752286 ;
+    owl:sameAs <http://sws.geonames.org/3054643/> .
+
+<http://dbpedia.org/resource/Bytom> a ns1:City ;
+    rdfs:label "Bytom"@en ;
+    ns1:populationTotal 161139 .
+
+<http://dbpedia.org/resource/Cartagena,_Spain> a ns1:City ;
+    rdfs:label "Cartagena, Spain"@en .
+
+<http://dbpedia.org/resource/Cluj-Napoca> a ns1:City ;
+    rdfs:label "Cluj-Napoca"@en ;
+    ns1:populationTotal 324576 .
+
+<http://dbpedia.org/resource/Granada> a ns1:City ;
+    rdfs:label "Granada"@en .
+
+<http://dbpedia.org/resource/Huelva> a ns1:City ;
+    rdfs:label "Huelva"@en .
+
+<http://dbpedia.org/resource/Kielce> a ns1:City ;
+    rdfs:label "Kielce"@en ;
+    ns1:populationTotal 192468 .
+
+<http://dbpedia.org/resource/Lille> a ns1:City ;
+    rdfs:label "Lille"@en .
+
+<http://dbpedia.org/resource/Lisbon> a ns1:City ;
+    rdfs:label "Lisbon"@en ;
+    ns1:populationTotal 544851 ;
+    owl:sameAs <http://sws.geonames.org/2267057/> .
+
+<http://dbpedia.org/resource/Louvain-la-Neuve> a ns1:City ;
+    rdfs:label "Louvain-la-Neuve"@en ;
+    ns1:populationTotal 29521 .
+
+<http://dbpedia.org/resource/Melilla> a ns1:City ;
+    rdfs:label "Melilla"@en .
+
+<http://dbpedia.org/resource/Milan> a ns1:City ;
+    rdfs:label "Milan"@en ;
+    ns1:populationTotal 1371498 .
+
+<http://dbpedia.org/resource/Monza> a ns1:City ;
+    rdfs:label "Monza"@en ;
+    ns1:populationTotal 124398 .
+
+<http://dbpedia.org/resource/Murcia> a ns1:City ;
+    rdfs:label "Murcia"@en ;
+    ns1:populationTotal 460349 .
+
+<http://dbpedia.org/resource/Palencia> a ns1:City ;
+    rdfs:label "Palencia"@en .
+
+<http://dbpedia.org/resource/Palma_de_Mallorca> a ns1:City ;
+    rdfs:label "Palma de Mallorca"@en .
+
+<http://dbpedia.org/resource/Pistoia> a ns1:City ;
+    rdfs:label "Pistoia"@en ;
+    ns1:populationTotal 90363 .
+
+<http://dbpedia.org/resource/Płock> a ns1:City ;
+    rdfs:label "Płock"@en ;
+    ns1:populationTotal 116962 .
+
+<http://dbpedia.org/resource/Rennes> a ns1:City ;
+    rdfs:label "Rennes"@en .
+
+<http://dbpedia.org/resource/Roermond> a ns1:City ;
+    rdfs:label "Roermond"@en .
+
+<http://dbpedia.org/resource/Rotterdam> a ns1:City ;
+    rdfs:label "Rotterdam"@en ;
+    ns1:populationTotal 651157 .
+
+<http://dbpedia.org/resource/Salamanca> a ns1:City ;
+    rdfs:label "Salamanca"@en ;
+    ns1:populationTotal 144825 .
+
+<http://dbpedia.org/resource/San_Cristóbal_de_La_Laguna> a ns1:City ;
+    rdfs:label "San Cristóbal de La Laguna"@en .
+
+<http://dbpedia.org/resource/Segovia> a ns1:City ;
+    rdfs:label "Segovia"@en .
+
+<http://dbpedia.org/resource/Talavera_de_la_Reina> a ns1:City ;
+    rdfs:label "Talavera de la Reina"@en .
+
+<http://dbpedia.org/resource/The_Hague> a ns1:City ;
+    rdfs:label "The Hague"@en ;
+    ns1:populationTotal 549163 .
+
+<http://dbpedia.org/resource/Vienna> a ns1:City ;
+    rdfs:label "Vienna"@en ;
+    owl:sameAs <http://sws.geonames.org/2761369/> .
+
+<http://dbpedia.org/resource/Wałbrzych> a ns1:City ;
+    rdfs:label "Wałbrzych"@en ;
+    ns1:populationTotal 108222 .
+
+<http://dbpedia.org/resource/York> a ns1:City ;
+    rdfs:label "York"@en ;
+    ns1:populationTotal 117724 .
+
+<http://dbpedia.org/resource/Zamora,_Spain> a ns1:City ;
+    rdfs:label "Zamora, Spain"@en .
+
+<http://dbpedia.org/resource/Zaragoza> a ns1:City ;
+    rdfs:label "Zaragoza"@en ;
+    ns1:populationTotal 675301 .
+
+<http://dbpedia.org/resource/Zielona_Góra> a ns1:City ;
+    rdfs:label "Zielona Góra"@en ;
+    ns1:populationTotal 140403 .
+
+<http://sws.geonames.org/146268/> a ns2:City ;
+    rdfs:label "Nicosia"@en ;
+    ns2:population 200452 .
+
+<http://sws.geonames.org/2562305/> a ns2:City ;
+    rdfs:label "Valletta"@en ;
+    ns2:population 6794 .
+
+<http://sws.geonames.org/2618425/> a ns2:City ;
+    rdfs:label "Copenhagen"@en ;
+    ns2:population 1153615 .
+
+<http://sws.geonames.org/2661552/> a ns2:City ;
+    rdfs:label "Bern"@en ;
+    ns2:population 121631 .
+
+<http://sws.geonames.org/2800866/> a ns2:City ;
+    rdfs:label "Brussels"@en ;
+    ns2:population 1019022 .
+
+<http://sws.geonames.org/2960316/> a ns2:City ;
+    rdfs:label "Luxembourg"@en ;
+    ns2:population 76684 .
+
+<http://sws.geonames.org/2964574/> a ns2:City ;
+    rdfs:label "Dublin"@en ;
+    ns2:population 1024027 .
+
+<http://sws.geonames.org/3060972/> a ns2:City ;
+    rdfs:label "Bratislava"@en ;
+    ns2:population 423737 .
+
+<http://sws.geonames.org/3067696/> a ns2:City ;
+    rdfs:label "Prague"@en ;
+    ns2:population 1165581 .
+
+<http://sws.geonames.org/3143244/> a ns2:City ;
+    rdfs:label "Oslo"@en ;
+    ns2:population 1082575 .
+
+<http://sws.geonames.org/3186886/> a ns2:City ;
+    rdfs:label "Zagreb"@en ;
+    ns2:population 663592 .
+
+<http://sws.geonames.org/3196359/> a ns2:City ;
+    rdfs:label "Ljubljana"@en ;
+    ns2:population 272220 .
+
+<http://sws.geonames.org/3413829/> a ns2:City ;
+    rdfs:label "Reykjavik"@en ;
+    ns2:population 118918 .
+
+<http://sws.geonames.org/456172/> a ns2:City ;
+    rdfs:label "Riga"@en ;
+    ns2:population 742572 .
+
+<http://sws.geonames.org/588409/> a ns2:City ;
+    rdfs:label "Tallinn"@en ;
+    ns2:population 394024 .
+
+<http://sws.geonames.org/593116/> a ns2:City ;
+    rdfs:label "Vilnius"@en ;
+    ns2:population 542366 .
+
+<http://sws.geonames.org/658225/> a ns2:City ;
+    rdfs:label "Helsinki"@en ;
+    ns2:population 658864 .
+
+<http://sws.geonames.org/727011/> a ns2:City ;
+    rdfs:label "Sofia"@en ;
+    ns2:population 1152556 .
+
+<http://www.bd-knowledge-graph.com/ontology#Monument> a owl:Class .
+
+<http://www.bd-knowledge-graph.com/ontology#locatedIn> a owl:ObjectProperty ;
+    rdfs:domain <http://www.bd-knowledge-graph.com/ontology#Location> ;
+    rdfs:range <http://www.bd-knowledge-graph.com/ontology#Country> .
+
+<http://dbpedia.org/resource/Bayonne> a ns1:City ;
+    rdfs:label "Bayonne"@en .
+
+<http://dbpedia.org/resource/Bydgoszcz> a ns1:City ;
+    rdfs:label "Bydgoszcz"@en ;
+    ns1:populationTotal 339053 .
+
+<http://dbpedia.org/resource/Gdańsk> a ns1:City ;
+    rdfs:label "Gdańsk"@en ;
+    ns1:populationTotal 470621 .
+
+<http://dbpedia.org/resource/Hamburg> a ns1:City ;
+    rdfs:label "Hamburg"@en .
+
+<http://dbpedia.org/resource/Leeds> a ns1:City ;
+    rdfs:label "Leeds"@en ;
+    ns1:populationTotal 516298 .
+
+<http://dbpedia.org/resource/Lublin> a ns1:City ;
+    rdfs:label "Lublin"@en ;
+    ns1:populationTotal 336339 .
+
+<http://dbpedia.org/resource/Santa_Cruz_de_Tenerife> a ns1:City ;
+    rdfs:label "Santa Cruz de Tenerife"@en .
+
+<http://dbpedia.org/resource/Sheffield> a ns1:City ;
+    rdfs:label "Sheffield"@en ;
+    ns1:populationTotal 556500 .
+
+<http://dbpedia.org/resource/Wrocław> a ns1:City ;
+    rdfs:label "Wrocław"@en ;
+    ns1:populationTotal 672929 .
+
+<http://sws.geonames.org/2267057/> a ns2:City ;
+    rdfs:label "Lisbon"@en ;
+    ns2:population 517802 .
+
+<http://sws.geonames.org/264371/> a ns2:City ;
+    rdfs:label "Athens"@en ;
+    ns2:population 664046 .
+
+<http://sws.geonames.org/2643743/> a ns2:City ;
+    rdfs:label "London"@en ;
+    ns2:population 8961989 .
+
+<http://sws.geonames.org/2673730/> a ns2:City ;
+    rdfs:label "Stockholm"@en ;
+    ns2:population 1515017 .
+
+<http://sws.geonames.org/2759794/> a ns2:City ;
+    rdfs:label "Amsterdam"@en ;
+    ns2:population 741636 .
+
+<http://sws.geonames.org/2761369/> a ns2:City ;
+    rdfs:label "Vienna"@en ;
+    ns2:population 1691468 .
+
+<http://sws.geonames.org/2950159/> a ns2:City ;
+    rdfs:label "Berlin"@en ;
+    ns2:population 3426354 .
+
+<http://sws.geonames.org/2988507/> a ns2:City ;
+    rdfs:label "Paris"@en ;
+    ns2:population 2138551 .
+
+<http://sws.geonames.org/3054643/> a ns2:City ;
+    rdfs:label "Budapest"@en ;
+    ns2:population 1741041 .
+
+<http://sws.geonames.org/3117735/> a ns2:City ;
+    rdfs:label "Madrid"@en ;
+    ns2:population 3255944 .
+
+<http://sws.geonames.org/3169070/> a ns2:City ;
+    rdfs:label "Rome"@en ;
+    ns2:population 2318895 .
+
+<http://sws.geonames.org/683506/> a ns2:City ;
+    rdfs:label "Bucharest"@en ;
+    ns2:population 1877155 .
+
+<http://sws.geonames.org/756135/> a ns2:City ;
+    rdfs:label "Warsaw"@en ;
+    ns2:population 1702139 .
+
+<http://www.bd-knowledge-graph.com/ontology#City> a owl:Class ;
+    rdfs:subClassOf <http://www.bd-knowledge-graph.com/ontology#Location> ;
+    owl:equivalentClass ns1:City,
+        ns2:City .
+
+<http://www.bd-knowledge-graph.com/ontology#Country> a owl:Class ;
+    rdfs:subClassOf <http://www.bd-knowledge-graph.com/ontology#Location> ;
+    owl:equivalentClass ns2:Country .
+
+<http://dbpedia.org/resource/Amsterdam> a ns1:City ;
+    rdfs:label "Amsterdam"@en ;
+    ns1:populationTotal 907976 ;
+    owl:sameAs <http://sws.geonames.org/2759794/> .
+
+<http://dbpedia.org/resource/Manchester> a ns1:City ;
+    rdfs:label "Manchester"@en .
+
+<http://dbpedia.org/resource/Szczecin> a ns1:City ;
+    rdfs:label "Szczecin"@en ;
+    ns1:populationTotal 395513 .
+
+<http://dbpedia.org/resource/Valladolid> a ns1:City ;
+    rdfs:label "Valladolid"@en ;
+    ns1:populationTotal 299265 .
+
+<http://dbpedia.org/resource/Bucharest> a ns1:City ;
+    rdfs:label "Bucharest"@en ;
+    ns1:populationTotal 1883425 ;
+    owl:sameAs <http://sws.geonames.org/683506/> .
+
+<http://dbpedia.org/resource/Rome> a ns1:City ;
+    rdfs:label "Rome"@en ;
+    owl:sameAs <http://sws.geonames.org/3169070/> .
+
+<http://dbpedia.org/resource/Timișoara> a ns1:City ;
+    rdfs:label "Timișoara"@en ;
+    ns1:populationTotal 319279 .
+
+<http://www.bd-knowledge-graph.com/ontology#Location> a owl:Class .
+
+<http://dbpedia.org/resource/Edinburgh> a ns1:City ;
+    rdfs:label "Edinburgh"@en .
+
+<http://dbpedia.org/resource/Florence> a ns1:City ;
+    rdfs:label "Florence"@en ;
+    ns1:populationTotal 383083 .
+
+<http://dbpedia.org/resource/Palermo> a ns1:City ;
+    rdfs:label "Palermo"@en ;
+    ns1:populationTotal 676118 .
+
+<http://dbpedia.org/resource/Berlin> a ns1:City ;
+    rdfs:label "Berlin"@en ;
+    ns1:populationTotal 3677472 ;
+    owl:sameAs <http://sws.geonames.org/2950159/> .
+
+<http://dbpedia.org/resource/Paris> a ns1:City ;
+    rdfs:label "Paris"@en ;
+    owl:sameAs <http://sws.geonames.org/2988507/> .
+
+<http://dbpedia.org/resource/London> a ns1:City ;
+    rdfs:label "London"@en ;
+    ns1:populationTotal 8799800 ;
+    owl:sameAs <http://sws.geonames.org/2643743/> .
+
+<http://dbpedia.org/resource/Warsaw> a ns1:City ;
+    rdfs:label "Warsaw"@en ;
+    ns1:populationTotal 1860281 ;
+    owl:sameAs <http://sws.geonames.org/756135/> .
+
+<http://dbpedia.org/resource/Madrid> a ns1:City ;
+    rdfs:label "Madrid"@en ;
+    owl:sameAs <http://sws.geonames.org/3117735/> .
+

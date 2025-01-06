@@ -1,0 +1,13 @@
+PREFIX ns1: <http://www.geonames.org/ontology#>
+PREFIX ns2: <http://dbpedia.org/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+## return le nombre de monument par ville
+SELECT ?cityName (COUNT(?monument) AS ?numberOfMonuments)
+WHERE {
+  ?monument a ns2:Monument ;
+            ns2:location ?city .
+  ?city rdfs:label ?cityName .
+}
+GROUP BY ?cityName

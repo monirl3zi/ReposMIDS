@@ -1,0 +1,13 @@
+PREFIX ns1: <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+## return les villes avec eventuellement leur population
+SELECT ?cityName ?population
+WHERE {
+  ?city a ns1:City ;
+        rdfs:label ?cityName .
+  OPTIONAL {
+    ?city ns1:populationTotal ?population .
+  }
+}
+

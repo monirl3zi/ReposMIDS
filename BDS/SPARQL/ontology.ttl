@@ -1,0 +1,35 @@
+@prefix :  <http://www.bd-knowledge-graph.com/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+
+:Location a owl:Class .
+
+:City a owl:Class ;
+    rdfs:subClassOf :Location ;
+    owl:equivalentClass dbo:City, gn:City .
+
+:Country a owl:Class ;
+    rdfs:subClassOf :Location ;
+    owl:equivalentClass gn:Country .
+
+:Monument a owl:Class .
+
+:locatedIn a owl:ObjectProperty ;
+    rdfs:domain :Location ;
+    rdfs:range :Country .
+
+:capitalOf a owl:ObjectProperty ;
+    rdfs:subPropertyOf :locatedIn ;
+    rdfs:domain :City ;
+    rdfs:range :Country .
+
+:hasMonument a owl:ObjectProperty ;
+    rdfs:domain :City ;
+    rdfs:range :Monument .
+
+:population a owl:DatatypeProperty ;
+    rdfs:domain :Location ;
+    rdfs:range xsd:integer .

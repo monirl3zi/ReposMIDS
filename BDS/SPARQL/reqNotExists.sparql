@@ -1,0 +1,16 @@
+PREFIX ns1: <http://www.geonames.org/ontology#>
+PREFIX ns2: <http://dbpedia.org/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+##return les pays avec une population > 10000000
+SELECT ?countryName ?population
+WHERE {
+  ?country a ns1:Country ;
+           rdfs:label ?countryName ;
+           ns1:population ?population .
+  FILTER NOT EXISTS {
+    ?country ns1:population ?pop .
+    FILTER (?pop < 10000000)
+  }
+}
