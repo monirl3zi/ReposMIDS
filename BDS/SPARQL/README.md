@@ -1,6 +1,5 @@
 # Projet: Knowledge graphs et raisonnement
 
-Récupération de deux jeux de données différents (DBpedia et GeoNames), par un SPARQL endpoint et par API, respectivement, et leur intégration sous forme .ttl / .rdf.
+Retrieval of two different datasets (from DBpedia and GeoNames) via a SPARQL endpoint and an API, respectively, and their integration in .ttl / .rdf format.
 
-Construction d'une ontologie RDFS et raisonnement avec RDFS pour ensuite intérroger la base RDF par des requêtes assez variantes, intégrant des informations provenant des deux jeux de données combinés.
-
+Construction of an RDFS ontology and reasoning with RDFS, followed by querying the RDF database with varied queries that integrate information from the two combined datasets.
